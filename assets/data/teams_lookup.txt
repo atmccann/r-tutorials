@@ -1,0 +1,33 @@
+league	div	leadiv	team	wins	losses	localrank
+AFC	North	AFC North	Baltimore Ravens	12	4	2
+AFC	North	AFC North	Pittsburgh Steelers	12	4	1
+AFC	North	AFC North	Cleveland Browns	5	11	3
+AFC	North	AFC North	Cincinnati Bengals	4	12	4
+AFC	South	AFC South	Indianapolis Colts	10	6	1
+AFC	South	AFC South	Jacksonville Jaguars	8	8	2
+AFC	South	AFC South	Houston Texans	6	10	3
+AFC	South	AFC South	Tennessee Titans	6	10	4
+AFC	East	AFC East	New England Patriots	14	2	1
+AFC	East	AFC East	New York Jets	11	5	2
+AFC	East	AFC East	Miami Dolphins	7	9	3
+AFC	East	AFC East	Buffalo Bills	4	12	4
+AFC	West	AFC West	Kansas City Chiefs	10	6	1
+AFC	West	AFC West	San Diego Chargers	9	7	2
+AFC	West	AFC West	Oakland Raiders	8	8	3
+AFC	West	AFC West	Denver Broncos	4	12	4
+NFC	North	NFC North	Chicago Bears	11	5	1
+NFC	North	NFC North	Green Bay Packers	10	6	2
+NFC	North	NFC North	Detroit Lions	6	10	3
+NFC	North	NFC North	Minnesota Vikings	6	10	4
+NFC	South	NFC South	Atlanta Falcons	13	3	1
+NFC	South	NFC South	New Orleans Saints	11	5	2
+NFC	South	NFC South	Tampa Bay Buccaneers	10	6	3
+NFC	South	NFC South	Carolina Panthers	2	14	4
+NFC	East	NFC East	New York Giants	10	6	2
+NFC	East	NFC East	Philadelphia Eagles	10	6	1
+NFC	East	NFC East	Dallas Cowboys	6	10	3
+NFC	East	NFC East	Washington Redskins	6	10	4
+NFC	West	NFC West	Seattle Seahawks	7	9	1
+NFC	West	NFC West	St. Louis Rams	7	9	2
+NFC	West	NFC West	San Francisco 49ers	6	10	3
+NFC	West	NFC West	Arizona Cardinals	5	11	4

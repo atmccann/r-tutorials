@@ -1,0 +1,124 @@
+<link rel="stylesheet" type="text/css" href="../assets/styles/global-tutorial.css">
+
+<script src="../assets/scripts/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" type="text/css" href="../assets/styles/magula.css">
+
+<style type="text/css">
+img {
+  width:800px;
+}
+</style>
+
+<h1>Plotting the history of single-party statehouses</h1>
+
+
+<p class="tutorial-intro">As of January, <a href="http://www.nytimes.com/2012/11/23/us/politics/one-party-control-opens-states-to-partisan-rush.html">more than two-thirds of states</a> will be under single-party control. In this exercise, we'll visualize the history of single-party statehouses and get more experience with charting and chart forms.</p>
+</p>
+
+
+<p>We'd like to explore more than just the recent numbers behind single-party control of statehouses, so we got data from the <a href="http://www.ncsl.org/">NCSL for these totals going back 50 years</a>. Download <a href="../assets/data/states-data.tsv" title="data" target="_blank">their data</a> and save it to your data folder as <code>states-data.tsv</code></p>
+
+<p>Next, load the data. Any format is fine, but our data is a tab-delimited .tsv files, so we can use <code>read.delim</code>.</p>
+
+<pre>
+  <code>
+    data &lt;- read.delim("data/states-data.tsv")
+  </code>
+</pre>
+
+<p>Inspect the data the same way we did last time. <span class="class-q">What do the field names mean?</span></p>
+
+<p>Make a new field in your data frame that is the sum of unified states:</p>
+
+<pre>
+  <code>
+    data$total.unified &lt;- data$Unified.D+data$Unified.R
+  </code>
+</pre>
+
+<p>Now our data is ready to chart. It&#8217;s just one line of code to make a plot of the number of unified states over time, with &#8220;Year&#8221; on the x axis and &#8220;total.unified&#8221; on the Y axis:</p>
+
+<pre>
+  <code>
+    plot(data$Year,data$total.unified,type='l',ylim=c(0,50))
+  </code>
+</pre>
+
+<img src="http://farm9.staticflickr.com/8341/8229057526_2b16a041b9_b.jpg"/></p>
+
+<p>The same plot, with extra arguments to clean it up a little:</p>
+
+<pre>
+  <code>
+    plot(data$Year,data$total.unified,type='l',ylim=c(0,50),xlab="Year",ylab="States",main="States with unified control of state government since 1938",col="red",lwd=3)
+    abline(h=c(0,10,20,30,40,50),col='lightgrey')
+    abline(v=c(1940,1960,1980,2000),col='lightgrey')
+  </code>
+</pre>
+
+<img align="middle" alt="clean" src="http://farm9.staticflickr.com/8059/8235517137_46a71d643d_b.jpg"/>
+
+<p>Adding more layers onto the plot, drawing lines for Democratic- and Republican- unified states. (In general, &#8220;plot&#8221; makes a chart and &#8220;lines&#8221; add to an existing plot.)</p>
+
+<pre>
+  <code>
+  plot(data$Year,data$total.unified,type='l',ylim=c(0,50))
+  lines(data$Year,data$Unified.R,col="red")
+  lines(data$Year,data$Unified.D,col="blue")
+  </code>
+</pre>
+
+<img align="middle" alt="img2" src="http://farm9.staticflickr.com/8198/8227990917_c42677661f_o.png"/>
+
+<p>Now we&#8217;ll make a barplot instead. </p>
+
+
+<pre>
+  <code>
+   barplot(data$total.unified,main="total unified")
+ </code>
+</pre>
+<img src="../assets/images/unified-1.png">
+
+
+<p>Now let's do a more complicated one. The syntax here is a little weird. Basically, our data needs to be transposed and reduced to just the columns we want to plot. You can do this in one step, but for clarity I&#8217;ll break it up here. It looks like a waffle chart just because of the horizontal axis lines, but it&#8217;s just a barplot.</p>
+
+
+
+<pre>
+  <code>
+  #just the numbers we want to plot
+  data.we.need&lt;-data[,c("Unified.D","Divided","Unified.R")]
+
+  #a simple reshaping, transposing our data
+  transposed&lt;-t(data.we.need)
+
+  barplot(transposed,ylim=c(0,50),col=c('blue','grey','red'),border=F)
+  abline(h=c(1:50),col='white')
+  </code>
+</pre>
+
+<img align="middle" alt="waffle" src="http://farm9.staticflickr.com/8206/8229057376_4682f39694_o.png"/>
+
+
+<p>We end up doing the same plot for the final output; it&#8217;s just shaped differently and has fewer axis lines. We&#8217;re also saving it as a pdf in the dimensions we want:</p>
+
+<pre>
+  <code>
+    pdf(file="stacked-bars.pdf",width=8,height=5)
+      barplot(transposed,ylim=c(0,50),col=c('blue','grey','red'))
+      abline(h=c(10,20,30,40),col='white')
+    dev.off()
+  </code>
+</pre>
+
+<img align="middle" alt="img3" src="http://farm9.staticflickr.com/8067/8227991027_e5dd24f515_o.jpg"/>
+
+<p>Here's how it looked in print:</p>
+
+<img src="http://farm9.staticflickr.com/8203/8228056335_dcbd45da85_c.jpg">
+
+<h5 class="example-class-questions">Questions about this exercise and/or data?</h5>
+
+<p>Getting good at plotting is simply a function of practice. But even if you're not interested in charting, R is exceptionally useful for data crunching and analysis, which we'll see in the next exercise, <a href="./chicago-guns-tutorial.html">Analyzing Where Chicago's Guns Came From</a></p>

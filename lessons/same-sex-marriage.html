@@ -1,0 +1,125 @@
+<link rel="stylesheet" type="text/css" href="../assets/styles/global-tutorial.css">
+
+<script src="../assets/scripts/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" type="text/css" href="../assets/styles/magula.css">
+
+
+<h1>Project 1: Visualizing attitudes of same-sex marriage in the U.S.</h1>
+
+<p class="tutorial-intro">In this example. we'll use R to format and visualize Americans' views about same-sex marriage in light of a <a href="http://www.nytimes.com/2012/11/13/us/advocates-of-gay-marriage-extend-their-campaign.html?pagewanted=all&_r=0">string of court victories</a> for advocates of same-sex marriage.
+<span class="skills"> We'll specifically learn about data frames, vectors and basic plotting.</span></p>
+
+<p>R can read pretty much any kind of structured information you have, and in many cases it's an Excel spreadsheet or an output from a spreadsheet. Download and save <a href="../assets/data/generational-shift.txt">generational-shift.txt</a> to your "data" folder and type load it into your R console. (The numbers here indicate percent of each demographic supporting same-sex marriage at a particular date.)</p>
+
+<pre>
+  <code>
+    shift <- read.delim("data/generational-shift.txt")
+  </code>
+</pre>
+
+
+<p>Mess around with this data a little bit to get a feel for the syntax.</p>
+
+<pre>
+  <code>
+    dim(shift) #[1] 12  5
+    ncol(shift) # 5
+    nrow(shift) # 12
+
+    class(shift) # "data.frame"
+    shift$Boomer # 26 32 33 30 36 33 34 36 32 38 40 41
+    shift[1:2,]
+  </code>
+</pre>
+
+<p>Take a look at <code>shift$date</code>. <span class="class-q">What class is it?</span> <span class="class-q">What class might we want it to be?</span> </p>
+
+<p>R can be smart about dates if we ask it to be. But to do that we need to tell it what format our dates are in. Type <code>as.Date(shift$date)</code> in the console. <span class="class-q">What does that look like?</span> It looks like we need to change the format a little. Let's look at the R documentation for dates by typing <code>?as.Date</code> in the console. Note the line from the help window.</p>
+
+<p>Make a new date field called <code>date2</code>:</p>
+
+<pre>
+  <code>
+    shift$date2 <- as.Date(shift$date,format="%m/%d/%Y")
+  </code>
+</pre>
+
+<p>Now take a look at the data frame in your console. Let's make a chart of the Boomer attitude over time:</p>
+
+<pre>
+  <code>
+    plot(shift$Boomer,main="Boomer")
+  </code>
+</pre>
+<img src="../assets/images/boomer1.jpg">
+
+
+<p>Done! Well, maybe not. That's not bad, but <span class="class-q"> what's wrong with this plot?</span> Look at the docs for plot (<code>?plot</code>) and see how we could improve this.</p>
+<pre>
+  <code>
+    plot(shift$date2,shift$Boomer,main="Boomer #2",ylim=c(0,70),type="l",lwd=2,col="red")
+  </code>
+</pre>
+<img src="../assets/images/boomer2.jpg">
+
+<p>This is much better, but what if we want to see all the data on the same plot? Try using the same code to plot the other fields. <span class="class-q">What happens?</span> Let's put all the lines on the same plot using the <code>lines command.</code> </p>
+
+<pre>
+  <code>
+    plot(shift$date2,as.numeric(shift$Gen.X),type='l',ylim=c(0,70),main="All groups",col='red')
+    lines(shift$date2[3:nrow(shift)],shift$Millennial[3:nrow(shift)],col="red")
+    lines(shift$date2,shift$Boomer,col="red")
+    lines(shift$date2,shift$Silent,col="red")
+  </code>
+</pre>
+<img src="../assets/images/boomer3.jpg">
+
+
+<p>What's different about the plot command for the Millenial group? If we didn't do it that way, what other ways might we visualize this correctly? <span class="class-q">How else might this chart be improved? Here's a final version with labels included using the <code>text</code> command, which behaves much like our <code>lines</code> command.</span> </p>
+
+
+<pre>
+  <code>
+    plot(shift$date2,as.numeric(shift$Gen.X),type='l',ylim=c(0,70),main="All groups",col='red')
+    text(as.Date("2011-01-01"),shift$Gen.X[nrow(shift)],label="Gen.X",col="purple")
+
+    lines(shift$date2[3:nrow(shift)],shift$Millennial[3:nrow(shift)],col="red")
+    text(as.Date("2011-01-01"),shift$Millennial[nrow(shift)],label="Millenial",col="purple")
+
+    lines(shift$date2,shift$Boomer,col="red")
+    text(as.Date("2011-01-01"),shift$Boomer[nrow(shift)],label="Boomer",col="purple")
+
+    lines(shift$date2,shift$Silent,col="red")
+    text(as.Date("2011-01-01"),shift$Silent[nrow(shift)],label="Silent",col="purple")
+
+  </code>
+</pre>
+<img src="../assets/images/boomer4.jpg">
+
+<p>This isn't the most efficient way to do this; we're repeating ourselves a lot here, which is always a bad sign, but if you needed to get something up immediately, this is absolutely acceptable. (Also, the colors here are not so great, but the silly colors will help us select things quickly later, in postproduction.)</p>
+
+<p>Here's how it looked in print:</p>
+
+<img src="../assets/images/boomer-completed.png">
+
+<h5 class="example-class-questions">Questions about this exercise and/or data?</h5>
+
+
+<p>Let's move on to an example with a little more data work before the payoff. <a href="unified-government.html">Lesson 2: Plotting the history of single-party statehouses</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

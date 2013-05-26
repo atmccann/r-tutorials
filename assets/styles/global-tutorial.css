@@ -1,0 +1,67 @@
+h1 {
+  font-family: "Helvetica Neue",helvetica;
+  font-weight: 300;
+  font-size: 49;
+}
+
+a {
+  color: rgb(70, 130, 180);
+}
+
+body {
+width: 720px;
+margin: 20px auto;
+font-family: helvetica;
+font-weight:300;
+}
+p {
+  font-size:15px;
+  line-height:1.4em;
+}
+img {
+}
+
+li {
+  font-weight:300;
+  font-size:15px;
+  line-height: 1.4em;
+}
+
+.header {
+  display:inline-block;
+}
+
+.header li {
+font-size:12px;
+float:left;
+display:inline-block;
+width:110px;
+
+}
+.header li a {
+  display:block;
+}
+
+section {
+  background-color:red;
+}
+.class-q {
+  /*color:red;*/
+  font-weight:bold;
+}
+
+.tutorial-intro {
+  /*font-size:14px;*/
+  padding:10px;
+  border:1px solid #ccc;
+  font-style:italic;
+  background-color: #FFC;
+}
+
+/*.skills {
+  display: block;
+  margin-top: 10px;
+  font-size: 12px;
+  font-family: arial;
+  font-style: normal !important;
+}*/

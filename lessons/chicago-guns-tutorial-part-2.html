@@ -1,0 +1,333 @@
+<link rel="stylesheet" type="text/css" href="../assets/styles/global-tutorial.css">
+
+<script src="../assets/scripts/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" type="text/css" href="../assets/styles/magula.css">
+
+<style type="text/css">
+img {
+  width:800px;
+}
+</style>
+
+
+
+<h1>Lesson 4: Mapping Chicago's Guns</h1>
+
+<p class="tutorial-intro">Now we know a lot of details about Chicago's guns, but seeing our data would help us a lot. <span class="skills">In this tutorial, we'll make two common kinds of maps in R using the <a href="http://cran.r-project.org/web/packages/maptools/index.html">maptools</a> package.</span>
+</p>
+
+<p>Before we start, we're going to need some R libraries that don't come with R. It's called <a href="http://cran.r-project.org/web/packages/maptools/index.html">maptools</a> and we need it to make maps! We also need another package called <a href="http://cran.r-project.org/web/packages/RColorBrewer/index.html">RColorBrewer</a>, which "provides palettes for drawing nice maps shaded according to a variable."</p>
+
+<p>Here's what you need to type in your console to make sure you're ready to go: (If you're familiar with Ruby, this is a lot like loading in a RubyGem.)</p>
+
+
+<pre>
+  <code>
+    # you might have this already -- you only need to do this once
+    install.packages("maptools")
+    install.packages("RColorBrewer")
+
+    # load the libraries for this session
+    library(maptools)
+    library(RColorBrewer)
+
+ </code>
+</pre>
+
+<p>Obviously, to make a map, we need some map files. <span class="class-q">What kind of geography would best suit our data? (For example, a world map, a state map, a county map, a ZIP code map...)</span> </p>
+
+<p>We're going to need a special kind of Geographic Information Systems (GIS) file called a <a href="http://en.wikipedia.org/wiki/Shapefile">shapefile</a>.
+
+<h5 class="example-class-questions">Questions about shapefiles</h5>
+
+<p>Say we've collected all the shapefiels we're going to need and put them in a folder called "shapes." (You can download the ZIP file <a href="../../assets/data/shapes.zip">here</a>. Make sure it's inside your data folder.)<p>
+
+<p>Let's load and plot a U.S. state map:</p>
+
+<pre>
+  <code>
+    states <- readShapePoly("data/shapes/nytlayout_state.shp")
+    plot(states)
+  </code>
+</pre>
+<img src="../assets/images/chicago-map-1.png">
+
+<pre>
+  <code>
+  plot(states,col='pink',border='white')
+  </code>
+</pre>
+<img src="../assets/images/chicago-map-2.png">
+
+<pre>
+  <code>
+  plot(states,col=rainbow(5))
+  title("Print it!")
+  </code>
+</pre>
+<img src="../assets/images/chicago-map-3.png">
+
+<pre>
+  <code>
+  plot(states,border='lightgrey')
+  points(coordinates(states),col="orange",cex=5) #cex determines the size of the circles
+  title("Points are on the shape centroids")
+  </code>
+</pre>
+<img src="../assets/images/chicago-map-4.png">
+
+
+<p>Pretty easy, but not particularly useful. Let's take a further look at our data. let's treat it like a data frame for a minute:</p>
+
+<pre>
+  <code>
+  class(states)
+  names(states)
+  head(states)
+  </code>
+</pre>
+
+  <span class="class-q">How is our data like a data frame and how is it not?</span></p>
+
+  <p>The key to data mapping is to match the data being visualized to the geography it's associated with. R makes this easy for us. Saw, for example, we wanted to make a map that highlights only midwestern states. (You may recall we defined those earlier as <code>midwest.states</code>.) What we need is a vector of colors that matches our vector of states, <code>states$STATE_NAME</code>.</p>
+
+  <pre>
+    <code>
+      is.midwest <- states$STATE_NAME%in%midwest.states
+    </code>
+  </pre>
+
+  <p>That's close, but we need a vector of colors, not a vector of Boolean values. But the logic is the same:</p>
+
+  <pre>
+    <code>
+      is.midwest <- states$STATE_NAME%in%midwest.states
+      is.midwest.col <- ifelse(is.midwest,"gold","white")
+      plot(states,border="lightgrey",col=is.midwest.col)
+      title("Where the nice people live")
+
+      # you could of course do this in a single step once you're good,
+      # but it makes your code much harder to read
+      plot(states,border="lightgrey",col=ifelse(states$STATE_NAME%in%midwest.states,"gold","white"))
+
+    </code>
+  </pre>
+  <img src="../assets/images/chicago-map-5.png">
+
+  <p>Our goal, though, is to make maps about Chicago, and the Chicago data isn't in the shapefile data. Since we've been practicing a U.S. state map, let's make one of those first. To do that, we'll need data on the state level. You might have this handy already, but if you don't, we can make our own using <code>aggregate</code>.
+
+  <pre>
+    <code>
+      state.gun.data <- aggregate(data$count3,list(data$st),sum)
+
+      # why use st rather than STATE, by the way?
+      # also, is there a better field we might want to match on?
+
+      # rename for sanity
+      names(state.gun.data) <- c("st","guns")
+    </code>
+  </pre>
+
+  <p>Now we're ready to map them. To be clear, we have two data sets: the data from our map, which has state names, state abbreviations, FIPS codes and the like, and our aggregated guns data, which has state abbreviations and totals for guns per state. Let's make sure the state abbreviaitons in our map data are the same as our state abbreviations in our guns data: </p>
+
+    <pre>
+    <code>
+      states$STATE_ABBR%in%state.gun.data$st
+
+      # If you see a vector of "TRUE" values, you should be in good shape.
+
+      # what does this vector mean?
+
+    </code>
+  </pre>
+
+    Our goal is to make a new data frame that has the same geography data as the shapefile and the data from our state table matched properly. We can do this a lot of ways, and tastes do vary, but here's one way:</p>
+
+  <pre>
+    <code>
+
+      # this looks odd, but it's the answer to the question,
+      # "Where in vector of state abbreviations in my gun data is the same
+      # abbreviation in my map data? "
+      match(states$STATE_ABBR,state.gun.data$st)
+
+      # let's call that something
+      match.order <- match(states$STATE_ABBR,state.gun.data$st)
+
+
+      # let's discuss that a minute and compare these two vectors
+
+      state.gun.data$guns
+      state.gun.data$guns[match.order]
+
+      # make a vector of the guns data IN THE SAME ORDER as the map data
+
+      guns.for.map <- state.gun.data$guns[match.order]
+
+
+      # make a simple bubble map:
+      # (note that the "5000" is absolutely random depending on your plot size)
+      plot(states,border="lightgrey")
+      points(coordinates(states), cex= sqrt(guns.for.map / 1200), col='red')
+      title("Guns by state")
+
+    </code>
+  </pre>
+  <img src="../assets/images/chicago-map-6.png">
+
+  <p>This looks right and matches what we had learned from the previous lesson – that most of the guns were in Chicago. But it looks like our map isn't very interesting. Let's try making a choropleth map to see if that makes a difference. To do that, we'll need to break up our data into threshold "buckets" that match to a set of colors. But let's not guess at what our break values are. Instead, examine a histogram of our data:</p>
+
+  <pre>
+    <code>
+      hist(guns.for.map,breaks=5)
+    </code>
+  </pre>
+    <img src="../assets/images/chicago-map-7.png">
+
+
+  <p>This confirms what we already know, which is that our distribution is boring (there are a lot of guns in Illinois and a couple other states, and the others have almost none), but let's make the map anyway. Let's set 5 breaks for our map and assign them to a group of colors.</p>
+
+  <pre>
+    <code>
+      gun.breaks <- c(0,5000,10000,20000,25000)
+
+      # makes a 4-step vector of colors from yellow to red
+      # type display.brewer.all() for more
+
+      colors <- brewer.pal(4,"YlOrRd")
+
+      #type and discuss
+      cut(guns.for.map,breaks=gun.breaks)
+
+      #if that scares you, try thids
+      as.numeric(cut(guns.for.map,breaks=gun.breaks) )
+
+      gun.bucket <- as.numeric(cut(guns.for.map,breaks=gun.breaks) )
+
+      #does this make sense?
+      colors[gun.bucket]
+
+      plot(states,col=colors[gun.bucket])
+      title("Choropleth: guns by state")
+
+    </code>
+  </pre>
+
+  <img src="../assets/images/chicago-map-8.png">
+
+  <p>You've made a successful choropleth map. Unfortunately, it's boring. The good news is we have data at a closer geography, and we have a shapefile of counties too.</p>
+
+  <pre>
+    <code>
+      counties <- readShapePoly("data/shapes/nyt_county.shp")
+      state_lines <- readShapeLines("data/shapes/nyt_state_lines.shp")
+
+      plot(counties,col="lightgrey",border=F)
+      plot(state_lines,col="white",add=T)
+
+      title("this takes a while to load!")
+
+    </code>
+  </pre>
+    <img src="../assets/images/chicago-map-9.png">
+
+  <p><span class="class-q">Your goal is to recreate the bubble maps and choropleth maps for the U.S. at a county level with the county-level data.</span> Work in groups and if you're stuck, ask a neighbor. I'll come around and help as well. The steps will be nearly identical to what you did with the state map.</p>
+
+  <p>There is one small formatting thing we'll need to fix, though, and that's our FIPS field in our data. Currently it's 4 digits instead of 5 because the leading zero is stripped off (which sometimes happens with Excel, or if you're working in TopoJSON, it's the preferred format, for some reason.) So let's make a field in our data called <code>cleanfips</code>:</p>
+
+  <pre>
+    <code>
+    #sprintf does string formatting and feels magic
+    data$cleanfips <- sprintf("%05d",data$FIPS)
+    head(data)
+    </code>
+  </pre>
+
+<p>Now you should be set! Remember, here's the general order for bubble maps</p>
+
+<ul>
+  <li>Make sure you have a field in your two tables (map and data) to match on</li>
+  <li>Create a vector of the data you'd like to map in the same order of your map data</li>
+  <li>Plot your map and use the <code>points(coordinates(counties),cex=YOUR.DATA)</code> </li>
+  <li>cross fingers</li>
+</ul>
+
+<p>If you do it right, you'll get this.</p>
+    <img src="../assets/images/chicago-map-10.png">
+
+
+<pre>
+  <code>
+    county.match.order <- match(counties$FIPS,data$cleanfips)
+    county.guns.for.map <- data$count3[county.match.order]
+
+    pdf(file="moo.pdf")
+      plot(counties,border="lightgrey")
+      points(coordinates(counties), cex= sqrt(county.guns.for.map/ 300), col='red')
+      title("Guns by county")
+    dev.off()
+  </code>
+  </pre>
+
+  <p>Remmeber the same rules for the choropleth map.</p>
+
+<ul>
+  <li>Pick sensible boundaries for your buckets</li>
+  <li>Pick the right number of colors that match your buckets.) Colorbrewer makes this easy.</li>
+  <li>Plot your map and use the <code>col=YOURCOLORVECTOR[YOURDATABUCKET]</code> </li>
+  <li>cross fingers</li>
+</ul>
+
+<p>If you do it right, you'll get this.</p>
+  <img src="../assets/images/chicago-map-11.png">
+    <pre>
+      <code>
+      county.breaks <- c(-Inf,10,50,100,1000,Inf)
+      county.colors <- c(brewer.pal(5,"YlOrRd"))
+      county.bucket <- as.numeric(cut(county.guns.for.map,breaks=county.breaks) )
+      ccol <- county.colors[county.bucket]
+      plot(counties,col=ccol)
+      title("Good")
+  </code>
+
+    </pre>
+
+
+
+  <img src="../assets/images/chicago-map-12.png">
+
+    <pre>
+      <code>
+      county.breaks <- c(-Inf,10,50,100,1000,Inf)
+      county.colors <- c("white",brewer.pal(4,"YlOrRd"))
+      county.bucket <- as.numeric(cut(county.guns.for.map,breaks=county.breaks) )
+      ccol <- county.colors[county.bucket]
+      plot(counties,col=ccol,border=F)
+      plot(state_lines,add=T,col='lightgrey')
+      title("Better")
+  </code>
+
+    </pre>
+
+<p><span class="class-q">Make two-tone map of the U.S., coloring a county white if there were no Chicago guns traced to it, red if it had one or more. </span></p>
+
+<p>Here's just one of the maps that ended up in print. (it should be easy to make, more or less, in R from what you already have.)</p>
+
+<img src="../assets/images/chicago-map-13.png">
+
+
+
+<h5 class="example-class-questions">Questions about this exercise and/or data?</h5>
+
+<p>Next up: <a href="./exploratory-charting.html">Lesson 5: Exploratory charting</a></p>
+
+
+
+
+
+
+
+
+
+

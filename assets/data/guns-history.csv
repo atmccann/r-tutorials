@@ -1,0 +1,3142 @@
+st,county,STATE,composite,fipstxt,FIPS,count3
+AK,Aleutians East,Alaska,ak_aleutians east,02013,2013,0
+AK,Aleutians West,Alaska,ak_aleutians west,02016,2016,0
+AK,Anchorage,Alaska,ak_anchorage,02020,2020,19
+AK,Bethel,Alaska,ak_bethel,02050,2050,1
+AK,Bristol Bay,Alaska,ak_bristol bay,02060,2060,0
+AK,Denali,Alaska,ak_denali,02068,2068,0
+AK,Dillingham,Alaska,ak_dillingham,02070,2070,0
+AK,Fairbanks North Star,Alaska,ak_fairbanks north star,02090,2090,4
+AK,Haines,Alaska,ak_haines,02100,2100,0
+AK,Juneau,Alaska,ak_juneau,02110,2110,1
+AK,Kenai Peninsula,Alaska,ak_kenai peninsula,02122,2122,1
+AK,Ketchikan Gateway,Alaska,ak_ketchikan gateway,02130,2130,2
+AK,Kodiak Island,Alaska,ak_kodiak island,02150,2150,1
+AK,Lake and Peninsula,Alaska,ak_lake and peninsula,02164,2164,0
+AK,Matanuska-Susitna,Alaska,ak_matanuska-susitna,02170,2170,2
+AK,Nome,Alaska,ak_nome,02180,2180,0
+AK,North Slope,Alaska,ak_north slope,02185,2185,0
+AK,Northwest Arctic,Alaska,ak_northwest arctic,02188,2188,0
+AK,Prince of Wales-Outer Ketchikan,Alaska,ak_prince of wales-outer ketchikan,02201,2201,0
+AK,Sitka,Alaska,ak_sitka,02220,2220,0
+AK,Skagway-Hoonah-Angoon,Alaska,ak_skagway-hoonah-angoon,02232,2232,0
+AK,Southeast Fairbanks,Alaska,ak_southeast fairbanks,02240,2240,0
+AK,Valdez-Cordova,Alaska,ak_valdez-cordova,02261,2261,2
+AK,Wade Hampton,Alaska,ak_wade hampton,02270,2270,0
+AK,Wrangell-Petersburg,Alaska,ak_wrangell-petersburg,02280,2280,0
+AK,Yakutat,Alaska,ak_yakutat,02282,2282,0
+AK,Yukon-Koyukuk,Alaska,ak_yukon-koyukuk,02290,2290,0
+AL,Autauga,Alabama,al_autauga,01001,1001,1
+AL,Baldwin,Alabama,al_baldwin,01003,1003,5
+AL,Barbour,Alabama,al_barbour,01005,1005,4
+AL,Bibb,Alabama,al_bibb,01007,1007,6
+AL,Blount,Alabama,al_blount,01009,1009,1
+AL,Bullock,Alabama,al_bullock,01011,1011,0
+AL,Butler,Alabama,al_butler,01013,1013,3
+AL,Calhoun,Alabama,al_calhoun,01015,1015,33
+AL,Chambers,Alabama,al_chambers,01017,1017,9
+AL,Cherokee,Alabama,al_cherokee,01019,1019,6
+AL,Chilton,Alabama,al_chilton,01021,1021,1
+AL,Choctaw,Alabama,al_choctaw,01023,1023,4
+AL,Clarke,Alabama,al_clarke,01025,1025,4
+AL,Clay,Alabama,al_clay,01027,1027,1
+AL,Cleburne,Alabama,al_cleburne,01029,1029,1
+AL,Coffee,Alabama,al_coffee,01031,1031,12
+AL,Colbert,Alabama,al_colbert,01033,1033,23
+AL,Conecuh,Alabama,al_conecuh,01035,1035,0
+AL,Coosa,Alabama,al_coosa,01037,1037,0
+AL,Covington,Alabama,al_covington,01039,1039,7
+AL,Crenshaw,Alabama,al_crenshaw,01041,1041,2
+AL,Cullman,Alabama,al_cullman,01043,1043,8
+AL,Dale,Alabama,al_dale,01045,1045,8
+AL,Dallas,Alabama,al_dallas,01047,1047,20
+AL,DeKalb,Alabama,al_dekalb,01049,1049,11
+AL,Elmore,Alabama,al_elmore,01051,1051,6
+AL,Escambia,Alabama,al_escambia,01053,1053,9
+AL,Etowah,Alabama,al_etowah,01055,1055,43
+AL,Fayette,Alabama,al_fayette,01057,1057,2
+AL,Franklin,Alabama,al_franklin,01059,1059,8
+AL,Geneva,Alabama,al_geneva,01061,1061,1
+AL,Greene,Alabama,al_greene,01063,1063,6
+AL,Hale,Alabama,al_hale,01065,1065,1
+AL,Henry,Alabama,al_henry,01067,1067,3
+AL,Houston,Alabama,al_houston,01069,1069,10
+AL,Jackson,Alabama,al_jackson,01071,1071,11
+AL,Jefferson,Alabama,al_jefferson,01073,1073,272
+AL,Lamar,Alabama,al_lamar,01075,1075,4
+AL,Lauderdale,Alabama,al_lauderdale,01077,1077,17
+AL,Lawrence,Alabama,al_lawrence,01079,1079,2
+AL,Lee,Alabama,al_lee,01081,1081,17
+AL,Limestone,Alabama,al_limestone,01083,1083,16
+AL,Lowndes,Alabama,al_lowndes,01085,1085,0
+AL,Macon,Alabama,al_macon,01087,1087,3
+AL,Madison,Alabama,al_madison,01089,1089,109
+AL,Marengo,Alabama,al_marengo,01091,1091,8
+AL,Marion,Alabama,al_marion,01093,1093,8
+AL,Marshall,Alabama,al_marshall,01095,1095,39
+AL,Mobile,Alabama,al_mobile,01097,1097,48
+AL,Monroe,Alabama,al_monroe,01099,1099,1
+AL,Montgomery,Alabama,al_montgomery,01101,1101,93
+AL,Morgan,Alabama,al_morgan,01103,1103,40
+AL,Perry,Alabama,al_perry,01105,1105,3
+AL,Pickens,Alabama,al_pickens,01107,1107,4
+AL,Pike,Alabama,al_pike,01109,1109,1
+AL,Randolph,Alabama,al_randolph,01111,1111,4
+AL,Russell,Alabama,al_russell,01113,1113,5
+AL,Shelby,Alabama,al_shelby,01117,1117,4
+AL,St. Clair,Alabama,al_st. clair,01115,1115,2
+AL,Sumter,Alabama,al_sumter,01119,1119,11
+AL,Talladega,Alabama,al_talladega,01121,1121,16
+AL,Tallapoosa,Alabama,al_tallapoosa,01123,1123,5
+AL,Tuscaloosa,Alabama,al_tuscaloosa,01125,1125,47
+AL,Walker,Alabama,al_walker,01127,1127,17
+AL,Washington,Alabama,al_washington,01129,1129,0
+AL,Wilcox,Alabama,al_wilcox,01131,1131,0
+AL,Winston,Alabama,al_winston,01133,1133,4
+AR,Arkansas,Arkansas,ar_arkansas,05001,5001,21
+AR,Ashley,Arkansas,ar_ashley,05003,5003,12
+AR,Baxter,Arkansas,ar_baxter,05005,5005,13
+AR,Benton,Arkansas,ar_benton,05007,5007,14
+AR,Boone,Arkansas,ar_boone,05009,5009,2
+AR,Bradley,Arkansas,ar_bradley,05011,5011,8
+AR,Calhoun,Arkansas,ar_calhoun,05013,5013,1
+AR,Carroll,Arkansas,ar_carroll,05015,5015,4
+AR,Chicot,Arkansas,ar_chicot,05017,5017,12
+AR,Clark,Arkansas,ar_clark,05019,5019,3
+AR,Clay,Arkansas,ar_clay,05021,5021,2
+AR,Cleburne,Arkansas,ar_cleburne,05023,5023,4
+AR,Cleveland,Arkansas,ar_cleveland,05025,5025,0
+AR,Columbia,Arkansas,ar_columbia,05027,5027,8
+AR,Conway,Arkansas,ar_conway,05029,5029,1
+AR,Craighead,Arkansas,ar_craighead,05031,5031,35
+AR,Crawford,Arkansas,ar_crawford,05033,5033,6
+AR,Crittenden,Arkansas,ar_crittenden,05035,5035,55
+AR,Cross,Arkansas,ar_cross,05037,5037,6
+AR,Dallas,Arkansas,ar_dallas,05039,5039,2
+AR,Desha,Arkansas,ar_desha,05041,5041,16
+AR,Drew,Arkansas,ar_drew,05043,5043,4
+AR,Faulkner,Arkansas,ar_faulkner,05045,5045,17
+AR,Franklin,Arkansas,ar_franklin,05047,5047,0
+AR,Fulton,Arkansas,ar_fulton,05049,5049,3
+AR,Garland,Arkansas,ar_garland,05051,5051,20
+AR,Grant,Arkansas,ar_grant,05053,5053,0
+AR,Greene,Arkansas,ar_greene,05055,5055,9
+AR,Hempstead,Arkansas,ar_hempstead,05057,5057,4
+AR,Hot Spring,Arkansas,ar_hot spring,05059,5059,2
+AR,Howard,Arkansas,ar_howard,05061,5061,3
+AR,Independence,Arkansas,ar_independence,05063,5063,5
+AR,Izard,Arkansas,ar_izard,05065,5065,0
+AR,Jackson,Arkansas,ar_jackson,05067,5067,8
+AR,Jefferson,Arkansas,ar_jefferson,05069,5069,107
+AR,Johnson,Arkansas,ar_johnson,05071,5071,6
+AR,Lafayette,Arkansas,ar_lafayette,05073,5073,3
+AR,Lawrence,Arkansas,ar_lawrence,05075,5075,6
+AR,Lee,Arkansas,ar_lee,05077,5077,10
+AR,Lincoln,Arkansas,ar_lincoln,05079,5079,1
+AR,Little River,Arkansas,ar_little river,05081,5081,2
+AR,Logan,Arkansas,ar_logan,05083,5083,0
+AR,Lonoke,Arkansas,ar_lonoke,05085,5085,13
+AR,Madison,Arkansas,ar_madison,05087,5087,0
+AR,Marion,Arkansas,ar_marion,05089,5089,0
+AR,Miller,Arkansas,ar_miller,05091,5091,3
+AR,Mississippi,Arkansas,ar_mississippi,05093,5093,63
+AR,Monroe,Arkansas,ar_monroe,05095,5095,15
+AR,Montgomery,Arkansas,ar_montgomery,05097,5097,0
+AR,Nevada,Arkansas,ar_nevada,05099,5099,1
+AR,Newton,Arkansas,ar_newton,05101,5101,0
+AR,Ouachita,Arkansas,ar_ouachita,05103,5103,3
+AR,Perry,Arkansas,ar_perry,05105,5105,0
+AR,Phillips,Arkansas,ar_phillips,05107,5107,92
+AR,Pike,Arkansas,ar_pike,05109,5109,3
+AR,Poinsett,Arkansas,ar_poinsett,05111,5111,9
+AR,Polk,Arkansas,ar_polk,05113,5113,5
+AR,Pope,Arkansas,ar_pope,05115,5115,4
+AR,Prairie,Arkansas,ar_prairie,05117,5117,6
+AR,Pulaski,Arkansas,ar_pulaski,05119,5119,175
+AR,Randolph,Arkansas,ar_randolph,05121,5121,3
+AR,Saline,Arkansas,ar_saline,05125,5125,4
+AR,Scott,Arkansas,ar_scott,05127,5127,0
+AR,Searcy,Arkansas,ar_searcy,05129,5129,0
+AR,Sebastian,Arkansas,ar_sebastian,05131,5131,9
+AR,Sevier,Arkansas,ar_sevier,05133,5133,0
+AR,Sharp,Arkansas,ar_sharp,05135,5135,3
+AR,St. Francis,Arkansas,ar_st. francis,05123,5123,42
+AR,Stone,Arkansas,ar_stone,05137,5137,1
+AR,Union,Arkansas,ar_union,05139,5139,15
+AR,Van Buren,Arkansas,ar_van buren,05141,5141,5
+AR,Washington,Arkansas,ar_washington,05143,5143,25
+AR,White,Arkansas,ar_white,05145,5145,7
+AR,Woodruff,Arkansas,ar_woodruff,05147,5147,2
+AR,Yell,Arkansas,ar_yell,05149,5149,1
+AZ,Apache,Arizona,az_apache,04001,4001,0
+AZ,Cochise,Arizona,az_cochise,04003,4003,20
+AZ,Coconino,Arizona,az_coconino,04005,4005,9
+AZ,Gila,Arizona,az_gila,04007,4007,9
+AZ,Graham,Arizona,az_graham,04009,4009,1
+AZ,Greenlee,Arizona,az_greenlee,04011,4011,0
+AZ,La Paz,Arizona,az_la paz,04012,4012,0
+AZ,Maricopa,Arizona,az_maricopa,04013,4013,213
+AZ,Mohave,Arizona,az_mohave,04015,4015,7
+AZ,Navajo,Arizona,az_navajo,04017,4017,4
+AZ,Pima,Arizona,az_pima,04019,4019,49
+AZ,Pinal,Arizona,az_pinal,04021,4021,6
+AZ,Santa Cruz,Arizona,az_santa cruz,04023,4023,2
+AZ,Yavapai,Arizona,az_yavapai,04025,4025,22
+AZ,Yuma,Arizona,az_yuma,04027,4027,13
+CA,Alameda,California,ca_alameda,06001,6001,26
+CA,Alpine,California,ca_alpine,06003,6003,0
+CA,Amador,California,ca_amador,06005,6005,1
+CA,Butte,California,ca_butte,06007,6007,2
+CA,Calaveras,California,ca_calaveras,06009,6009,0
+CA,Colusa,California,ca_colusa,06011,6011,0
+CA,Contra Costa,California,ca_contra costa,06013,6013,10
+CA,Del Norte,California,ca_del norte,06015,6015,0
+CA,El Dorado,California,ca_el dorado,06017,6017,0
+CA,Fresno,California,ca_fresno,06019,6019,6
+CA,Glenn,California,ca_glenn,06021,6021,1
+CA,Humboldt,California,ca_humboldt,06023,6023,0
+CA,Imperial,California,ca_imperial,06025,6025,2
+CA,Inyo,California,ca_inyo,06027,6027,0
+CA,Kern,California,ca_kern,06029,6029,9
+CA,Kings,California,ca_kings,06031,6031,0
+CA,Lake,California,ca_lake,06033,6033,0
+CA,Lassen,California,ca_lassen,06035,6035,2
+CA,Los Angeles,California,ca_los angeles,06037,6037,172
+CA,Madera,California,ca_madera,06039,6039,0
+CA,Marin,California,ca_marin,06041,6041,0
+CA,Mariposa,California,ca_mariposa,06043,6043,0
+CA,Mendocino,California,ca_mendocino,06045,6045,1
+CA,Merced,California,ca_merced,06047,6047,1
+CA,Modoc,California,ca_modoc,06049,6049,0
+CA,Mono,California,ca_mono,06051,6051,0
+CA,Monterey,California,ca_monterey,06053,6053,9
+CA,Napa,California,ca_napa,06055,6055,0
+CA,Nevada,California,ca_nevada,06057,6057,0
+CA,Orange,California,ca_orange,06059,6059,40
+CA,Placer,California,ca_placer,06061,6061,3
+CA,Plumas,California,ca_plumas,06063,6063,0
+CA,Riverside,California,ca_riverside,06065,6065,27
+CA,Sacramento,California,ca_sacramento,06067,6067,15
+CA,San Benito,California,ca_san benito,06069,6069,0
+CA,San Bernardino,California,ca_san bernardino,06071,6071,53
+CA,San Diego,California,ca_san diego,06073,6073,58
+CA,San Francisco,California,ca_san francisco,06075,6075,6
+CA,San Joaquin,California,ca_san joaquin,06077,6077,7
+CA,San Luis Obispo,California,ca_san luis obispo,06079,6079,2
+CA,San Mateo,California,ca_san mateo,06081,6081,7
+CA,Santa Barbara,California,ca_santa barbara,06083,6083,3
+CA,Santa Clara,California,ca_santa clara,06085,6085,22
+CA,Santa Cruz,California,ca_santa cruz,06087,6087,1
+CA,Shasta,California,ca_shasta,06089,6089,4
+CA,Sierra,California,ca_sierra,06091,6091,0
+CA,Siskiyou,California,ca_siskiyou,06093,6093,0
+CA,Solano,California,ca_solano,06095,6095,10
+CA,Sonoma,California,ca_sonoma,06097,6097,3
+CA,Stanislaus,California,ca_stanislaus,06099,6099,6
+CA,Sutter,California,ca_sutter,06101,6101,0
+CA,Tehama,California,ca_tehama,06103,6103,2
+CA,Trinity,California,ca_trinity,06105,6105,0
+CA,Tulare,California,ca_tulare,06107,6107,4
+CA,Tuolumne,California,ca_tuolumne,06109,6109,0
+CA,Ventura,California,ca_ventura,06111,6111,6
+CA,Yolo,California,ca_yolo,06113,6113,2
+CA,Yuba,California,ca_yuba,06115,6115,3
+CO,Adams,Colorado,co_adams,08001,8001,15
+CO,Alamosa,Colorado,co_alamosa,08003,8003,2
+CO,Arapahoe,Colorado,co_arapahoe,08005,8005,18
+CO,Archuleta,Colorado,co_archuleta,08007,8007,0
+CO,Baca,Colorado,co_baca,08009,8009,0
+CO,Bent,Colorado,co_bent,08011,8011,1
+CO,Boulder,Colorado,co_boulder,08013,8013,10
+CO,Broomfield,Colorado,co_broomfield,08014,8014,0
+CO,Chaffee,Colorado,co_chaffee,08015,8015,1
+CO,Cheyenne,Colorado,co_cheyenne,08017,8017,0
+CO,Clear Creek,Colorado,co_clear creek,08019,8019,0
+CO,Conejos,Colorado,co_conejos,08021,8021,0
+CO,Costilla,Colorado,co_costilla,08023,8023,0
+CO,Crowley,Colorado,co_crowley,08025,8025,0
+CO,Custer,Colorado,co_custer,08027,8027,0
+CO,Delta,Colorado,co_delta,08029,8029,1
+CO,Denver,Colorado,co_denver,08031,8031,29
+CO,Dolores,Colorado,co_dolores,08033,8033,0
+CO,Douglas,Colorado,co_douglas,08035,8035,3
+CO,Eagle,Colorado,co_eagle,08037,8037,0
+CO,El Paso,Colorado,co_el paso,08041,8041,43
+CO,Elbert,Colorado,co_elbert,08039,8039,0
+CO,Fremont,Colorado,co_fremont,08043,8043,1
+CO,Garfield,Colorado,co_garfield,08045,8045,3
+CO,Gilpin,Colorado,co_gilpin,08047,8047,0
+CO,Grand,Colorado,co_grand,08049,8049,0
+CO,Gunnison,Colorado,co_gunnison,08051,8051,1
+CO,Hinsdale,Colorado,co_hinsdale,08053,8053,0
+CO,Huerfano,Colorado,co_huerfano,08055,8055,1
+CO,Jackson,Colorado,co_jackson,08057,8057,1
+CO,Jefferson,Colorado,co_jefferson,08059,8059,20
+CO,Kiowa,Colorado,co_kiowa,08061,8061,0
+CO,Kit Carson,Colorado,co_kit carson,08063,8063,0
+CO,La Plata,Colorado,co_la plata,08067,8067,1
+CO,Lake,Colorado,co_lake,08065,8065,0
+CO,Larimer,Colorado,co_larimer,08069,8069,10
+CO,Las Animas,Colorado,co_las animas,08071,8071,0
+CO,Lincoln,Colorado,co_lincoln,08073,8073,0
+CO,Logan,Colorado,co_logan,08075,8075,0
+CO,Mesa,Colorado,co_mesa,08077,8077,4
+CO,Mineral,Colorado,co_mineral,08079,8079,0
+CO,Moffat,Colorado,co_moffat,08081,8081,1
+CO,Montezuma,Colorado,co_montezuma,08083,8083,0
+CO,Montrose,Colorado,co_montrose,08085,8085,3
+CO,Morgan,Colorado,co_morgan,08087,8087,1
+CO,Otero,Colorado,co_otero,08089,8089,0
+CO,Ouray,Colorado,co_ouray,08091,8091,0
+CO,Park,Colorado,co_park,08093,8093,1
+CO,Phillips,Colorado,co_phillips,08095,8095,0
+CO,Pitkin,Colorado,co_pitkin,08097,8097,0
+CO,Prowers,Colorado,co_prowers,08099,8099,2
+CO,Pueblo,Colorado,co_pueblo,08101,8101,10
+CO,Rio Blanco,Colorado,co_rio blanco,08103,8103,0
+CO,Rio Grande,Colorado,co_rio grande,08105,8105,0
+CO,Routt,Colorado,co_routt,08107,8107,0
+CO,Saguache,Colorado,co_saguache,08109,8109,0
+CO,San Juan,Colorado,co_san juan,08111,8111,0
+CO,San Miguel,Colorado,co_san miguel,08113,8113,0
+CO,Sedgwick,Colorado,co_sedgwick,08115,8115,0
+CO,Summit,Colorado,co_summit,08117,8117,1
+CO,Teller,Colorado,co_teller,08119,8119,0
+CO,Washington,Colorado,co_washington,08121,8121,0
+CO,Weld,Colorado,co_weld,08123,8123,2
+CO,Yuma,Colorado,co_yuma,08125,8125,1
+CT,Fairfield,Connecticut,ct_fairfield,09001,9001,9
+CT,Hartford,Connecticut,ct_hartford,09003,9003,18
+CT,Litchfield,Connecticut,ct_litchfield,09005,9005,1
+CT,Middlesex,Connecticut,ct_middlesex,09007,9007,1
+CT,New Haven,Connecticut,ct_new haven,09009,9009,9
+CT,New London,Connecticut,ct_new london,09011,9011,6
+CT,Tolland,Connecticut,ct_tolland,09013,9013,2
+CT,Windham,Connecticut,ct_windham,09015,9015,0
+DC,District of Columbia,District of Columbia,dc_district of columbia,11001,11001,2
+DE,Kent,Delaware,de_kent,10001,10001,2
+DE,New Castle,Delaware,de_new castle,10003,10003,6
+DE,Sussex,Delaware,de_sussex,10005,10005,2
+FL,Alachua,Florida,fl_alachua,12001,12001,4
+FL,Baker,Florida,fl_baker,12003,12003,0
+FL,Bay,Florida,fl_bay,12005,12005,24
+FL,Bradford,Florida,fl_bradford,12007,12007,1
+FL,Brevard,Florida,fl_brevard,12009,12009,14
+FL,Broward,Florida,fl_broward,12011,12011,59
+FL,Calhoun,Florida,fl_calhoun,12013,12013,1
+FL,Charlotte,Florida,fl_charlotte,12015,12015,4
+FL,Citrus,Florida,fl_citrus,12017,12017,9
+FL,Clay,Florida,fl_clay,12019,12019,2
+FL,Collier,Florida,fl_collier,12021,12021,4
+FL,Columbia,Florida,fl_columbia,12023,12023,1
+FL,DeSoto,Florida,fl_desoto,12027,12027,1
+FL,Dixie,Florida,fl_dixie,12029,12029,0
+FL,Duval,Florida,fl_duval,12031,12031,69
+FL,Escambia,Florida,fl_escambia,12033,12033,21
+FL,Flagler,Florida,fl_flagler,12035,12035,0
+FL,Franklin,Florida,fl_franklin,12037,12037,0
+FL,Gadsden,Florida,fl_gadsden,12039,12039,0
+FL,Gilchrist,Florida,fl_gilchrist,12041,12041,1
+FL,Glades,Florida,fl_glades,12043,12043,1
+FL,Gulf,Florida,fl_gulf,12045,12045,1
+FL,Hamilton,Florida,fl_hamilton,12047,12047,0
+FL,Hardee,Florida,fl_hardee,12049,12049,0
+FL,Hendry,Florida,fl_hendry,12051,12051,1
+FL,Hernando,Florida,fl_hernando,12053,12053,9
+FL,Highlands,Florida,fl_highlands,12055,12055,6
+FL,Hillsborough,Florida,fl_hillsborough,12057,12057,59
+FL,Holmes,Florida,fl_holmes,12059,12059,1
+FL,Indian River,Florida,fl_indian river,12061,12061,2
+FL,Jackson,Florida,fl_jackson,12063,12063,3
+FL,Jefferson,Florida,fl_jefferson,12065,12065,0
+FL,Lafayette,Florida,fl_lafayette,12067,12067,0
+FL,Lake,Florida,fl_lake,12069,12069,10
+FL,Lee,Florida,fl_lee,12071,12071,21
+FL,Leon,Florida,fl_leon,12073,12073,14
+FL,Levy,Florida,fl_levy,12075,12075,1
+FL,Liberty,Florida,fl_liberty,12077,12077,0
+FL,Madison,Florida,fl_madison,12079,12079,0
+FL,Manatee,Florida,fl_manatee,12081,12081,7
+FL,Marion,Florida,fl_marion,12083,12083,13
+FL,Martin,Florida,fl_martin,12085,12085,6
+FL,Miami-Dade,Florida,fl_miami-dade,12086,12086,95
+FL,Monroe,Florida,fl_monroe,12087,12087,2
+FL,Nassau,Florida,fl_nassau,12089,12089,1
+FL,Okaloosa,Florida,fl_okaloosa,12091,12091,13
+FL,Okeechobee,Florida,fl_okeechobee,12093,12093,1
+FL,Orange,Florida,fl_orange,12095,12095,42
+FL,Osceola,Florida,fl_osceola,12097,12097,8
+FL,Palm Beach,Florida,fl_palm beach,12099,12099,43
+FL,Pasco,Florida,fl_pasco,12101,12101,5
+FL,Pinellas,Florida,fl_pinellas,12103,12103,29
+FL,Polk,Florida,fl_polk,12105,12105,22
+FL,Putnam,Florida,fl_putnam,12107,12107,2
+FL,Santa Rosa,Florida,fl_santa rosa,12113,12113,2
+FL,Sarasota,Florida,fl_sarasota,12115,12115,7
+FL,Seminole,Florida,fl_seminole,12117,12117,8
+FL,St. Johns,Florida,fl_st. johns,12109,12109,3
+FL,St. Lucie,Florida,fl_st. lucie,12111,12111,1
+FL,Sumter,Florida,fl_sumter,12119,12119,1
+FL,Suwannee,Florida,fl_suwannee,12121,12121,3
+FL,Taylor,Florida,fl_taylor,12123,12123,1
+FL,Union,Florida,fl_union,12125,12125,0
+FL,Volusia,Florida,fl_volusia,12127,12127,11
+FL,Wakulla,Florida,fl_wakulla,12129,12129,1
+FL,Walton,Florida,fl_walton,12131,12131,0
+FL,Washington,Florida,fl_washington,12133,12133,2
+GA,Appling,Georgia,ga_appling,13001,13001,3
+GA,Atkinson,Georgia,ga_atkinson,13003,13003,0
+GA,Bacon,Georgia,ga_bacon,13005,13005,0
+GA,Baker,Georgia,ga_baker,13007,13007,0
+GA,Baldwin,Georgia,ga_baldwin,13009,13009,6
+GA,Banks,Georgia,ga_banks,13011,13011,0
+GA,Barrow,Georgia,ga_barrow,13013,13013,2
+GA,Bartow,Georgia,ga_bartow,13015,13015,3
+GA,Ben Hill,Georgia,ga_ben hill,13017,13017,0
+GA,Berrien,Georgia,ga_berrien,13019,13019,0
+GA,Bibb,Georgia,ga_bibb,13021,13021,31
+GA,Bleckley,Georgia,ga_bleckley,13023,13023,0
+GA,Brantley,Georgia,ga_brantley,13025,13025,0
+GA,Brooks,Georgia,ga_brooks,13027,13027,0
+GA,Bryan,Georgia,ga_bryan,13029,13029,1
+GA,Bulloch,Georgia,ga_bulloch,13031,13031,2
+GA,Burke,Georgia,ga_burke,13033,13033,0
+GA,Butts,Georgia,ga_butts,13035,13035,0
+GA,Calhoun,Georgia,ga_calhoun,13037,13037,1
+GA,Camden,Georgia,ga_camden,13039,13039,2
+GA,Candler,Georgia,ga_candler,13043,13043,2
+GA,Carroll,Georgia,ga_carroll,13045,13045,7
+GA,Catoosa,Georgia,ga_catoosa,13047,13047,4
+GA,Charlton,Georgia,ga_charlton,13049,13049,0
+GA,Chatham,Georgia,ga_chatham,13051,13051,15
+GA,Chattahoochee,Georgia,ga_chattahoochee,13053,13053,0
+GA,Chattooga,Georgia,ga_chattooga,13055,13055,1
+GA,Cherokee,Georgia,ga_cherokee,13057,13057,8
+GA,Clarke,Georgia,ga_clarke,13059,13059,8
+GA,Clay,Georgia,ga_clay,13061,13061,0
+GA,Clayton,Georgia,ga_clayton,13063,13063,79
+GA,Clinch,Georgia,ga_clinch,13065,13065,0
+GA,Cobb,Georgia,ga_cobb,13067,13067,83
+GA,Coffee,Georgia,ga_coffee,13069,13069,1
+GA,Colquitt,Georgia,ga_colquitt,13071,13071,1
+GA,Columbia,Georgia,ga_columbia,13073,13073,2
+GA,Cook,Georgia,ga_cook,13075,13075,0
+GA,Coweta,Georgia,ga_coweta,13077,13077,8
+GA,Crawford,Georgia,ga_crawford,13079,13079,0
+GA,Crisp,Georgia,ga_crisp,13081,13081,1
+GA,Dade,Georgia,ga_dade,13083,13083,1
+GA,Dawson,Georgia,ga_dawson,13085,13085,3
+GA,Decatur,Georgia,ga_decatur,13087,13087,0
+GA,DeKalb,Georgia,ga_dekalb,13089,13089,73
+GA,Dodge,Georgia,ga_dodge,13091,13091,0
+GA,Dooly,Georgia,ga_dooly,13093,13093,2
+GA,Dougherty,Georgia,ga_dougherty,13095,13095,14
+GA,Douglas,Georgia,ga_douglas,13097,13097,1
+GA,Early,Georgia,ga_early,13099,13099,1
+GA,Echols,Georgia,ga_echols,13101,13101,0
+GA,Effingham,Georgia,ga_effingham,13103,13103,0
+GA,Elbert,Georgia,ga_elbert,13105,13105,1
+GA,Emanuel,Georgia,ga_emanuel,13107,13107,0
+GA,Evans,Georgia,ga_evans,13109,13109,1
+GA,Fannin,Georgia,ga_fannin,13111,13111,4
+GA,Fayette,Georgia,ga_fayette,13113,13113,4
+GA,Floyd,Georgia,ga_floyd,13115,13115,15
+GA,Forsyth,Georgia,ga_forsyth,13117,13117,5
+GA,Franklin,Georgia,ga_franklin,13119,13119,3
+GA,Fulton,Georgia,ga_fulton,13121,13121,65
+GA,Gilmer,Georgia,ga_gilmer,13123,13123,0
+GA,Glascock,Georgia,ga_glascock,13125,13125,0
+GA,Glynn,Georgia,ga_glynn,13127,13127,3
+GA,Gordon,Georgia,ga_gordon,13129,13129,8
+GA,Grady,Georgia,ga_grady,13131,13131,4
+GA,Greene,Georgia,ga_greene,13133,13133,1
+GA,Gwinnett,Georgia,ga_gwinnett,13135,13135,46
+GA,Habersham,Georgia,ga_habersham,13137,13137,3
+GA,Hall,Georgia,ga_hall,13139,13139,10
+GA,Hancock,Georgia,ga_hancock,13141,13141,0
+GA,Haralson,Georgia,ga_haralson,13143,13143,2
+GA,Harris,Georgia,ga_harris,13145,13145,2
+GA,Hart,Georgia,ga_hart,13147,13147,0
+GA,Heard,Georgia,ga_heard,13149,13149,0
+GA,Henry,Georgia,ga_henry,13151,13151,6
+GA,Houston,Georgia,ga_houston,13153,13153,17
+GA,Irwin,Georgia,ga_irwin,13155,13155,0
+GA,Jackson,Georgia,ga_jackson,13157,13157,0
+GA,Jasper,Georgia,ga_jasper,13159,13159,0
+GA,Jeff Davis,Georgia,ga_jeff davis,13161,13161,1
+GA,Jefferson,Georgia,ga_jefferson,13163,13163,0
+GA,Jenkins,Georgia,ga_jenkins,13165,13165,0
+GA,Johnson,Georgia,ga_johnson,13167,13167,0
+GA,Jones,Georgia,ga_jones,13169,13169,0
+GA,Lamar,Georgia,ga_lamar,13171,13171,2
+GA,Lanier,Georgia,ga_lanier,13173,13173,0
+GA,Laurens,Georgia,ga_laurens,13175,13175,1
+GA,Lee,Georgia,ga_lee,13177,13177,2
+GA,Liberty,Georgia,ga_liberty,13179,13179,36
+GA,Lincoln,Georgia,ga_lincoln,13181,13181,2
+GA,Long,Georgia,ga_long,13183,13183,1
+GA,Lowndes,Georgia,ga_lowndes,13185,13185,8
+GA,Lumpkin,Georgia,ga_lumpkin,13187,13187,4
+GA,Macon,Georgia,ga_macon,13193,13193,0
+GA,Madison,Georgia,ga_madison,13195,13195,0
+GA,Marion,Georgia,ga_marion,13197,13197,0
+GA,McDuffie,Georgia,ga_mcduffie,13189,13189,4
+GA,McIntosh,Georgia,ga_mcintosh,13191,13191,0
+GA,Meriwether,Georgia,ga_meriwether,13199,13199,2
+GA,Miller,Georgia,ga_miller,13201,13201,0
+GA,Mitchell,Georgia,ga_mitchell,13205,13205,0
+GA,Monroe,Georgia,ga_monroe,13207,13207,0
+GA,Montgomery,Georgia,ga_montgomery,13209,13209,0
+GA,Morgan,Georgia,ga_morgan,13211,13211,1
+GA,Murray,Georgia,ga_murray,13213,13213,23
+GA,Muscogee,Georgia,ga_muscogee,13215,13215,48
+GA,Newton,Georgia,ga_newton,13217,13217,5
+GA,Oconee,Georgia,ga_oconee,13219,13219,19
+GA,Oglethorpe,Georgia,ga_oglethorpe,13221,13221,0
+GA,Paulding,Georgia,ga_paulding,13223,13223,0
+GA,Peach,Georgia,ga_peach,13225,13225,3
+GA,Pickens,Georgia,ga_pickens,13227,13227,9
+GA,Pierce,Georgia,ga_pierce,13229,13229,0
+GA,Pike,Georgia,ga_pike,13231,13231,0
+GA,Polk,Georgia,ga_polk,13233,13233,4
+GA,Pulaski,Georgia,ga_pulaski,13235,13235,1
+GA,Putnam,Georgia,ga_putnam,13237,13237,2
+GA,Quitman,Georgia,ga_quitman,13239,13239,0
+GA,Rabun,Georgia,ga_rabun,13241,13241,1
+GA,Randolph,Georgia,ga_randolph,13243,13243,4
+GA,Richmond,Georgia,ga_richmond,13245,13245,27
+GA,Rockdale,Georgia,ga_rockdale,13247,13247,8
+GA,Schley,Georgia,ga_schley,13249,13249,0
+GA,Screven,Georgia,ga_screven,13251,13251,0
+GA,Seminole,Georgia,ga_seminole,13253,13253,0
+GA,Spalding,Georgia,ga_spalding,13255,13255,11
+GA,Stephens,Georgia,ga_stephens,13257,13257,1
+GA,Stewart,Georgia,ga_stewart,13259,13259,3
+GA,Sumter,Georgia,ga_sumter,13261,13261,1
+GA,Talbot,Georgia,ga_talbot,13263,13263,0
+GA,Taliaferro,Georgia,ga_taliaferro,13265,13265,0
+GA,Tattnall,Georgia,ga_tattnall,13267,13267,1
+GA,Taylor,Georgia,ga_taylor,13269,13269,5
+GA,Telfair,Georgia,ga_telfair,13271,13271,1
+GA,Terrell,Georgia,ga_terrell,13273,13273,2
+GA,Thomas,Georgia,ga_thomas,13275,13275,2
+GA,Tift,Georgia,ga_tift,13277,13277,9
+GA,Toombs,Georgia,ga_toombs,13279,13279,6
+GA,Towns,Georgia,ga_towns,13281,13281,0
+GA,Treutlen,Georgia,ga_treutlen,13283,13283,0
+GA,Troup,Georgia,ga_troup,13285,13285,11
+GA,Turner,Georgia,ga_turner,13287,13287,1
+GA,Twiggs,Georgia,ga_twiggs,13289,13289,2
+GA,Union,Georgia,ga_union,13291,13291,2
+GA,Upson,Georgia,ga_upson,13293,13293,2
+GA,Walker,Georgia,ga_walker,13295,13295,22
+GA,Walton,Georgia,ga_walton,13297,13297,2
+GA,Ware,Georgia,ga_ware,13299,13299,5
+GA,Warren,Georgia,ga_warren,13301,13301,0
+GA,Washington,Georgia,ga_washington,13303,13303,4
+GA,Wayne,Georgia,ga_wayne,13305,13305,2
+GA,Webster,Georgia,ga_webster,13307,13307,0
+GA,Wheeler,Georgia,ga_wheeler,13309,13309,0
+GA,White,Georgia,ga_white,13311,13311,0
+GA,Whitfield,Georgia,ga_whitfield,13313,13313,52
+GA,Wilcox,Georgia,ga_wilcox,13315,13315,0
+GA,Wilkes,Georgia,ga_wilkes,13317,13317,2
+GA,Wilkinson,Georgia,ga_wilkinson,13319,13319,0
+GA,Worth,Georgia,ga_worth,13321,13321,0
+HI,Hawaii,Hawaii,hi_hawaii,15001,15001,0
+HI,Honolulu,Hawaii,hi_honolulu,15003,15003,8
+HI,Kalawao,Hawaii,hi_kalawao,15005,15005,0
+HI,Kauai,Hawaii,hi_kauai,15007,15007,0
+HI,Maui,Hawaii,hi_maui,15009,15009,0
+IA,Adair,Iowa,ia_adair,19001,19001,0
+IA,Adams,Iowa,ia_adams,19003,19003,0
+IA,Allamakee,Iowa,ia_allamakee,19005,19005,0
+IA,Appanoose,Iowa,ia_appanoose,19007,19007,1
+IA,Audubon,Iowa,ia_audubon,19009,19009,0
+IA,Benton,Iowa,ia_benton,19011,19011,5
+IA,Black Hawk,Iowa,ia_black hawk,19013,19013,31
+IA,Boone,Iowa,ia_boone,19015,19015,1
+IA,Bremer,Iowa,ia_bremer,19017,19017,2
+IA,Buchanan,Iowa,ia_buchanan,19019,19019,3
+IA,Buena Vista,Iowa,ia_buena vista,19021,19021,4
+IA,Butler,Iowa,ia_butler,19023,19023,0
+IA,Calhoun,Iowa,ia_calhoun,19025,19025,0
+IA,Carroll,Iowa,ia_carroll,19027,19027,0
+IA,Cass,Iowa,ia_cass,19029,19029,1
+IA,Cedar,Iowa,ia_cedar,19031,19031,0
+IA,Cerro Gordo,Iowa,ia_cerro gordo,19033,19033,7
+IA,Cherokee,Iowa,ia_cherokee,19035,19035,0
+IA,Chickasaw,Iowa,ia_chickasaw,19037,19037,3
+IA,Clarke,Iowa,ia_clarke,19039,19039,1
+IA,Clay,Iowa,ia_clay,19041,19041,1
+IA,Clayton,Iowa,ia_clayton,19043,19043,2
+IA,Clinton,Iowa,ia_clinton,19045,19045,10
+IA,Crawford,Iowa,ia_crawford,19047,19047,4
+IA,Dallas,Iowa,ia_dallas,19049,19049,1
+IA,Davis,Iowa,ia_davis,19051,19051,0
+IA,Decatur,Iowa,ia_decatur,19053,19053,2
+IA,Delaware,Iowa,ia_delaware,19055,19055,2
+IA,Des Moines,Iowa,ia_des moines,19057,19057,22
+IA,Dickinson,Iowa,ia_dickinson,19059,19059,0
+IA,Dubuque,Iowa,ia_dubuque,19061,19061,30
+IA,Emmet,Iowa,ia_emmet,19063,19063,0
+IA,Fayette,Iowa,ia_fayette,19065,19065,3
+IA,Floyd,Iowa,ia_floyd,19067,19067,0
+IA,Franklin,Iowa,ia_franklin,19069,19069,0
+IA,Fremont,Iowa,ia_fremont,19071,19071,0
+IA,Greene,Iowa,ia_greene,19073,19073,1
+IA,Grundy,Iowa,ia_grundy,19075,19075,0
+IA,Guthrie,Iowa,ia_guthrie,19077,19077,0
+IA,Hamilton,Iowa,ia_hamilton,19079,19079,0
+IA,Hancock,Iowa,ia_hancock,19081,19081,0
+IA,Hardin,Iowa,ia_hardin,19083,19083,3
+IA,Harrison,Iowa,ia_harrison,19085,19085,0
+IA,Henry,Iowa,ia_henry,19087,19087,6
+IA,Howard,Iowa,ia_howard,19089,19089,0
+IA,Humboldt,Iowa,ia_humboldt,19091,19091,0
+IA,Ida,Iowa,ia_ida,19093,19093,1
+IA,Iowa,Iowa,ia_iowa,19095,19095,4
+IA,Jackson,Iowa,ia_jackson,19097,19097,2
+IA,Jasper,Iowa,ia_jasper,19099,19099,2
+IA,Jefferson,Iowa,ia_jefferson,19101,19101,1
+IA,Johnson,Iowa,ia_johnson,19103,19103,31
+IA,Jones,Iowa,ia_jones,19105,19105,0
+IA,Keokuk,Iowa,ia_keokuk,19107,19107,0
+IA,Kossuth,Iowa,ia_kossuth,19109,19109,0
+IA,Lee,Iowa,ia_lee,19111,19111,7
+IA,Linn,Iowa,ia_linn,19113,19113,71
+IA,Louisa,Iowa,ia_louisa,19115,19115,0
+IA,Lucas,Iowa,ia_lucas,19117,19117,1
+IA,Lyon,Iowa,ia_lyon,19119,19119,0
+IA,Madison,Iowa,ia_madison,19121,19121,0
+IA,Mahaska,Iowa,ia_mahaska,19123,19123,0
+IA,Marion,Iowa,ia_marion,19125,19125,2
+IA,Marshall,Iowa,ia_marshall,19127,19127,7
+IA,Mills,Iowa,ia_mills,19129,19129,1
+IA,Mitchell,Iowa,ia_mitchell,19131,19131,0
+IA,Monona,Iowa,ia_monona,19133,19133,0
+IA,Monroe,Iowa,ia_monroe,19135,19135,0
+IA,Montgomery,Iowa,ia_montgomery,19137,19137,1
+IA,Muscatine,Iowa,ia_muscatine,19139,19139,1
+IA,O'Brien,Iowa,ia_o'brien,19141,19141,1
+IA,Osceola,Iowa,ia_osceola,19143,19143,1
+IA,Page,Iowa,ia_page,19145,19145,2
+IA,Palo Alto,Iowa,ia_palo alto,19147,19147,1
+IA,Plymouth,Iowa,ia_plymouth,19149,19149,2
+IA,Pocahontas,Iowa,ia_pocahontas,19151,19151,1
+IA,Polk,Iowa,ia_polk,19153,19153,53
+IA,Pottawattamie,Iowa,ia_pottawattamie,19155,19155,4
+IA,Poweshiek,Iowa,ia_poweshiek,19157,19157,2
+IA,Ringgold,Iowa,ia_ringgold,19159,19159,0
+IA,Sac,Iowa,ia_sac,19161,19161,0
+IA,Scott,Iowa,ia_scott,19163,19163,28
+IA,Shelby,Iowa,ia_shelby,19165,19165,0
+IA,Sioux,Iowa,ia_sioux,19167,19167,0
+IA,Story,Iowa,ia_story,19169,19169,5
+IA,Tama,Iowa,ia_tama,19171,19171,0
+IA,Taylor,Iowa,ia_taylor,19173,19173,0
+IA,Union,Iowa,ia_union,19175,19175,0
+IA,Van Buren,Iowa,ia_van buren,19177,19177,1
+IA,Wapello,Iowa,ia_wapello,19179,19179,3
+IA,Warren,Iowa,ia_warren,19181,19181,2
+IA,Washington,Iowa,ia_washington,19183,19183,0
+IA,Wayne,Iowa,ia_wayne,19185,19185,2
+IA,Webster,Iowa,ia_webster,19187,19187,2
+IA,Winnebago,Iowa,ia_winnebago,19189,19189,0
+IA,Winneshiek,Iowa,ia_winneshiek,19191,19191,0
+IA,Woodbury,Iowa,ia_woodbury,19193,19193,9
+IA,Worth,Iowa,ia_worth,19195,19195,0
+IA,Wright,Iowa,ia_wright,19197,19197,0
+ID,Ada,Idaho,id_ada,16001,16001,9
+ID,Adams,Idaho,id_adams,16003,16003,0
+ID,Bannock,Idaho,id_bannock,16005,16005,1
+ID,Bear Lake,Idaho,id_bear lake,16007,16007,0
+ID,Benewah,Idaho,id_benewah,16009,16009,0
+ID,Bingham,Idaho,id_bingham,16011,16011,4
+ID,Blaine,Idaho,id_blaine,16013,16013,1
+ID,Boise,Idaho,id_boise,16015,16015,0
+ID,Bonner,Idaho,id_bonner,16017,16017,2
+ID,Bonneville,Idaho,id_bonneville,16019,16019,7
+ID,Boundary,Idaho,id_boundary,16021,16021,0
+ID,Butte,Idaho,id_butte,16023,16023,0
+ID,Camas,Idaho,id_camas,16025,16025,0
+ID,Canyon,Idaho,id_canyon,16027,16027,3
+ID,Caribou,Idaho,id_caribou,16029,16029,0
+ID,Cassia,Idaho,id_cassia,16031,16031,0
+ID,Clark,Idaho,id_clark,16033,16033,0
+ID,Clearwater,Idaho,id_clearwater,16035,16035,0
+ID,Custer,Idaho,id_custer,16037,16037,0
+ID,Elmore,Idaho,id_elmore,16039,16039,3
+ID,Franklin,Idaho,id_franklin,16041,16041,0
+ID,Fremont,Idaho,id_fremont,16043,16043,0
+ID,Gem,Idaho,id_gem,16045,16045,0
+ID,Gooding,Idaho,id_gooding,16047,16047,1
+ID,Idaho,Idaho,id_idaho,16049,16049,1
+ID,Jefferson,Idaho,id_jefferson,16051,16051,0
+ID,Jerome,Idaho,id_jerome,16053,16053,0
+ID,Kootenai,Idaho,id_kootenai,16055,16055,1
+ID,Latah,Idaho,id_latah,16057,16057,0
+ID,Lemhi,Idaho,id_lemhi,16059,16059,0
+ID,Lewis,Idaho,id_lewis,16061,16061,0
+ID,Lincoln,Idaho,id_lincoln,16063,16063,0
+ID,Madison,Idaho,id_madison,16065,16065,0
+ID,Minidoka,Idaho,id_minidoka,16067,16067,0
+ID,Nez Perce,Idaho,id_nez perce,16069,16069,2
+ID,Oneida,Idaho,id_oneida,16071,16071,0
+ID,Owyhee,Idaho,id_owyhee,16073,16073,0
+ID,Payette,Idaho,id_payette,16075,16075,1
+ID,Power,Idaho,id_power,16077,16077,0
+ID,Shoshone,Idaho,id_shoshone,16079,16079,0
+ID,Teton,Idaho,id_teton,16081,16081,0
+ID,Twin Falls,Idaho,id_twin falls,16083,16083,2
+ID,Valley,Idaho,id_valley,16085,16085,0
+ID,Washington,Idaho,id_washington,16087,16087,1
+IL,Adams,Illinois,il_adams,17001,17001,14
+IL,Alexander,Illinois,il_alexander,17003,17003,0
+IL,Bond,Illinois,il_bond,17005,17005,0
+IL,Boone,Illinois,il_boone,17007,17007,16
+IL,Brown,Illinois,il_brown,17009,17009,1
+IL,Bureau,Illinois,il_bureau,17011,17011,12
+IL,Calhoun,Illinois,il_calhoun,17013,17013,0
+IL,Carroll,Illinois,il_carroll,17015,17015,2
+IL,Cass,Illinois,il_cass,17017,17017,3
+IL,Champaign,Illinois,il_champaign,17019,17019,135
+IL,Christian,Illinois,il_christian,17021,17021,8
+IL,Clark,Illinois,il_clark,17023,17023,3
+IL,Clay,Illinois,il_clay,17025,17025,8
+IL,Clinton,Illinois,il_clinton,17027,17027,8
+IL,Coles,Illinois,il_coles,17029,17029,21
+IL,Cook,Illinois,il_cook,17031,17031,15781
+IL,Crawford,Illinois,il_crawford,17033,17033,7
+IL,Cumberland,Illinois,il_cumberland,17035,17035,0
+IL,De Witt,Illinois,il_de witt,17039,17039,11
+IL,DeKalb,Illinois,il_dekalb,17037,17037,39
+IL,Douglas,Illinois,il_douglas,17041,17041,5
+IL,DuPage,Illinois,il_dupage,17043,17043,1879
+IL,Edgar,Illinois,il_edgar,17045,17045,7
+IL,Edwards,Illinois,il_edwards,17047,17047,1
+IL,Effingham,Illinois,il_effingham,17049,17049,11
+IL,Fayette,Illinois,il_fayette,17051,17051,9
+IL,Ford,Illinois,il_ford,17053,17053,4
+IL,Franklin,Illinois,il_franklin,17055,17055,24
+IL,Fulton,Illinois,il_fulton,17057,17057,5
+IL,Gallatin,Illinois,il_gallatin,17059,17059,1
+IL,Greene,Illinois,il_greene,17061,17061,3
+IL,Grundy,Illinois,il_grundy,17063,17063,17
+IL,Hamilton,Illinois,il_hamilton,17065,17065,5
+IL,Hancock,Illinois,il_hancock,17067,17067,4
+IL,Hardin,Illinois,il_hardin,17069,17069,0
+IL,Henderson,Illinois,il_henderson,17071,17071,0
+IL,Henry,Illinois,il_henry,17073,17073,21
+IL,Iroquois,Illinois,il_iroquois,17075,17075,16
+IL,Jackson,Illinois,il_jackson,17077,17077,76
+IL,Jasper,Illinois,il_jasper,17079,17079,1
+IL,Jefferson,Illinois,il_jefferson,17081,17081,31
+IL,Jersey,Illinois,il_jersey,17083,17083,4
+IL,Jo Daviess,Illinois,il_jo daviess,17085,17085,2
+IL,Johnson,Illinois,il_johnson,17087,17087,21
+IL,Kane,Illinois,il_kane,17089,17089,761
+IL,Kankakee,Illinois,il_kankakee,17091,17091,257
+IL,Kendall,Illinois,il_kendall,17093,17093,20
+IL,Knox,Illinois,il_knox,17095,17095,36
+IL,La Salle,Illinois,il_la salle,17099,17099,55
+IL,Lake,Illinois,il_lake,17097,17097,456
+IL,Lawrence,Illinois,il_lawrence,17101,17101,2
+IL,Lee,Illinois,il_lee,17103,17103,9
+IL,Livingston,Illinois,il_livingston,17105,17105,11
+IL,Logan,Illinois,il_logan,17107,17107,9
+IL,Macon,Illinois,il_macon,17115,17115,71
+IL,Macoupin,Illinois,il_macoupin,17117,17117,17
+IL,Madison,Illinois,il_madison,17119,17119,39
+IL,Marion,Illinois,il_marion,17121,17121,33
+IL,Marshall,Illinois,il_marshall,17123,17123,7
+IL,Mason,Illinois,il_mason,17125,17125,2
+IL,Massac,Illinois,il_massac,17127,17127,2
+IL,McDonough,Illinois,il_mcdonough,17109,17109,17
+IL,McHenry,Illinois,il_mchenry,17111,17111,93
+IL,McLean,Illinois,il_mclean,17113,17113,69
+IL,Menard,Illinois,il_menard,17129,17129,1
+IL,Mercer,Illinois,il_mercer,17131,17131,1
+IL,Monroe,Illinois,il_monroe,17133,17133,1
+IL,Montgomery,Illinois,il_montgomery,17135,17135,5
+IL,Morgan,Illinois,il_morgan,17137,17137,9
+IL,Moultrie,Illinois,il_moultrie,17139,17139,0
+IL,Ogle,Illinois,il_ogle,17141,17141,8
+IL,Peoria,Illinois,il_peoria,17143,17143,102
+IL,Perry,Illinois,il_perry,17145,17145,28
+IL,Piatt,Illinois,il_piatt,17147,17147,6
+IL,Pike,Illinois,il_pike,17149,17149,2
+IL,Pope,Illinois,il_pope,17151,17151,1
+IL,Pulaski,Illinois,il_pulaski,17153,17153,11
+IL,Putnam,Illinois,il_putnam,17155,17155,3
+IL,Randolph,Illinois,il_randolph,17157,17157,6
+IL,Richland,Illinois,il_richland,17159,17159,4
+IL,Rock Island,Illinois,il_rock island,17161,17161,63
+IL,Saline,Illinois,il_saline,17165,17165,31
+IL,Sangamon,Illinois,il_sangamon,17167,17167,116
+IL,Schuyler,Illinois,il_schuyler,17169,17169,1
+IL,Scott,Illinois,il_scott,17171,17171,0
+IL,Shelby,Illinois,il_shelby,17173,17173,14
+IL,St. Clair,Illinois,il_st. clair,17163,17163,49
+IL,Stark,Illinois,il_stark,17175,17175,11
+IL,Stephenson,Illinois,il_stephenson,17177,17177,19
+IL,Tazewell,Illinois,il_tazewell,17179,17179,37
+IL,Union,Illinois,il_union,17181,17181,8
+IL,Vermilion,Illinois,il_vermilion,17183,17183,87
+IL,Wabash,Illinois,il_wabash,17185,17185,2
+IL,Warren,Illinois,il_warren,17187,17187,0
+IL,Washington,Illinois,il_washington,17189,17189,1
+IL,Wayne,Illinois,il_wayne,17191,17191,9
+IL,White,Illinois,il_white,17193,17193,1
+IL,Whiteside,Illinois,il_whiteside,17195,17195,33
+IL,Will,Illinois,il_will,17197,17197,909
+IL,Williamson,Illinois,il_williamson,17199,17199,57
+IL,Winnebago,Illinois,il_winnebago,17201,17201,226
+IL,Woodford,Illinois,il_woodford,17203,17203,7
+IN,Adams,Indiana,in_adams,18001,18001,4
+IN,Allen,Indiana,in_allen,18003,18003,216
+IN,Bartholomew,Indiana,in_bartholomew,18005,18005,25
+IN,Benton,Indiana,in_benton,18007,18007,1
+IN,Blackford,Indiana,in_blackford,18009,18009,5
+IN,Boone,Indiana,in_boone,18011,18011,15
+IN,Brown,Indiana,in_brown,18013,18013,6
+IN,Carroll,Indiana,in_carroll,18015,18015,11
+IN,Cass,Indiana,in_cass,18017,18017,117
+IN,Clark,Indiana,in_clark,18019,18019,31
+IN,Clay,Indiana,in_clay,18021,18021,14
+IN,Clinton,Indiana,in_clinton,18023,18023,13
+IN,Crawford,Indiana,in_crawford,18025,18025,2
+IN,Daviess,Indiana,in_daviess,18027,18027,6
+IN,Dearborn,Indiana,in_dearborn,18029,18029,1
+IN,Decatur,Indiana,in_decatur,18031,18031,9
+IN,DeKalb,Indiana,in_dekalb,18033,18033,51
+IN,Delaware,Indiana,in_delaware,18035,18035,53
+IN,Dubois,Indiana,in_dubois,18037,18037,8
+IN,Elkhart,Indiana,in_elkhart,18039,18039,144
+IN,Fayette,Indiana,in_fayette,18041,18041,16
+IN,Floyd,Indiana,in_floyd,18043,18043,11
+IN,Fountain,Indiana,in_fountain,18045,18045,21
+IN,Franklin,Indiana,in_franklin,18047,18047,0
+IN,Fulton,Indiana,in_fulton,18049,18049,16
+IN,Gibson,Indiana,in_gibson,18051,18051,8
+IN,Grant,Indiana,in_grant,18053,18053,43
+IN,Greene,Indiana,in_greene,18055,18055,25
+IN,Hamilton,Indiana,in_hamilton,18057,18057,49
+IN,Hancock,Indiana,in_hancock,18059,18059,10
+IN,Harrison,Indiana,in_harrison,18061,18061,35
+IN,Hendricks,Indiana,in_hendricks,18063,18063,101
+IN,Henry,Indiana,in_henry,18065,18065,24
+IN,Howard,Indiana,in_howard,18067,18067,80
+IN,Huntington,Indiana,in_huntington,18069,18069,11
+IN,Jackson,Indiana,in_jackson,18071,18071,11
+IN,Jasper,Indiana,in_jasper,18073,18073,68
+IN,Jay,Indiana,in_jay,18075,18075,2
+IN,Jefferson,Indiana,in_jefferson,18077,18077,3
+IN,Jennings,Indiana,in_jennings,18079,18079,15
+IN,Johnson,Indiana,in_johnson,18081,18081,77
+IN,Knox,Indiana,in_knox,18083,18083,22
+IN,Kosciusko,Indiana,in_kosciusko,18085,18085,48
+IN,LaGrange,Indiana,in_lagrange,18087,18087,5
+IN,Lake,Indiana,in_lake,18089,18089,2715
+IN,LaPorte,Indiana,in_laporte,18091,18091,249
+IN,Lawrence,Indiana,in_lawrence,18093,18093,17
+IN,Madison,Indiana,in_madison,18095,18095,42
+IN,Marion,Indiana,in_marion,18097,18097,1106
+IN,Marshall,Indiana,in_marshall,18099,18099,16
+IN,Martin,Indiana,in_martin,18101,18101,1
+IN,Miami,Indiana,in_miami,18103,18103,12
+IN,Monroe,Indiana,in_monroe,18105,18105,33
+IN,Montgomery,Indiana,in_montgomery,18107,18107,20
+IN,Morgan,Indiana,in_morgan,18109,18109,14
+IN,Newton,Indiana,in_newton,18111,18111,9
+IN,Noble,Indiana,in_noble,18113,18113,22
+IN,Ohio,Indiana,in_ohio,18115,18115,0
+IN,Orange,Indiana,in_orange,18117,18117,4
+IN,Owen,Indiana,in_owen,18119,18119,1
+IN,Parke,Indiana,in_parke,18121,18121,7
+IN,Perry,Indiana,in_perry,18123,18123,4
+IN,Pike,Indiana,in_pike,18125,18125,0
+IN,Porter,Indiana,in_porter,18127,18127,905
+IN,Posey,Indiana,in_posey,18129,18129,1
+IN,Pulaski,Indiana,in_pulaski,18131,18131,9
+IN,Putnam,Indiana,in_putnam,18133,18133,7
+IN,Randolph,Indiana,in_randolph,18135,18135,41
+IN,Ripley,Indiana,in_ripley,18137,18137,1
+IN,Rush,Indiana,in_rush,18139,18139,1
+IN,Scott,Indiana,in_scott,18143,18143,25
+IN,Shelby,Indiana,in_shelby,18145,18145,37
+IN,Spencer,Indiana,in_spencer,18147,18147,2
+IN,St. Joseph,Indiana,in_st. joseph,18141,18141,589
+IN,Starke,Indiana,in_starke,18149,18149,15
+IN,Steuben,Indiana,in_steuben,18151,18151,20
+IN,Sullivan,Indiana,in_sullivan,18153,18153,10
+IN,Switzerland,Indiana,in_switzerland,18155,18155,3
+IN,Tippecanoe,Indiana,in_tippecanoe,18157,18157,74
+IN,Tipton,Indiana,in_tipton,18159,18159,7
+IN,Union,Indiana,in_union,18161,18161,1
+IN,Vanderburgh,Indiana,in_vanderburgh,18163,18163,55
+IN,Vermillion,Indiana,in_vermillion,18165,18165,13
+IN,Vigo,Indiana,in_vigo,18167,18167,95
+IN,Wabash,Indiana,in_wabash,18169,18169,61
+IN,Warren,Indiana,in_warren,18171,18171,0
+IN,Warrick,Indiana,in_warrick,18173,18173,4
+IN,Washington,Indiana,in_washington,18175,18175,0
+IN,Wayne,Indiana,in_wayne,18177,18177,26
+IN,Wells,Indiana,in_wells,18179,18179,9
+IN,White,Indiana,in_white,18181,18181,7
+IN,Whitley,Indiana,in_whitley,18183,18183,24
+KS,Allen,Kansas,ks_allen,20001,20001,2
+KS,Anderson,Kansas,ks_anderson,20003,20003,2
+KS,Atchison,Kansas,ks_atchison,20005,20005,0
+KS,Barber,Kansas,ks_barber,20007,20007,0
+KS,Barton,Kansas,ks_barton,20009,20009,3
+KS,Bourbon,Kansas,ks_bourbon,20011,20011,0
+KS,Brown,Kansas,ks_brown,20013,20013,0
+KS,Butler,Kansas,ks_butler,20015,20015,5
+KS,Chase,Kansas,ks_chase,20017,20017,0
+KS,Chautauqua,Kansas,ks_chautauqua,20019,20019,0
+KS,Cherokee,Kansas,ks_cherokee,20021,20021,0
+KS,Cheyenne,Kansas,ks_cheyenne,20023,20023,0
+KS,Clark,Kansas,ks_clark,20025,20025,0
+KS,Clay,Kansas,ks_clay,20027,20027,0
+KS,Cloud,Kansas,ks_cloud,20029,20029,0
+KS,Coffey,Kansas,ks_coffey,20031,20031,0
+KS,Comanche,Kansas,ks_comanche,20033,20033,2
+KS,Cowley,Kansas,ks_cowley,20035,20035,2
+KS,Crawford,Kansas,ks_crawford,20037,20037,3
+KS,Decatur,Kansas,ks_decatur,20039,20039,0
+KS,Dickinson,Kansas,ks_dickinson,20041,20041,3
+KS,Doniphan,Kansas,ks_doniphan,20043,20043,0
+KS,Douglas,Kansas,ks_douglas,20045,20045,1
+KS,Edwards,Kansas,ks_edwards,20047,20047,0
+KS,Elk,Kansas,ks_elk,20049,20049,0
+KS,Ellis,Kansas,ks_ellis,20051,20051,0
+KS,Ellsworth,Kansas,ks_ellsworth,20053,20053,0
+KS,Finney,Kansas,ks_finney,20055,20055,4
+KS,Ford,Kansas,ks_ford,20057,20057,1
+KS,Franklin,Kansas,ks_franklin,20059,20059,3
+KS,Geary,Kansas,ks_geary,20061,20061,8
+KS,Gove,Kansas,ks_gove,20063,20063,0
+KS,Graham,Kansas,ks_graham,20065,20065,0
+KS,Grant,Kansas,ks_grant,20067,20067,0
+KS,Gray,Kansas,ks_gray,20069,20069,0
+KS,Greeley,Kansas,ks_greeley,20071,20071,0
+KS,Greenwood,Kansas,ks_greenwood,20073,20073,0
+KS,Hamilton,Kansas,ks_hamilton,20075,20075,0
+KS,Harper,Kansas,ks_harper,20077,20077,0
+KS,Harvey,Kansas,ks_harvey,20079,20079,0
+KS,Haskell,Kansas,ks_haskell,20081,20081,0
+KS,Hodgeman,Kansas,ks_hodgeman,20083,20083,0
+KS,Jackson,Kansas,ks_jackson,20085,20085,0
+KS,Jefferson,Kansas,ks_jefferson,20087,20087,1
+KS,Jewell,Kansas,ks_jewell,20089,20089,0
+KS,Johnson,Kansas,ks_johnson,20091,20091,29
+KS,Kearny,Kansas,ks_kearny,20093,20093,1
+KS,Kingman,Kansas,ks_kingman,20095,20095,0
+KS,Kiowa,Kansas,ks_kiowa,20097,20097,0
+KS,Labette,Kansas,ks_labette,20099,20099,1
+KS,Lane,Kansas,ks_lane,20101,20101,0
+KS,Leavenworth,Kansas,ks_leavenworth,20103,20103,4
+KS,Lincoln,Kansas,ks_lincoln,20105,20105,0
+KS,Linn,Kansas,ks_linn,20107,20107,0
+KS,Logan,Kansas,ks_logan,20109,20109,0
+KS,Lyon,Kansas,ks_lyon,20111,20111,1
+KS,Marion,Kansas,ks_marion,20115,20115,0
+KS,Marshall,Kansas,ks_marshall,20117,20117,1
+KS,McPherson,Kansas,ks_mcpherson,20113,20113,0
+KS,Meade,Kansas,ks_meade,20119,20119,0
+KS,Miami,Kansas,ks_miami,20121,20121,1
+KS,Mitchell,Kansas,ks_mitchell,20123,20123,0
+KS,Montgomery,Kansas,ks_montgomery,20125,20125,6
+KS,Morris,Kansas,ks_morris,20127,20127,0
+KS,Morton,Kansas,ks_morton,20129,20129,0
+KS,Nemaha,Kansas,ks_nemaha,20131,20131,0
+KS,Neosho,Kansas,ks_neosho,20133,20133,0
+KS,Ness,Kansas,ks_ness,20135,20135,0
+KS,Norton,Kansas,ks_norton,20137,20137,0
+KS,Osage,Kansas,ks_osage,20139,20139,2
+KS,Osborne,Kansas,ks_osborne,20141,20141,0
+KS,Ottawa,Kansas,ks_ottawa,20143,20143,0
+KS,Pawnee,Kansas,ks_pawnee,20145,20145,0
+KS,Phillips,Kansas,ks_phillips,20147,20147,0
+KS,Pottawatomie,Kansas,ks_pottawatomie,20149,20149,0
+KS,Pratt,Kansas,ks_pratt,20151,20151,2
+KS,Rawlins,Kansas,ks_rawlins,20153,20153,0
+KS,Reno,Kansas,ks_reno,20155,20155,4
+KS,Republic,Kansas,ks_republic,20157,20157,0
+KS,Rice,Kansas,ks_rice,20159,20159,0
+KS,Riley,Kansas,ks_riley,20161,20161,19
+KS,Rooks,Kansas,ks_rooks,20163,20163,0
+KS,Rush,Kansas,ks_rush,20165,20165,0
+KS,Russell,Kansas,ks_russell,20167,20167,0
+KS,Saline,Kansas,ks_saline,20169,20169,3
+KS,Scott,Kansas,ks_scott,20171,20171,0
+KS,Sedgwick,Kansas,ks_sedgwick,20173,20173,25
+KS,Seward,Kansas,ks_seward,20175,20175,3
+KS,Shawnee,Kansas,ks_shawnee,20177,20177,27
+KS,Sheridan,Kansas,ks_sheridan,20179,20179,0
+KS,Sherman,Kansas,ks_sherman,20181,20181,0
+KS,Smith,Kansas,ks_smith,20183,20183,0
+KS,Stafford,Kansas,ks_stafford,20185,20185,0
+KS,Stanton,Kansas,ks_stanton,20187,20187,0
+KS,Stevens,Kansas,ks_stevens,20189,20189,0
+KS,Sumner,Kansas,ks_sumner,20191,20191,1
+KS,Thomas,Kansas,ks_thomas,20193,20193,0
+KS,Trego,Kansas,ks_trego,20195,20195,0
+KS,Wabaunsee,Kansas,ks_wabaunsee,20197,20197,0
+KS,Wallace,Kansas,ks_wallace,20199,20199,0
+KS,Washington,Kansas,ks_washington,20201,20201,0
+KS,Wichita,Kansas,ks_wichita,20203,20203,0
+KS,Wilson,Kansas,ks_wilson,20205,20205,0
+KS,Woodson,Kansas,ks_woodson,20207,20207,0
+KS,Wyandotte,Kansas,ks_wyandotte,20209,20209,7
+KY,Adair,Kentucky,ky_adair,21001,21001,7
+KY,Allen,Kentucky,ky_allen,21003,21003,2
+KY,Anderson,Kentucky,ky_anderson,21005,21005,0
+KY,Ballard,Kentucky,ky_ballard,21007,21007,5
+KY,Barren,Kentucky,ky_barren,21009,21009,9
+KY,Bath,Kentucky,ky_bath,21011,21011,0
+KY,Bell,Kentucky,ky_bell,21013,21013,22
+KY,Boone,Kentucky,ky_boone,21015,21015,19
+KY,Bourbon,Kentucky,ky_bourbon,21017,21017,6
+KY,Boyd,Kentucky,ky_boyd,21019,21019,25
+KY,Boyle,Kentucky,ky_boyle,21021,21021,9
+KY,Bracken,Kentucky,ky_bracken,21023,21023,0
+KY,Breathitt,Kentucky,ky_breathitt,21025,21025,4
+KY,Breckinridge,Kentucky,ky_breckinridge,21027,21027,0
+KY,Bullitt,Kentucky,ky_bullitt,21029,21029,13
+KY,Butler,Kentucky,ky_butler,21031,21031,5
+KY,Caldwell,Kentucky,ky_caldwell,21033,21033,8
+KY,Calloway,Kentucky,ky_calloway,21035,21035,26
+KY,Campbell,Kentucky,ky_campbell,21037,21037,2
+KY,Carlisle,Kentucky,ky_carlisle,21039,21039,1
+KY,Carroll,Kentucky,ky_carroll,21041,21041,1
+KY,Carter,Kentucky,ky_carter,21043,21043,6
+KY,Casey,Kentucky,ky_casey,21045,21045,2
+KY,Christian,Kentucky,ky_christian,21047,21047,44
+KY,Clark,Kentucky,ky_clark,21049,21049,7
+KY,Clay,Kentucky,ky_clay,21051,21051,8
+KY,Clinton,Kentucky,ky_clinton,21053,21053,2
+KY,Crittenden,Kentucky,ky_crittenden,21055,21055,10
+KY,Cumberland,Kentucky,ky_cumberland,21057,21057,1
+KY,Daviess,Kentucky,ky_daviess,21059,21059,38
+KY,Edmonson,Kentucky,ky_edmonson,21061,21061,4
+KY,Elliott,Kentucky,ky_elliott,21063,21063,0
+KY,Estill,Kentucky,ky_estill,21065,21065,10
+KY,Fayette,Kentucky,ky_fayette,21067,21067,66
+KY,Fleming,Kentucky,ky_fleming,21069,21069,2
+KY,Floyd,Kentucky,ky_floyd,21071,21071,9
+KY,Franklin,Kentucky,ky_franklin,21073,21073,24
+KY,Fulton,Kentucky,ky_fulton,21075,21075,18
+KY,Gallatin,Kentucky,ky_gallatin,21077,21077,0
+KY,Garrard,Kentucky,ky_garrard,21079,21079,0
+KY,Grant,Kentucky,ky_grant,21081,21081,5
+KY,Graves,Kentucky,ky_graves,21083,21083,16
+KY,Grayson,Kentucky,ky_grayson,21085,21085,4
+KY,Green,Kentucky,ky_green,21087,21087,6
+KY,Greenup,Kentucky,ky_greenup,21089,21089,1
+KY,Hancock,Kentucky,ky_hancock,21091,21091,5
+KY,Hardin,Kentucky,ky_hardin,21093,21093,43
+KY,Harlan,Kentucky,ky_harlan,21095,21095,10
+KY,Harrison,Kentucky,ky_harrison,21097,21097,8
+KY,Hart,Kentucky,ky_hart,21099,21099,2
+KY,Henderson,Kentucky,ky_henderson,21101,21101,15
+KY,Henry,Kentucky,ky_henry,21103,21103,2
+KY,Hickman,Kentucky,ky_hickman,21105,21105,0
+KY,Hopkins,Kentucky,ky_hopkins,21107,21107,16
+KY,Jackson,Kentucky,ky_jackson,21109,21109,4
+KY,Jefferson,Kentucky,ky_jefferson,21111,21111,186
+KY,Jessamine,Kentucky,ky_jessamine,21113,21113,3
+KY,Johnson,Kentucky,ky_johnson,21115,21115,12
+KY,Kenton,Kentucky,ky_kenton,21117,21117,3
+KY,Knott,Kentucky,ky_knott,21119,21119,3
+KY,Knox,Kentucky,ky_knox,21121,21121,3
+KY,Larue,Kentucky,ky_larue,21123,21123,5
+KY,Laurel,Kentucky,ky_laurel,21125,21125,11
+KY,Lawrence,Kentucky,ky_lawrence,21127,21127,0
+KY,Lee,Kentucky,ky_lee,21129,21129,2
+KY,Leslie,Kentucky,ky_leslie,21131,21131,5
+KY,Letcher,Kentucky,ky_letcher,21133,21133,8
+KY,Lewis,Kentucky,ky_lewis,21135,21135,2
+KY,Lincoln,Kentucky,ky_lincoln,21137,21137,2
+KY,Livingston,Kentucky,ky_livingston,21139,21139,9
+KY,Logan,Kentucky,ky_logan,21141,21141,6
+KY,Lyon,Kentucky,ky_lyon,21143,21143,3
+KY,Madison,Kentucky,ky_madison,21151,21151,23
+KY,Magoffin,Kentucky,ky_magoffin,21153,21153,4
+KY,Marion,Kentucky,ky_marion,21155,21155,3
+KY,Marshall,Kentucky,ky_marshall,21157,21157,4
+KY,Martin,Kentucky,ky_martin,21159,21159,3
+KY,Mason,Kentucky,ky_mason,21161,21161,1
+KY,McCracken,Kentucky,ky_mccracken,21145,21145,70
+KY,McCreary,Kentucky,ky_mccreary,21147,21147,8
+KY,McLean,Kentucky,ky_mclean,21149,21149,0
+KY,Meade,Kentucky,ky_meade,21163,21163,3
+KY,Menifee,Kentucky,ky_menifee,21165,21165,1
+KY,Mercer,Kentucky,ky_mercer,21167,21167,3
+KY,Metcalfe,Kentucky,ky_metcalfe,21169,21169,5
+KY,Monroe,Kentucky,ky_monroe,21171,21171,0
+KY,Montgomery,Kentucky,ky_montgomery,21173,21173,9
+KY,Morgan,Kentucky,ky_morgan,21175,21175,3
+KY,Muhlenberg,Kentucky,ky_muhlenberg,21177,21177,39
+KY,Nelson,Kentucky,ky_nelson,21179,21179,9
+KY,Nicholas,Kentucky,ky_nicholas,21181,21181,0
+KY,Ohio,Kentucky,ky_ohio,21183,21183,6
+KY,Oldham,Kentucky,ky_oldham,21185,21185,5
+KY,Owen,Kentucky,ky_owen,21187,21187,1
+KY,Owsley,Kentucky,ky_owsley,21189,21189,2
+KY,Pendleton,Kentucky,ky_pendleton,21191,21191,3
+KY,Perry,Kentucky,ky_perry,21193,21193,32
+KY,Pike,Kentucky,ky_pike,21195,21195,11
+KY,Powell,Kentucky,ky_powell,21197,21197,1
+KY,Pulaski,Kentucky,ky_pulaski,21199,21199,20
+KY,Robertson,Kentucky,ky_robertson,21201,21201,0
+KY,Rockcastle,Kentucky,ky_rockcastle,21203,21203,2
+KY,Rowan,Kentucky,ky_rowan,21205,21205,31
+KY,Russell,Kentucky,ky_russell,21207,21207,10
+KY,Scott,Kentucky,ky_scott,21209,21209,3
+KY,Shelby,Kentucky,ky_shelby,21211,21211,3
+KY,Simpson,Kentucky,ky_simpson,21213,21213,0
+KY,Spencer,Kentucky,ky_spencer,21215,21215,0
+KY,Taylor,Kentucky,ky_taylor,21217,21217,10
+KY,Todd,Kentucky,ky_todd,21219,21219,1
+KY,Trigg,Kentucky,ky_trigg,21221,21221,0
+KY,Trimble,Kentucky,ky_trimble,21223,21223,2
+KY,Union,Kentucky,ky_union,21225,21225,2
+KY,Warren,Kentucky,ky_warren,21227,21227,11
+KY,Washington,Kentucky,ky_washington,21229,21229,4
+KY,Wayne,Kentucky,ky_wayne,21231,21231,5
+KY,Webster,Kentucky,ky_webster,21233,21233,11
+KY,Whitley,Kentucky,ky_whitley,21235,21235,28
+KY,Wolfe,Kentucky,ky_wolfe,21237,21237,9
+KY,Woodford,Kentucky,ky_woodford,21239,21239,10
+LA,Acadia,Louisiana,la_acadia,22001,22001,0
+LA,Allen,Louisiana,la_allen,22003,22003,2
+LA,Ascension,Louisiana,la_ascension,22005,22005,5
+LA,Assumption,Louisiana,la_assumption,22007,22007,1
+LA,Avoyelles,Louisiana,la_avoyelles,22009,22009,3
+LA,Beauregard,Louisiana,la_beauregard,22011,22011,2
+LA,Bienville,Louisiana,la_bienville,22013,22013,2
+LA,Bossier,Louisiana,la_bossier,22015,22015,15
+LA,Caddo,Louisiana,la_caddo,22017,22017,66
+LA,Calcasieu,Louisiana,la_calcasieu,22019,22019,11
+LA,Caldwell,Louisiana,la_caldwell,22021,22021,0
+LA,Cameron,Louisiana,la_cameron,22023,22023,0
+LA,Catahoula,Louisiana,la_catahoula,22025,22025,1
+LA,Claiborne,Louisiana,la_claiborne,22027,22027,4
+LA,Concordia,Louisiana,la_concordia,22029,22029,9
+LA,De Soto,Louisiana,la_de soto,22031,22031,0
+LA,East Baton Rouge,Louisiana,la_east baton rouge,22033,22033,65
+LA,East Carroll,Louisiana,la_east carroll,22035,22035,1
+LA,East Feliciana,Louisiana,la_east feliciana,22037,22037,0
+LA,Evangeline,Louisiana,la_evangeline,22039,22039,2
+LA,Franklin,Louisiana,la_franklin,22041,22041,6
+LA,Grant,Louisiana,la_grant,22043,22043,0
+LA,Iberia,Louisiana,la_iberia,22045,22045,1
+LA,Iberville,Louisiana,la_iberville,22047,22047,2
+LA,Jackson,Louisiana,la_jackson,22049,22049,2
+LA,Jefferson,Louisiana,la_jefferson,22051,22051,63
+LA,Jefferson Davis,Louisiana,la_jefferson davis,22053,22053,1
+LA,La Salle,Louisiana,la_la salle,22059,22059,5
+LA,Lafayette,Louisiana,la_lafayette,22055,22055,10
+LA,Lafourche,Louisiana,la_lafourche,22057,22057,2
+LA,Lincoln,Louisiana,la_lincoln,22061,22061,16
+LA,Livingston,Louisiana,la_livingston,22063,22063,3
+LA,Madison,Louisiana,la_madison,22065,22065,10
+LA,Morehouse,Louisiana,la_morehouse,22067,22067,10
+LA,Natchitoches,Louisiana,la_natchitoches,22069,22069,1
+LA,Orleans,Louisiana,la_orleans,22071,22071,13
+LA,Ouachita,Louisiana,la_ouachita,22073,22073,35
+LA,Plaquemines,Louisiana,la_plaquemines,22075,22075,1
+LA,Pointe Coupee,Louisiana,la_pointe coupee,22077,22077,2
+LA,Rapides,Louisiana,la_rapides,22079,22079,20
+LA,Red River,Louisiana,la_red river,22081,22081,0
+LA,Richland,Louisiana,la_richland,22083,22083,5
+LA,Sabine,Louisiana,la_sabine,22085,22085,1
+LA,St. Bernard,Louisiana,la_st. bernard,22087,22087,15
+LA,St. Charles,Louisiana,la_st. charles,22089,22089,3
+LA,St. Helena,Louisiana,la_st. helena,22091,22091,0
+LA,St. James,Louisiana,la_st. james,22093,22093,0
+LA,St. John the Baptist,Louisiana,la_st. john the baptist,22095,22095,6
+LA,St. Landry,Louisiana,la_st. landry,22097,22097,3
+LA,St. Martin,Louisiana,la_st. martin,22099,22099,10
+LA,St. Mary,Louisiana,la_st. mary,22101,22101,5
+LA,St. Tammany,Louisiana,la_st. tammany,22103,22103,18
+LA,Tangipahoa,Louisiana,la_tangipahoa,22105,22105,22
+LA,Tensas,Louisiana,la_tensas,22107,22107,0
+LA,Terrebonne,Louisiana,la_terrebonne,22109,22109,3
+LA,Union,Louisiana,la_union,22111,22111,5
+LA,Vermilion,Louisiana,la_vermilion,22113,22113,1
+LA,Vernon,Louisiana,la_vernon,22115,22115,31
+LA,Washington,Louisiana,la_washington,22117,22117,6
+LA,Webster,Louisiana,la_webster,22119,22119,2
+LA,West Baton Rouge,Louisiana,la_west baton rouge,22121,22121,0
+LA,West Carroll,Louisiana,la_west carroll,22123,22123,1
+LA,West Feliciana,Louisiana,la_west feliciana,22125,22125,0
+LA,Winn,Louisiana,la_winn,22127,22127,0
+MA,Barnstable,Massachusetts,ma_barnstable,25001,25001,1
+MA,Berkshire,Massachusetts,ma_berkshire,25003,25003,1
+MA,Bristol,Massachusetts,ma_bristol,25005,25005,1
+MA,Dukes,Massachusetts,ma_dukes,25007,25007,0
+MA,Essex,Massachusetts,ma_essex,25009,25009,6
+MA,Franklin,Massachusetts,ma_franklin,25011,25011,2
+MA,Hampden,Massachusetts,ma_hampden,25013,25013,75
+MA,Hampshire,Massachusetts,ma_hampshire,25015,25015,1
+MA,Middlesex,Massachusetts,ma_middlesex,25017,25017,9
+MA,Nantucket,Massachusetts,ma_nantucket,25019,25019,0
+MA,Norfolk,Massachusetts,ma_norfolk,25021,25021,6
+MA,Plymouth,Massachusetts,ma_plymouth,25023,25023,0
+MA,Suffolk,Massachusetts,ma_suffolk,25025,25025,1
+MA,Worcester,Massachusetts,ma_worcester,25027,25027,5
+MD,Allegany,Maryland,md_allegany,24001,24001,1
+MD,Anne Arundel,Maryland,md_anne arundel,24003,24003,5
+MD,Baltimore,Maryland,md_baltimore,24005,24005,8
+MD,Baltimore City,Maryland,md_baltimore city,24510,24510,4
+MD,Calvert,Maryland,md_calvert,24009,24009,0
+MD,Caroline,Maryland,md_caroline,24011,24011,0
+MD,Carroll,Maryland,md_carroll,24013,24013,0
+MD,Cecil,Maryland,md_cecil,24015,24015,1
+MD,Charles,Maryland,md_charles,24017,24017,2
+MD,Dorchester,Maryland,md_dorchester,24019,24019,0
+MD,Frederick,Maryland,md_frederick,24021,24021,1
+MD,Garrett,Maryland,md_garrett,24023,24023,0
+MD,Harford,Maryland,md_harford,24025,24025,2
+MD,Howard,Maryland,md_howard,24027,24027,0
+MD,Kent,Maryland,md_kent,24029,24029,0
+MD,Montgomery,Maryland,md_montgomery,24031,24031,4
+MD,Prince George's,Maryland,md_prince george's,24033,24033,14
+MD,Queen Anne's,Maryland,md_queen anne's,24035,24035,0
+MD,Somerset,Maryland,md_somerset,24039,24039,0
+MD,St. Mary's,Maryland,md_st. mary's,24037,24037,2
+MD,Talbot,Maryland,md_talbot,24041,24041,1
+MD,Washington,Maryland,md_washington,24043,24043,3
+MD,Wicomico,Maryland,md_wicomico,24045,24045,1
+MD,Worcester,Maryland,md_worcester,24047,24047,1
+ME,Androscoggin,Maine,me_androscoggin,23001,23001,1
+ME,Aroostook,Maine,me_aroostook,23003,23003,2
+ME,Cumberland,Maine,me_cumberland,23005,23005,3
+ME,Franklin,Maine,me_franklin,23007,23007,0
+ME,Hancock,Maine,me_hancock,23009,23009,1
+ME,Kennebec,Maine,me_kennebec,23011,23011,2
+ME,Knox,Maine,me_knox,23013,23013,0
+ME,Lincoln,Maine,me_lincoln,23015,23015,0
+ME,Oxford,Maine,me_oxford,23017,23017,1
+ME,Penobscot,Maine,me_penobscot,23019,23019,2
+ME,Piscataquis,Maine,me_piscataquis,23021,23021,2
+ME,Sagadahoc,Maine,me_sagadahoc,23023,23023,0
+ME,Somerset,Maine,me_somerset,23025,23025,2
+ME,Waldo,Maine,me_waldo,23027,23027,0
+ME,Washington,Maine,me_washington,23029,23029,1
+ME,York,Maine,me_york,23031,23031,1
+MI,Alcona,Michigan,mi_alcona,26001,26001,0
+MI,Alger,Michigan,mi_alger,26003,26003,1
+MI,Allegan,Michigan,mi_allegan,26005,26005,10
+MI,Alpena,Michigan,mi_alpena,26007,26007,1
+MI,Antrim,Michigan,mi_antrim,26009,26009,0
+MI,Arenac,Michigan,mi_arenac,26011,26011,0
+MI,Baraga,Michigan,mi_baraga,26013,26013,0
+MI,Barry,Michigan,mi_barry,26015,26015,8
+MI,Bay,Michigan,mi_bay,26017,26017,2
+MI,Benzie,Michigan,mi_benzie,26019,26019,0
+MI,Berrien,Michigan,mi_berrien,26021,26021,89
+MI,Branch,Michigan,mi_branch,26023,26023,8
+MI,Calhoun,Michigan,mi_calhoun,26025,26025,23
+MI,Cass,Michigan,mi_cass,26027,26027,13
+MI,Charlevoix,Michigan,mi_charlevoix,26029,26029,0
+MI,Cheboygan,Michigan,mi_cheboygan,26031,26031,1
+MI,Chippewa,Michigan,mi_chippewa,26033,26033,1
+MI,Clare,Michigan,mi_clare,26035,26035,9
+MI,Clinton,Michigan,mi_clinton,26037,26037,1
+MI,Crawford,Michigan,mi_crawford,26039,26039,1
+MI,Delta,Michigan,mi_delta,26041,26041,7
+MI,Dickinson,Michigan,mi_dickinson,26043,26043,3
+MI,Eaton,Michigan,mi_eaton,26045,26045,6
+MI,Emmet,Michigan,mi_emmet,26047,26047,1
+MI,Genesee,Michigan,mi_genesee,26049,26049,35
+MI,Gladwin,Michigan,mi_gladwin,26051,26051,0
+MI,Gogebic,Michigan,mi_gogebic,26053,26053,0
+MI,Grand Traverse,Michigan,mi_grand traverse,26055,26055,8
+MI,Gratiot,Michigan,mi_gratiot,26057,26057,1
+MI,Hillsdale,Michigan,mi_hillsdale,26059,26059,2
+MI,Houghton,Michigan,mi_houghton,26061,26061,1
+MI,Huron,Michigan,mi_huron,26063,26063,3
+MI,Ingham,Michigan,mi_ingham,26065,26065,37
+MI,Ionia,Michigan,mi_ionia,26067,26067,7
+MI,Iosco,Michigan,mi_iosco,26069,26069,1
+MI,Iron,Michigan,mi_iron,26071,26071,3
+MI,Isabella,Michigan,mi_isabella,26073,26073,1
+MI,Jackson,Michigan,mi_jackson,26075,26075,6
+MI,Kalamazoo,Michigan,mi_kalamazoo,26077,26077,63
+MI,Kalkaska,Michigan,mi_kalkaska,26079,26079,0
+MI,Kent,Michigan,mi_kent,26081,26081,44
+MI,Keweenaw,Michigan,mi_keweenaw,26083,26083,0
+MI,Lake,Michigan,mi_lake,26085,26085,2
+MI,Lapeer,Michigan,mi_lapeer,26087,26087,1
+MI,Leelanau,Michigan,mi_leelanau,26089,26089,0
+MI,Lenawee,Michigan,mi_lenawee,26091,26091,1
+MI,Livingston,Michigan,mi_livingston,26093,26093,0
+MI,Luce,Michigan,mi_luce,26095,26095,1
+MI,Mackinac,Michigan,mi_mackinac,26097,26097,1
+MI,Macomb,Michigan,mi_macomb,26099,26099,32
+MI,Manistee,Michigan,mi_manistee,26101,26101,4
+MI,Marquette,Michigan,mi_marquette,26103,26103,7
+MI,Mason,Michigan,mi_mason,26105,26105,1
+MI,Mecosta,Michigan,mi_mecosta,26107,26107,6
+MI,Menominee,Michigan,mi_menominee,26109,26109,5
+MI,Midland,Michigan,mi_midland,26111,26111,3
+MI,Missaukee,Michigan,mi_missaukee,26113,26113,1
+MI,Monroe,Michigan,mi_monroe,26115,26115,5
+MI,Montcalm,Michigan,mi_montcalm,26117,26117,7
+MI,Montmorency,Michigan,mi_montmorency,26119,26119,0
+MI,Muskegon,Michigan,mi_muskegon,26121,26121,20
+MI,Newaygo,Michigan,mi_newaygo,26123,26123,3
+MI,Oakland,Michigan,mi_oakland,26125,26125,39
+MI,Oceana,Michigan,mi_oceana,26127,26127,3
+MI,Ogemaw,Michigan,mi_ogemaw,26129,26129,1
+MI,Ontonagon,Michigan,mi_ontonagon,26131,26131,0
+MI,Osceola,Michigan,mi_osceola,26133,26133,1
+MI,Oscoda,Michigan,mi_oscoda,26135,26135,0
+MI,Otsego,Michigan,mi_otsego,26137,26137,1
+MI,Ottawa,Michigan,mi_ottawa,26139,26139,8
+MI,Presque Isle,Michigan,mi_presque isle,26141,26141,0
+MI,Roscommon,Michigan,mi_roscommon,26143,26143,0
+MI,Saginaw,Michigan,mi_saginaw,26145,26145,18
+MI,Sanilac,Michigan,mi_sanilac,26151,26151,0
+MI,Schoolcraft,Michigan,mi_schoolcraft,26153,26153,1
+MI,Shiawassee,Michigan,mi_shiawassee,26155,26155,2
+MI,St. Clair,Michigan,mi_st. clair,26147,26147,6
+MI,St. Joseph,Michigan,mi_st. joseph,26149,26149,13
+MI,Tuscola,Michigan,mi_tuscola,26157,26157,2
+MI,Van Buren,Michigan,mi_van buren,26159,26159,19
+MI,Washtenaw,Michigan,mi_washtenaw,26161,26161,5
+MI,Wayne,Michigan,mi_wayne,26163,26163,62
+MI,Wexford,Michigan,mi_wexford,26165,26165,1
+MN,Aitkin,Minnesota,mn_aitkin,27001,27001,3
+MN,Anoka,Minnesota,mn_anoka,27003,27003,18
+MN,Becker,Minnesota,mn_becker,27005,27005,2
+MN,Beltrami,Minnesota,mn_beltrami,27007,27007,3
+MN,Benton,Minnesota,mn_benton,27009,27009,3
+MN,Big Stone,Minnesota,mn_big stone,27011,27011,1
+MN,Blue Earth,Minnesota,mn_blue earth,27013,27013,8
+MN,Brown,Minnesota,mn_brown,27015,27015,2
+MN,Carlton,Minnesota,mn_carlton,27017,27017,5
+MN,Carver,Minnesota,mn_carver,27019,27019,0
+MN,Cass,Minnesota,mn_cass,27021,27021,5
+MN,Chippewa,Minnesota,mn_chippewa,27023,27023,0
+MN,Chisago,Minnesota,mn_chisago,27025,27025,1
+MN,Clay,Minnesota,mn_clay,27027,27027,0
+MN,Clearwater,Minnesota,mn_clearwater,27029,27029,2
+MN,Cook,Minnesota,mn_cook,27031,27031,0
+MN,Cottonwood,Minnesota,mn_cottonwood,27033,27033,0
+MN,Crow Wing,Minnesota,mn_crow wing,27035,27035,3
+MN,Dakota,Minnesota,mn_dakota,27037,27037,19
+MN,Dodge,Minnesota,mn_dodge,27039,27039,1
+MN,Douglas,Minnesota,mn_douglas,27041,27041,1
+MN,Faribault,Minnesota,mn_faribault,27043,27043,1
+MN,Fillmore,Minnesota,mn_fillmore,27045,27045,1
+MN,Freeborn,Minnesota,mn_freeborn,27047,27047,8
+MN,Goodhue,Minnesota,mn_goodhue,27049,27049,1
+MN,Grant,Minnesota,mn_grant,27051,27051,0
+MN,Hennepin,Minnesota,mn_hennepin,27053,27053,249
+MN,Houston,Minnesota,mn_houston,27055,27055,2
+MN,Hubbard,Minnesota,mn_hubbard,27057,27057,0
+MN,Isanti,Minnesota,mn_isanti,27059,27059,6
+MN,Itasca,Minnesota,mn_itasca,27061,27061,1
+MN,Jackson,Minnesota,mn_jackson,27063,27063,0
+MN,Kanabec,Minnesota,mn_kanabec,27065,27065,2
+MN,Kandiyohi,Minnesota,mn_kandiyohi,27067,27067,2
+MN,Kittson,Minnesota,mn_kittson,27069,27069,0
+MN,Koochiching,Minnesota,mn_koochiching,27071,27071,1
+MN,Lac qui Parle,Minnesota,mn_lac qui parle,27073,27073,0
+MN,Lake,Minnesota,mn_lake,27075,27075,0
+MN,Lake of the Woods,Minnesota,mn_lake of the woods,27077,27077,0
+MN,Le Sueur,Minnesota,mn_le sueur,27079,27079,1
+MN,Lincoln,Minnesota,mn_lincoln,27081,27081,0
+MN,Lyon,Minnesota,mn_lyon,27083,27083,0
+MN,Mahnomen,Minnesota,mn_mahnomen,27087,27087,0
+MN,Marshall,Minnesota,mn_marshall,27089,27089,0
+MN,Martin,Minnesota,mn_martin,27091,27091,1
+MN,McLeod,Minnesota,mn_mcleod,27085,27085,0
+MN,Meeker,Minnesota,mn_meeker,27093,27093,1
+MN,Mille Lacs,Minnesota,mn_mille lacs,27095,27095,3
+MN,Morrison,Minnesota,mn_morrison,27097,27097,1
+MN,Mower,Minnesota,mn_mower,27099,27099,3
+MN,Murray,Minnesota,mn_murray,27101,27101,0
+MN,Nicollet,Minnesota,mn_nicollet,27103,27103,4
+MN,Nobles,Minnesota,mn_nobles,27105,27105,0
+MN,Norman,Minnesota,mn_norman,27107,27107,0
+MN,Olmsted,Minnesota,mn_olmsted,27109,27109,7
+MN,Otter Tail,Minnesota,mn_otter tail,27111,27111,0
+MN,Pennington,Minnesota,mn_pennington,27113,27113,1
+MN,Pine,Minnesota,mn_pine,27115,27115,5
+MN,Pipestone,Minnesota,mn_pipestone,27117,27117,0
+MN,Polk,Minnesota,mn_polk,27119,27119,2
+MN,Pope,Minnesota,mn_pope,27121,27121,1
+MN,Ramsey,Minnesota,mn_ramsey,27123,27123,18
+MN,Red Lake,Minnesota,mn_red lake,27125,27125,0
+MN,Redwood,Minnesota,mn_redwood,27127,27127,1
+MN,Renville,Minnesota,mn_renville,27129,27129,0
+MN,Rice,Minnesota,mn_rice,27131,27131,7
+MN,Rock,Minnesota,mn_rock,27133,27133,1
+MN,Roseau,Minnesota,mn_roseau,27135,27135,0
+MN,Scott,Minnesota,mn_scott,27139,27139,4
+MN,Sherburne,Minnesota,mn_sherburne,27141,27141,7
+MN,Sibley,Minnesota,mn_sibley,27143,27143,0
+MN,St. Louis,Minnesota,mn_st. louis,27137,27137,14
+MN,Stearns,Minnesota,mn_stearns,27145,27145,8
+MN,Steele,Minnesota,mn_steele,27147,27147,2
+MN,Stevens,Minnesota,mn_stevens,27149,27149,0
+MN,Swift,Minnesota,mn_swift,27151,27151,0
+MN,Todd,Minnesota,mn_todd,27153,27153,2
+MN,Traverse,Minnesota,mn_traverse,27155,27155,0
+MN,Wabasha,Minnesota,mn_wabasha,27157,27157,3
+MN,Wadena,Minnesota,mn_wadena,27159,27159,0
+MN,Waseca,Minnesota,mn_waseca,27161,27161,3
+MN,Washington,Minnesota,mn_washington,27163,27163,17
+MN,Watonwan,Minnesota,mn_watonwan,27165,27165,0
+MN,Wilkin,Minnesota,mn_wilkin,27167,27167,0
+MN,Winona,Minnesota,mn_winona,27169,27169,5
+MN,Wright,Minnesota,mn_wright,27171,27171,1
+MN,Yellow Medicine,Minnesota,mn_yellow medicine,27173,27173,0
+MO,Adair,Missouri,mo_adair,29001,29001,1
+MO,Andrew,Missouri,mo_andrew,29003,29003,0
+MO,Atchison,Missouri,mo_atchison,29005,29005,0
+MO,Audrain,Missouri,mo_audrain,29007,29007,2
+MO,Barry,Missouri,mo_barry,29009,29009,0
+MO,Barton,Missouri,mo_barton,29011,29011,2
+MO,Bates,Missouri,mo_bates,29013,29013,0
+MO,Benton,Missouri,mo_benton,29015,29015,1
+MO,Bollinger,Missouri,mo_bollinger,29017,29017,0
+MO,Boone,Missouri,mo_boone,29019,29019,5
+MO,Buchanan,Missouri,mo_buchanan,29021,29021,7
+MO,Butler,Missouri,mo_butler,29023,29023,11
+MO,Caldwell,Missouri,mo_caldwell,29025,29025,0
+MO,Callaway,Missouri,mo_callaway,29027,29027,4
+MO,Camden,Missouri,mo_camden,29029,29029,2
+MO,Cape Girardeau,Missouri,mo_cape girardeau,29031,29031,8
+MO,Carroll,Missouri,mo_carroll,29033,29033,0
+MO,Carter,Missouri,mo_carter,29035,29035,0
+MO,Cass,Missouri,mo_cass,29037,29037,3
+MO,Cedar,Missouri,mo_cedar,29039,29039,0
+MO,Chariton,Missouri,mo_chariton,29041,29041,0
+MO,Christian,Missouri,mo_christian,29043,29043,4
+MO,Clark,Missouri,mo_clark,29045,29045,0
+MO,Clay,Missouri,mo_clay,29047,29047,8
+MO,Clinton,Missouri,mo_clinton,29049,29049,1
+MO,Cole,Missouri,mo_cole,29051,29051,13
+MO,Cooper,Missouri,mo_cooper,29053,29053,0
+MO,Crawford,Missouri,mo_crawford,29055,29055,1
+MO,Dade,Missouri,mo_dade,29057,29057,0
+MO,Dallas,Missouri,mo_dallas,29059,29059,2
+MO,Daviess,Missouri,mo_daviess,29061,29061,0
+MO,DeKalb,Missouri,mo_dekalb,29063,29063,0
+MO,Dent,Missouri,mo_dent,29065,29065,1
+MO,Douglas,Missouri,mo_douglas,29067,29067,1
+MO,Dunklin,Missouri,mo_dunklin,29069,29069,7
+MO,Franklin,Missouri,mo_franklin,29071,29071,6
+MO,Gasconade,Missouri,mo_gasconade,29073,29073,0
+MO,Gentry,Missouri,mo_gentry,29075,29075,0
+MO,Greene,Missouri,mo_greene,29077,29077,22
+MO,Grundy,Missouri,mo_grundy,29079,29079,0
+MO,Harrison,Missouri,mo_harrison,29081,29081,1
+MO,Henry,Missouri,mo_henry,29083,29083,4
+MO,Hickory,Missouri,mo_hickory,29085,29085,1
+MO,Holt,Missouri,mo_holt,29087,29087,0
+MO,Howard,Missouri,mo_howard,29089,29089,1
+MO,Howell,Missouri,mo_howell,29091,29091,5
+MO,Iron,Missouri,mo_iron,29093,29093,1
+MO,Jackson,Missouri,mo_jackson,29095,29095,31
+MO,Jasper,Missouri,mo_jasper,29097,29097,1
+MO,Jefferson,Missouri,mo_jefferson,29099,29099,9
+MO,Johnson,Missouri,mo_johnson,29101,29101,3
+MO,Knox,Missouri,mo_knox,29103,29103,0
+MO,Laclede,Missouri,mo_laclede,29105,29105,1
+MO,Lafayette,Missouri,mo_lafayette,29107,29107,2
+MO,Lawrence,Missouri,mo_lawrence,29109,29109,1
+MO,Lewis,Missouri,mo_lewis,29111,29111,1
+MO,Lincoln,Missouri,mo_lincoln,29113,29113,0
+MO,Linn,Missouri,mo_linn,29115,29115,0
+MO,Livingston,Missouri,mo_livingston,29117,29117,0
+MO,Macon,Missouri,mo_macon,29121,29121,2
+MO,Madison,Missouri,mo_madison,29123,29123,0
+MO,Maries,Missouri,mo_maries,29125,29125,0
+MO,Marion,Missouri,mo_marion,29127,29127,4
+MO,McDonald,Missouri,mo_mcdonald,29119,29119,0
+MO,Mercer,Missouri,mo_mercer,29129,29129,0
+MO,Miller,Missouri,mo_miller,29131,29131,1
+MO,Mississippi,Missouri,mo_mississippi,29133,29133,1
+MO,Moniteau,Missouri,mo_moniteau,29135,29135,0
+MO,Monroe,Missouri,mo_monroe,29137,29137,0
+MO,Montgomery,Missouri,mo_montgomery,29139,29139,1
+MO,Morgan,Missouri,mo_morgan,29141,29141,0
+MO,New Madrid,Missouri,mo_new madrid,29143,29143,2
+MO,Newton,Missouri,mo_newton,29145,29145,0
+MO,Nodaway,Missouri,mo_nodaway,29147,29147,0
+MO,Oregon,Missouri,mo_oregon,29149,29149,0
+MO,Osage,Missouri,mo_osage,29151,29151,2
+MO,Ozark,Missouri,mo_ozark,29153,29153,0
+MO,Pemiscot,Missouri,mo_pemiscot,29155,29155,5
+MO,Perry,Missouri,mo_perry,29157,29157,0
+MO,Pettis,Missouri,mo_pettis,29159,29159,6
+MO,Phelps,Missouri,mo_phelps,29161,29161,6
+MO,Pike,Missouri,mo_pike,29163,29163,2
+MO,Platte,Missouri,mo_platte,29165,29165,2
+MO,Polk,Missouri,mo_polk,29167,29167,2
+MO,Pulaski,Missouri,mo_pulaski,29169,29169,7
+MO,Putnam,Missouri,mo_putnam,29171,29171,0
+MO,Ralls,Missouri,mo_ralls,29173,29173,1
+MO,Randolph,Missouri,mo_randolph,29175,29175,0
+MO,Ray,Missouri,mo_ray,29177,29177,1
+MO,Reynolds,Missouri,mo_reynolds,29179,29179,0
+MO,Ripley,Missouri,mo_ripley,29181,29181,0
+MO,Saline,Missouri,mo_saline,29195,29195,2
+MO,Schuyler,Missouri,mo_schuyler,29197,29197,0
+MO,Scotland,Missouri,mo_scotland,29199,29199,0
+MO,Scott,Missouri,mo_scott,29201,29201,21
+MO,Shannon,Missouri,mo_shannon,29203,29203,0
+MO,Shelby,Missouri,mo_shelby,29205,29205,0
+MO,St. Charles,Missouri,mo_st. charles,29183,29183,13
+MO,St. Clair,Missouri,mo_st. clair,29185,29185,0
+MO,St. Francois,Missouri,mo_st. francois,29187,29187,2
+MO,St. Louis,Missouri,mo_st. louis,29189,29189,51
+MO,St. Louis City,Missouri,mo_st. louis city,29510,29510,13
+MO,Ste. Genevieve,Missouri,mo_ste. genevieve,29186,29186,0
+MO,Stoddard,Missouri,mo_stoddard,29207,29207,6
+MO,Stone,Missouri,mo_stone,29209,29209,1
+MO,Sullivan,Missouri,mo_sullivan,29211,29211,0
+MO,Taney,Missouri,mo_taney,29213,29213,3
+MO,Texas,Missouri,mo_texas,29215,29215,5
+MO,Vernon,Missouri,mo_vernon,29217,29217,2
+MO,Warren,Missouri,mo_warren,29219,29219,3
+MO,Washington,Missouri,mo_washington,29221,29221,1
+MO,Wayne,Missouri,mo_wayne,29223,29223,1
+MO,Webster,Missouri,mo_webster,29225,29225,0
+MO,Worth,Missouri,mo_worth,29227,29227,0
+MO,Wright,Missouri,mo_wright,29229,29229,1
+MS,Adams,Mississippi,ms_adams,28001,28001,50
+MS,Alcorn,Mississippi,ms_alcorn,28003,28003,60
+MS,Amite,Mississippi,ms_amite,28005,28005,0
+MS,Attala,Mississippi,ms_attala,28007,28007,81
+MS,Benton,Mississippi,ms_benton,28009,28009,7
+MS,Bolivar,Mississippi,ms_bolivar,28011,28011,272
+MS,Calhoun,Mississippi,ms_calhoun,28013,28013,14
+MS,Carroll,Mississippi,ms_carroll,28015,28015,3
+MS,Chickasaw,Mississippi,ms_chickasaw,28017,28017,16
+MS,Choctaw,Mississippi,ms_choctaw,28019,28019,24
+MS,Claiborne,Mississippi,ms_claiborne,28021,28021,11
+MS,Clarke,Mississippi,ms_clarke,28023,28023,17
+MS,Clay,Mississippi,ms_clay,28025,28025,110
+MS,Coahoma,Mississippi,ms_coahoma,28027,28027,447
+MS,Copiah,Mississippi,ms_copiah,28029,28029,35
+MS,Covington,Mississippi,ms_covington,28031,28031,6
+MS,DeSoto,Mississippi,ms_desoto,28033,28033,74
+MS,Forrest,Mississippi,ms_forrest,28035,28035,38
+MS,Franklin,Mississippi,ms_franklin,28037,28037,0
+MS,George,Mississippi,ms_george,28039,28039,1
+MS,Greene,Mississippi,ms_greene,28041,28041,2
+MS,Grenada,Mississippi,ms_grenada,28043,28043,111
+MS,Hancock,Mississippi,ms_hancock,28045,28045,5
+MS,Harrison,Mississippi,ms_harrison,28047,28047,54
+MS,Hinds,Mississippi,ms_hinds,28049,28049,296
+MS,Holmes,Mississippi,ms_holmes,28051,28051,60
+MS,Humphreys,Mississippi,ms_humphreys,28053,28053,17
+MS,Issaquena,Mississippi,ms_issaquena,28055,28055,0
+MS,Itawamba,Mississippi,ms_itawamba,28057,28057,30
+MS,Jackson,Mississippi,ms_jackson,28059,28059,16
+MS,Jasper,Mississippi,ms_jasper,28061,28061,14
+MS,Jefferson,Mississippi,ms_jefferson,28063,28063,0
+MS,Jefferson Davis,Mississippi,ms_jefferson davis,28065,28065,27
+MS,Jones,Mississippi,ms_jones,28067,28067,82
+MS,Kemper,Mississippi,ms_kemper,28069,28069,9
+MS,Lafayette,Mississippi,ms_lafayette,28071,28071,19
+MS,Lamar,Mississippi,ms_lamar,28073,28073,3
+MS,Lauderdale,Mississippi,ms_lauderdale,28075,28075,80
+MS,Lawrence,Mississippi,ms_lawrence,28077,28077,4
+MS,Leake,Mississippi,ms_leake,28079,28079,13
+MS,Lee,Mississippi,ms_lee,28081,28081,83
+MS,Leflore,Mississippi,ms_leflore,28083,28083,291
+MS,Lincoln,Mississippi,ms_lincoln,28085,28085,68
+MS,Lowndes,Mississippi,ms_lowndes,28087,28087,91
+MS,Madison,Mississippi,ms_madison,28089,28089,165
+MS,Marion,Mississippi,ms_marion,28091,28091,19
+MS,Marshall,Mississippi,ms_marshall,28093,28093,69
+MS,Monroe,Mississippi,ms_monroe,28095,28095,55
+MS,Montgomery,Mississippi,ms_montgomery,28097,28097,36
+MS,Neshoba,Mississippi,ms_neshoba,28099,28099,17
+MS,Newton,Mississippi,ms_newton,28101,28101,2
+MS,Noxubee,Mississippi,ms_noxubee,28103,28103,7
+MS,Oktibbeha,Mississippi,ms_oktibbeha,28105,28105,40
+MS,Panola,Mississippi,ms_panola,28107,28107,88
+MS,Pearl River,Mississippi,ms_pearl river,28109,28109,10
+MS,Perry,Mississippi,ms_perry,28111,28111,0
+MS,Pike,Mississippi,ms_pike,28113,28113,33
+MS,Pontotoc,Mississippi,ms_pontotoc,28115,28115,31
+MS,Prentiss,Mississippi,ms_prentiss,28117,28117,26
+MS,Quitman,Mississippi,ms_quitman,28119,28119,21
+MS,Rankin,Mississippi,ms_rankin,28121,28121,66
+MS,Scott,Mississippi,ms_scott,28123,28123,33
+MS,Sharkey,Mississippi,ms_sharkey,28125,28125,3
+MS,Simpson,Mississippi,ms_simpson,28127,28127,7
+MS,Smith,Mississippi,ms_smith,28129,28129,3
+MS,Stone,Mississippi,ms_stone,28131,28131,4
+MS,Sunflower,Mississippi,ms_sunflower,28133,28133,113
+MS,Tallahatchie,Mississippi,ms_tallahatchie,28135,28135,69
+MS,Tate,Mississippi,ms_tate,28137,28137,28
+MS,Tippah,Mississippi,ms_tippah,28139,28139,98
+MS,Tishomingo,Mississippi,ms_tishomingo,28141,28141,8
+MS,Tunica,Mississippi,ms_tunica,28143,28143,55
+MS,Union,Mississippi,ms_union,28145,28145,28
+MS,Walthall,Mississippi,ms_walthall,28147,28147,6
+MS,Warren,Mississippi,ms_warren,28149,28149,42
+MS,Washington,Mississippi,ms_washington,28151,28151,236
+MS,Wayne,Mississippi,ms_wayne,28153,28153,24
+MS,Webster,Mississippi,ms_webster,28155,28155,4
+MS,Wilkinson,Mississippi,ms_wilkinson,28157,28157,0
+MS,Winston,Mississippi,ms_winston,28159,28159,44
+MS,Yalobusha,Mississippi,ms_yalobusha,28161,28161,10
+MS,Yazoo,Mississippi,ms_yazoo,28163,28163,155
+MT,Beaverhead,Montana,mt_beaverhead,30001,30001,0
+MT,Big Horn,Montana,mt_big horn,30003,30003,2
+MT,Blaine,Montana,mt_blaine,30005,30005,0
+MT,Broadwater,Montana,mt_broadwater,30007,30007,0
+MT,Carbon,Montana,mt_carbon,30009,30009,0
+MT,Carter,Montana,mt_carter,30011,30011,0
+MT,Cascade,Montana,mt_cascade,30013,30013,14
+MT,Chouteau,Montana,mt_chouteau,30015,30015,0
+MT,Custer,Montana,mt_custer,30017,30017,0
+MT,Daniels,Montana,mt_daniels,30019,30019,1
+MT,Dawson,Montana,mt_dawson,30021,30021,1
+MT,Deer Lodge,Montana,mt_deer lodge,30023,30023,1
+MT,Fallon,Montana,mt_fallon,30025,30025,0
+MT,Fergus,Montana,mt_fergus,30027,30027,0
+MT,Flathead,Montana,mt_flathead,30029,30029,4
+MT,Gallatin,Montana,mt_gallatin,30031,30031,3
+MT,Garfield,Montana,mt_garfield,30033,30033,0
+MT,Glacier,Montana,mt_glacier,30035,30035,1
+MT,Golden Valley,Montana,mt_golden valley,30037,30037,0
+MT,Granite,Montana,mt_granite,30039,30039,0
+MT,Hill,Montana,mt_hill,30041,30041,1
+MT,Jefferson,Montana,mt_jefferson,30043,30043,0
+MT,Judith Basin,Montana,mt_judith basin,30045,30045,0
+MT,Lake,Montana,mt_lake,30047,30047,0
+MT,Lewis and Clark,Montana,mt_lewis and clark,30049,30049,1
+MT,Liberty,Montana,mt_liberty,30051,30051,0
+MT,Lincoln,Montana,mt_lincoln,30053,30053,0
+MT,Madison,Montana,mt_madison,30057,30057,1
+MT,McCone,Montana,mt_mccone,30055,30055,0
+MT,Meagher,Montana,mt_meagher,30059,30059,0
+MT,Mineral,Montana,mt_mineral,30061,30061,0
+MT,Missoula,Montana,mt_missoula,30063,30063,6
+MT,Musselshell,Montana,mt_musselshell,30065,30065,0
+MT,Park,Montana,mt_park,30067,30067,1
+MT,Petroleum,Montana,mt_petroleum,30069,30069,0
+MT,Phillips,Montana,mt_phillips,30071,30071,0
+MT,Pondera,Montana,mt_pondera,30073,30073,0
+MT,Powder River,Montana,mt_powder river,30075,30075,0
+MT,Powell,Montana,mt_powell,30077,30077,0
+MT,Prairie,Montana,mt_prairie,30079,30079,0
+MT,Ravalli,Montana,mt_ravalli,30081,30081,2
+MT,Richland,Montana,mt_richland,30083,30083,0
+MT,Roosevelt,Montana,mt_roosevelt,30085,30085,0
+MT,Rosebud,Montana,mt_rosebud,30087,30087,0
+MT,Sanders,Montana,mt_sanders,30089,30089,0
+MT,Sheridan,Montana,mt_sheridan,30091,30091,0
+MT,Silver Bow,Montana,mt_silver bow,30093,30093,0
+MT,Stillwater,Montana,mt_stillwater,30095,30095,0
+MT,Sweet Grass,Montana,mt_sweet grass,30097,30097,0
+MT,Teton,Montana,mt_teton,30099,30099,0
+MT,Toole,Montana,mt_toole,30101,30101,0
+MT,Treasure,Montana,mt_treasure,30103,30103,0
+MT,Valley,Montana,mt_valley,30105,30105,1
+MT,Wheatland,Montana,mt_wheatland,30107,30107,0
+MT,Wibaux,Montana,mt_wibaux,30109,30109,0
+MT,Yellowstone,Montana,mt_yellowstone,30111,30111,13
+NC,Alamance,North Carolina,nc_alamance,37001,37001,2
+NC,Alexander,North Carolina,nc_alexander,37003,37003,1
+NC,Alleghany,North Carolina,nc_alleghany,37005,37005,0
+NC,Anson,North Carolina,nc_anson,37007,37007,0
+NC,Ashe,North Carolina,nc_ashe,37009,37009,5
+NC,Avery,North Carolina,nc_avery,37011,37011,0
+NC,Beaufort,North Carolina,nc_beaufort,37013,37013,0
+NC,Bertie,North Carolina,nc_bertie,37015,37015,0
+NC,Bladen,North Carolina,nc_bladen,37017,37017,1
+NC,Brunswick,North Carolina,nc_brunswick,37019,37019,0
+NC,Buncombe,North Carolina,nc_buncombe,37021,37021,2
+NC,Burke,North Carolina,nc_burke,37023,37023,1
+NC,Cabarrus,North Carolina,nc_cabarrus,37025,37025,5
+NC,Caldwell,North Carolina,nc_caldwell,37027,37027,9
+NC,Camden,North Carolina,nc_camden,37029,37029,0
+NC,Carteret,North Carolina,nc_carteret,37031,37031,5
+NC,Caswell,North Carolina,nc_caswell,37033,37033,0
+NC,Catawba,North Carolina,nc_catawba,37035,37035,7
+NC,Chatham,North Carolina,nc_chatham,37037,37037,1
+NC,Cherokee,North Carolina,nc_cherokee,37039,37039,0
+NC,Chowan,North Carolina,nc_chowan,37041,37041,0
+NC,Clay,North Carolina,nc_clay,37043,37043,0
+NC,Cleveland,North Carolina,nc_cleveland,37045,37045,3
+NC,Columbus,North Carolina,nc_columbus,37047,37047,0
+NC,Craven,North Carolina,nc_craven,37049,37049,5
+NC,Cumberland,North Carolina,nc_cumberland,37051,37051,49
+NC,Currituck,North Carolina,nc_currituck,37053,37053,0
+NC,Dare,North Carolina,nc_dare,37055,37055,0
+NC,Davidson,North Carolina,nc_davidson,37057,37057,7
+NC,Davie,North Carolina,nc_davie,37059,37059,0
+NC,Duplin,North Carolina,nc_duplin,37061,37061,0
+NC,Durham,North Carolina,nc_durham,37063,37063,1
+NC,Edgecombe,North Carolina,nc_edgecombe,37065,37065,1
+NC,Forsyth,North Carolina,nc_forsyth,37067,37067,7
+NC,Franklin,North Carolina,nc_franklin,37069,37069,0
+NC,Gaston,North Carolina,nc_gaston,37071,37071,8
+NC,Gates,North Carolina,nc_gates,37073,37073,0
+NC,Graham,North Carolina,nc_graham,37075,37075,0
+NC,Granville,North Carolina,nc_granville,37077,37077,0
+NC,Greene,North Carolina,nc_greene,37079,37079,1
+NC,Guilford,North Carolina,nc_guilford,37081,37081,10
+NC,Halifax,North Carolina,nc_halifax,37083,37083,0
+NC,Harnett,North Carolina,nc_harnett,37085,37085,0
+NC,Haywood,North Carolina,nc_haywood,37087,37087,3
+NC,Henderson,North Carolina,nc_henderson,37089,37089,2
+NC,Hertford,North Carolina,nc_hertford,37091,37091,0
+NC,Hoke,North Carolina,nc_hoke,37093,37093,1
+NC,Hyde,North Carolina,nc_hyde,37095,37095,0
+NC,Iredell,North Carolina,nc_iredell,37097,37097,4
+NC,Jackson,North Carolina,nc_jackson,37099,37099,0
+NC,Johnston,North Carolina,nc_johnston,37101,37101,1
+NC,Jones,North Carolina,nc_jones,37103,37103,0
+NC,Lee,North Carolina,nc_lee,37105,37105,1
+NC,Lenoir,North Carolina,nc_lenoir,37107,37107,0
+NC,Lincoln,North Carolina,nc_lincoln,37109,37109,4
+NC,Macon,North Carolina,nc_macon,37113,37113,2
+NC,Madison,North Carolina,nc_madison,37115,37115,0
+NC,Martin,North Carolina,nc_martin,37117,37117,3
+NC,McDowell,North Carolina,nc_mcdowell,37111,37111,0
+NC,Mecklenburg,North Carolina,nc_mecklenburg,37119,37119,21
+NC,Mitchell,North Carolina,nc_mitchell,37121,37121,1
+NC,Montgomery,North Carolina,nc_montgomery,37123,37123,1
+NC,Moore,North Carolina,nc_moore,37125,37125,4
+NC,Nash,North Carolina,nc_nash,37127,37127,2
+NC,New Hanover,North Carolina,nc_new hanover,37129,37129,4
+NC,Northampton,North Carolina,nc_northampton,37131,37131,0
+NC,Onslow,North Carolina,nc_onslow,37133,37133,40
+NC,Orange,North Carolina,nc_orange,37135,37135,4
+NC,Pamlico,North Carolina,nc_pamlico,37137,37137,1
+NC,Pasquotank,North Carolina,nc_pasquotank,37139,37139,2
+NC,Pender,North Carolina,nc_pender,37141,37141,7
+NC,Perquimans,North Carolina,nc_perquimans,37143,37143,0
+NC,Person,North Carolina,nc_person,37145,37145,0
+NC,Pitt,North Carolina,nc_pitt,37147,37147,3
+NC,Polk,North Carolina,nc_polk,37149,37149,0
+NC,Randolph,North Carolina,nc_randolph,37151,37151,4
+NC,Richmond,North Carolina,nc_richmond,37153,37153,1
+NC,Robeson,North Carolina,nc_robeson,37155,37155,4
+NC,Rockingham,North Carolina,nc_rockingham,37157,37157,4
+NC,Rowan,North Carolina,nc_rowan,37159,37159,4
+NC,Rutherford,North Carolina,nc_rutherford,37161,37161,4
+NC,Sampson,North Carolina,nc_sampson,37163,37163,1
+NC,Scotland,North Carolina,nc_scotland,37165,37165,0
+NC,Stanly,North Carolina,nc_stanly,37167,37167,1
+NC,Stokes,North Carolina,nc_stokes,37169,37169,0
+NC,Surry,North Carolina,nc_surry,37171,37171,1
+NC,Swain,North Carolina,nc_swain,37173,37173,1
+NC,Transylvania,North Carolina,nc_transylvania,37175,37175,0
+NC,Tyrrell,North Carolina,nc_tyrrell,37177,37177,0
+NC,Union,North Carolina,nc_union,37179,37179,11
+NC,Vance,North Carolina,nc_vance,37181,37181,1
+NC,Wake,North Carolina,nc_wake,37183,37183,7
+NC,Warren,North Carolina,nc_warren,37185,37185,0
+NC,Washington,North Carolina,nc_washington,37187,37187,0
+NC,Watauga,North Carolina,nc_watauga,37189,37189,0
+NC,Wayne,North Carolina,nc_wayne,37191,37191,4
+NC,Wilkes,North Carolina,nc_wilkes,37193,37193,3
+NC,Wilson,North Carolina,nc_wilson,37195,37195,2
+NC,Yadkin,North Carolina,nc_yadkin,37197,37197,0
+NC,Yancey,North Carolina,nc_yancey,37199,37199,0
+ND,Adams,North Dakota,nd_adams,38001,38001,0
+ND,Barnes,North Dakota,nd_barnes,38003,38003,0
+ND,Benson,North Dakota,nd_benson,38005,38005,0
+ND,Billings,North Dakota,nd_billings,38007,38007,0
+ND,Bottineau,North Dakota,nd_bottineau,38009,38009,1
+ND,Bowman,North Dakota,nd_bowman,38011,38011,0
+ND,Burke,North Dakota,nd_burke,38013,38013,0
+ND,Burleigh,North Dakota,nd_burleigh,38015,38015,1
+ND,Cass,North Dakota,nd_cass,38017,38017,7
+ND,Cavalier,North Dakota,nd_cavalier,38019,38019,0
+ND,Dickey,North Dakota,nd_dickey,38021,38021,0
+ND,Divide,North Dakota,nd_divide,38023,38023,0
+ND,Dunn,North Dakota,nd_dunn,38025,38025,0
+ND,Eddy,North Dakota,nd_eddy,38027,38027,0
+ND,Emmons,North Dakota,nd_emmons,38029,38029,0
+ND,Foster,North Dakota,nd_foster,38031,38031,0
+ND,Golden Valley,North Dakota,nd_golden valley,38033,38033,0
+ND,Grand Forks,North Dakota,nd_grand forks,38035,38035,4
+ND,Grant,North Dakota,nd_grant,38037,38037,0
+ND,Griggs,North Dakota,nd_griggs,38039,38039,0
+ND,Hettinger,North Dakota,nd_hettinger,38041,38041,0
+ND,Kidder,North Dakota,nd_kidder,38043,38043,0
+ND,LaMoure,North Dakota,nd_lamoure,38045,38045,0
+ND,Logan,North Dakota,nd_logan,38047,38047,0
+ND,McHenry,North Dakota,nd_mchenry,38049,38049,0
+ND,McIntosh,North Dakota,nd_mcintosh,38051,38051,0
+ND,McKenzie,North Dakota,nd_mckenzie,38053,38053,0
+ND,McLean,North Dakota,nd_mclean,38055,38055,1
+ND,Mercer,North Dakota,nd_mercer,38057,38057,2
+ND,Morton,North Dakota,nd_morton,38059,38059,0
+ND,Mountrail,North Dakota,nd_mountrail,38061,38061,0
+ND,Nelson,North Dakota,nd_nelson,38063,38063,0
+ND,Oliver,North Dakota,nd_oliver,38065,38065,0
+ND,Pembina,North Dakota,nd_pembina,38067,38067,0
+ND,Pierce,North Dakota,nd_pierce,38069,38069,1
+ND,Ramsey,North Dakota,nd_ramsey,38071,38071,0
+ND,Ransom,North Dakota,nd_ransom,38073,38073,0
+ND,Renville,North Dakota,nd_renville,38075,38075,0
+ND,Richland,North Dakota,nd_richland,38077,38077,0
+ND,Rolette,North Dakota,nd_rolette,38079,38079,0
+ND,Sargent,North Dakota,nd_sargent,38081,38081,0
+ND,Sheridan,North Dakota,nd_sheridan,38083,38083,0
+ND,Sioux,North Dakota,nd_sioux,38085,38085,0
+ND,Slope,North Dakota,nd_slope,38087,38087,0
+ND,Stark,North Dakota,nd_stark,38089,38089,3
+ND,Steele,North Dakota,nd_steele,38091,38091,0
+ND,Stutsman,North Dakota,nd_stutsman,38093,38093,0
+ND,Towner,North Dakota,nd_towner,38095,38095,0
+ND,Traill,North Dakota,nd_traill,38097,38097,0
+ND,Walsh,North Dakota,nd_walsh,38099,38099,0
+ND,Ward,North Dakota,nd_ward,38101,38101,11
+ND,Wells,North Dakota,nd_wells,38103,38103,0
+ND,Williams,North Dakota,nd_williams,38105,38105,0
+NE,Adams,Nebraska,ne_adams,31001,31001,4
+NE,Antelope,Nebraska,ne_antelope,31003,31003,0
+NE,Arthur,Nebraska,ne_arthur,31005,31005,0
+NE,Banner,Nebraska,ne_banner,31007,31007,0
+NE,Blaine,Nebraska,ne_blaine,31009,31009,0
+NE,Boone,Nebraska,ne_boone,31011,31011,0
+NE,Box Butte,Nebraska,ne_box butte,31013,31013,2
+NE,Boyd,Nebraska,ne_boyd,31015,31015,0
+NE,Brown,Nebraska,ne_brown,31017,31017,0
+NE,Buffalo,Nebraska,ne_buffalo,31019,31019,4
+NE,Burt,Nebraska,ne_burt,31021,31021,0
+NE,Butler,Nebraska,ne_butler,31023,31023,0
+NE,Cass,Nebraska,ne_cass,31025,31025,0
+NE,Cedar,Nebraska,ne_cedar,31027,31027,0
+NE,Chase,Nebraska,ne_chase,31029,31029,0
+NE,Cherry,Nebraska,ne_cherry,31031,31031,1
+NE,Cheyenne,Nebraska,ne_cheyenne,31033,31033,5
+NE,Clay,Nebraska,ne_clay,31035,31035,0
+NE,Colfax,Nebraska,ne_colfax,31037,31037,0
+NE,Cuming,Nebraska,ne_cuming,31039,31039,0
+NE,Custer,Nebraska,ne_custer,31041,31041,0
+NE,Dakota,Nebraska,ne_dakota,31043,31043,3
+NE,Dawes,Nebraska,ne_dawes,31045,31045,0
+NE,Dawson,Nebraska,ne_dawson,31047,31047,2
+NE,Deuel,Nebraska,ne_deuel,31049,31049,0
+NE,Dixon,Nebraska,ne_dixon,31051,31051,0
+NE,Dodge,Nebraska,ne_dodge,31053,31053,8
+NE,Douglas,Nebraska,ne_douglas,31055,31055,20
+NE,Dundy,Nebraska,ne_dundy,31057,31057,0
+NE,Fillmore,Nebraska,ne_fillmore,31059,31059,0
+NE,Franklin,Nebraska,ne_franklin,31061,31061,0
+NE,Frontier,Nebraska,ne_frontier,31063,31063,0
+NE,Furnas,Nebraska,ne_furnas,31065,31065,0
+NE,Gage,Nebraska,ne_gage,31067,31067,1
+NE,Garden,Nebraska,ne_garden,31069,31069,0
+NE,Garfield,Nebraska,ne_garfield,31071,31071,0
+NE,Gosper,Nebraska,ne_gosper,31073,31073,0
+NE,Grant,Nebraska,ne_grant,31075,31075,0
+NE,Greeley,Nebraska,ne_greeley,31077,31077,1
+NE,Hall,Nebraska,ne_hall,31079,31079,3
+NE,Hamilton,Nebraska,ne_hamilton,31081,31081,0
+NE,Harlan,Nebraska,ne_harlan,31083,31083,0
+NE,Hayes,Nebraska,ne_hayes,31085,31085,0
+NE,Hitchcock,Nebraska,ne_hitchcock,31087,31087,0
+NE,Holt,Nebraska,ne_holt,31089,31089,1
+NE,Hooker,Nebraska,ne_hooker,31091,31091,0
+NE,Howard,Nebraska,ne_howard,31093,31093,0
+NE,Jefferson,Nebraska,ne_jefferson,31095,31095,0
+NE,Johnson,Nebraska,ne_johnson,31097,31097,0
+NE,Kearney,Nebraska,ne_kearney,31099,31099,0
+NE,Keith,Nebraska,ne_keith,31101,31101,0
+NE,Keya Paha,Nebraska,ne_keya paha,31103,31103,0
+NE,Kimball,Nebraska,ne_kimball,31105,31105,0
+NE,Knox,Nebraska,ne_knox,31107,31107,0
+NE,Lancaster,Nebraska,ne_lancaster,31109,31109,14
+NE,Lincoln,Nebraska,ne_lincoln,31111,31111,10
+NE,Logan,Nebraska,ne_logan,31113,31113,0
+NE,Loup,Nebraska,ne_loup,31115,31115,0
+NE,Madison,Nebraska,ne_madison,31119,31119,8
+NE,McPherson,Nebraska,ne_mcpherson,31117,31117,0
+NE,Merrick,Nebraska,ne_merrick,31121,31121,0
+NE,Morrill,Nebraska,ne_morrill,31123,31123,0
+NE,Nance,Nebraska,ne_nance,31125,31125,0
+NE,Nemaha,Nebraska,ne_nemaha,31127,31127,0
+NE,Nuckolls,Nebraska,ne_nuckolls,31129,31129,0
+NE,Otoe,Nebraska,ne_otoe,31131,31131,0
+NE,Pawnee,Nebraska,ne_pawnee,31133,31133,0
+NE,Perkins,Nebraska,ne_perkins,31135,31135,0
+NE,Phelps,Nebraska,ne_phelps,31137,31137,0
+NE,Pierce,Nebraska,ne_pierce,31139,31139,0
+NE,Platte,Nebraska,ne_platte,31141,31141,1
+NE,Polk,Nebraska,ne_polk,31143,31143,0
+NE,Red Willow,Nebraska,ne_red willow,31145,31145,0
+NE,Richardson,Nebraska,ne_richardson,31147,31147,1
+NE,Rock,Nebraska,ne_rock,31149,31149,0
+NE,Saline,Nebraska,ne_saline,31151,31151,0
+NE,Sarpy,Nebraska,ne_sarpy,31153,31153,6
+NE,Saunders,Nebraska,ne_saunders,31155,31155,0
+NE,Scotts Bluff,Nebraska,ne_scotts bluff,31157,31157,6
+NE,Seward,Nebraska,ne_seward,31159,31159,0
+NE,Sheridan,Nebraska,ne_sheridan,31161,31161,0
+NE,Sherman,Nebraska,ne_sherman,31163,31163,0
+NE,Sioux,Nebraska,ne_sioux,31165,31165,1
+NE,Stanton,Nebraska,ne_stanton,31167,31167,0
+NE,Thayer,Nebraska,ne_thayer,31169,31169,1
+NE,Thomas,Nebraska,ne_thomas,31171,31171,0
+NE,Thurston,Nebraska,ne_thurston,31173,31173,0
+NE,Valley,Nebraska,ne_valley,31175,31175,0
+NE,Washington,Nebraska,ne_washington,31177,31177,0
+NE,Wayne,Nebraska,ne_wayne,31179,31179,0
+NE,Webster,Nebraska,ne_webster,31181,31181,0
+NE,Wheeler,Nebraska,ne_wheeler,31183,31183,0
+NE,York,Nebraska,ne_york,31185,31185,1
+NH,Belknap,New Hampshire,nh_belknap,33001,33001,0
+NH,Carroll,New Hampshire,nh_carroll,33003,33003,1
+NH,Cheshire,New Hampshire,nh_cheshire,33005,33005,0
+NH,Coos,New Hampshire,nh_coos,33007,33007,0
+NH,Grafton,New Hampshire,nh_grafton,33009,33009,0
+NH,Hillsborough,New Hampshire,nh_hillsborough,33011,33011,0
+NH,Merrimack,New Hampshire,nh_merrimack,33013,33013,3
+NH,Rockingham,New Hampshire,nh_rockingham,33015,33015,9
+NH,Strafford,New Hampshire,nh_strafford,33017,33017,0
+NH,Sullivan,New Hampshire,nh_sullivan,33019,33019,1
+NJ,Atlantic,New Jersey,nj_atlantic,34001,34001,3
+NJ,Bergen,New Jersey,nj_bergen,34003,34003,0
+NJ,Burlington,New Jersey,nj_burlington,34005,34005,0
+NJ,Camden,New Jersey,nj_camden,34007,34007,0
+NJ,Cape May,New Jersey,nj_cape may,34009,34009,0
+NJ,Cumberland,New Jersey,nj_cumberland,34011,34011,0
+NJ,Essex,New Jersey,nj_essex,34013,34013,1
+NJ,Gloucester,New Jersey,nj_gloucester,34015,34015,1
+NJ,Hudson,New Jersey,nj_hudson,34017,34017,4
+NJ,Hunterdon,New Jersey,nj_hunterdon,34019,34019,0
+NJ,Mercer,New Jersey,nj_mercer,34021,34021,1
+NJ,Middlesex,New Jersey,nj_middlesex,34023,34023,2
+NJ,Monmouth,New Jersey,nj_monmouth,34025,34025,3
+NJ,Morris,New Jersey,nj_morris,34027,34027,1
+NJ,Ocean,New Jersey,nj_ocean,34029,34029,1
+NJ,Passaic,New Jersey,nj_passaic,34031,34031,1
+NJ,Salem,New Jersey,nj_salem,34033,34033,1
+NJ,Somerset,New Jersey,nj_somerset,34035,34035,1
+NJ,Sussex,New Jersey,nj_sussex,34037,34037,0
+NJ,Union,New Jersey,nj_union,34039,34039,1
+NJ,Warren,New Jersey,nj_warren,34041,34041,0
+NM,Bernalillo,New Mexico,nm_bernalillo,35001,35001,27
+NM,Catron,New Mexico,nm_catron,35003,35003,1
+NM,Chaves,New Mexico,nm_chaves,35005,35005,3
+NM,Cibola,New Mexico,nm_cibola,35006,35006,0
+NM,Colfax,New Mexico,nm_colfax,35007,35007,0
+NM,Curry,New Mexico,nm_curry,35009,35009,6
+NM,De Baca,New Mexico,nm_de baca,35011,35011,0
+NM,Dona Ana,New Mexico,nm_dona ana,35013,35013,6
+NM,Eddy,New Mexico,nm_eddy,35015,35015,2
+NM,Grant,New Mexico,nm_grant,35017,35017,1
+NM,Guadalupe,New Mexico,nm_guadalupe,35019,35019,0
+NM,Harding,New Mexico,nm_harding,35021,35021,0
+NM,Hidalgo,New Mexico,nm_hidalgo,35023,35023,0
+NM,Lea,New Mexico,nm_lea,35025,35025,3
+NM,Lincoln,New Mexico,nm_lincoln,35027,35027,1
+NM,Los Alamos,New Mexico,nm_los alamos,35028,35028,2
+NM,Luna,New Mexico,nm_luna,35029,35029,1
+NM,McKinley,New Mexico,nm_mckinley,35031,35031,1
+NM,Mora,New Mexico,nm_mora,35033,35033,0
+NM,Otero,New Mexico,nm_otero,35035,35035,4
+NM,Quay,New Mexico,nm_quay,35037,35037,1
+NM,Rio Arriba,New Mexico,nm_rio arriba,35039,35039,1
+NM,Roosevelt,New Mexico,nm_roosevelt,35041,35041,0
+NM,San Juan,New Mexico,nm_san juan,35045,35045,5
+NM,San Miguel,New Mexico,nm_san miguel,35047,35047,0
+NM,Sandoval,New Mexico,nm_sandoval,35043,35043,4
+NM,Santa Fe,New Mexico,nm_santa fe,35049,35049,5
+NM,Sierra,New Mexico,nm_sierra,35051,35051,0
+NM,Socorro,New Mexico,nm_socorro,35053,35053,0
+NM,Taos,New Mexico,nm_taos,35055,35055,1
+NM,Torrance,New Mexico,nm_torrance,35057,35057,0
+NM,Union,New Mexico,nm_union,35059,35059,0
+NM,Valencia,New Mexico,nm_valencia,35061,35061,0
+NV,Carson City,Nevada,nv_carson city,32510,32510,13
+NV,Churchill,Nevada,nv_churchill,32001,32001,3
+NV,Clark,Nevada,nv_clark,32003,32003,64
+NV,Douglas,Nevada,nv_douglas,32005,32005,1
+NV,Elko,Nevada,nv_elko,32007,32007,1
+NV,Esmeralda,Nevada,nv_esmeralda,32009,32009,0
+NV,Eureka,Nevada,nv_eureka,32011,32011,0
+NV,Humboldt,Nevada,nv_humboldt,32013,32013,2
+NV,Lander,Nevada,nv_lander,32015,32015,0
+NV,Lincoln,Nevada,nv_lincoln,32017,32017,0
+NV,Lyon,Nevada,nv_lyon,32019,32019,3
+NV,Mineral,Nevada,nv_mineral,32021,32021,0
+NV,Nye,Nevada,nv_nye,32023,32023,1
+NV,Pershing,Nevada,nv_pershing,32027,32027,0
+NV,Storey,Nevada,nv_storey,32029,32029,0
+NV,Washoe,Nevada,nv_washoe,32031,32031,14
+NV,White Pine,Nevada,nv_white pine,32033,32033,1
+NY,Albany,New York,ny_albany,36001,36001,1
+NY,Allegany,New York,ny_allegany,36003,36003,1
+NY,Bronx,New York,ny_bronx,36005,36005,3
+NY,Broome,New York,ny_broome,36007,36007,2
+NY,Cattaraugus,New York,ny_cattaraugus,36009,36009,0
+NY,Cayuga,New York,ny_cayuga,36011,36011,1
+NY,Chautauqua,New York,ny_chautauqua,36013,36013,3
+NY,Chemung,New York,ny_chemung,36015,36015,0
+NY,Chenango,New York,ny_chenango,36017,36017,1
+NY,Clinton,New York,ny_clinton,36019,36019,0
+NY,Columbia,New York,ny_columbia,36021,36021,1
+NY,Cortland,New York,ny_cortland,36023,36023,1
+NY,Delaware,New York,ny_delaware,36025,36025,0
+NY,Dutchess,New York,ny_dutchess,36027,36027,1
+NY,Erie,New York,ny_erie,36029,36029,14
+NY,Essex,New York,ny_essex,36031,36031,0
+NY,Franklin,New York,ny_franklin,36033,36033,0
+NY,Fulton,New York,ny_fulton,36035,36035,1
+NY,Genesee,New York,ny_genesee,36037,36037,0
+NY,Greene,New York,ny_greene,36039,36039,0
+NY,Hamilton,New York,ny_hamilton,36041,36041,0
+NY,Herkimer,New York,ny_herkimer,36043,36043,5
+NY,Jefferson,New York,ny_jefferson,36045,36045,0
+NY,Kings,New York,ny_kings,36047,36047,1
+NY,Lewis,New York,ny_lewis,36049,36049,0
+NY,Livingston,New York,ny_livingston,36051,36051,0
+NY,Madison,New York,ny_madison,36053,36053,0
+NY,Monroe,New York,ny_monroe,36055,36055,6
+NY,Montgomery,New York,ny_montgomery,36057,36057,0
+NY,Nassau,New York,ny_nassau,36059,36059,14
+NY,New York,New York,ny_new york,36061,36061,10
+NY,Niagara,New York,ny_niagara,36063,36063,3
+NY,Oneida,New York,ny_oneida,36065,36065,1
+NY,Onondaga,New York,ny_onondaga,36067,36067,2
+NY,Ontario,New York,ny_ontario,36069,36069,1
+NY,Orange,New York,ny_orange,36071,36071,3
+NY,Orleans,New York,ny_orleans,36073,36073,0
+NY,Oswego,New York,ny_oswego,36075,36075,0
+NY,Otsego,New York,ny_otsego,36077,36077,1
+NY,Putnam,New York,ny_putnam,36079,36079,0
+NY,Queens,New York,ny_queens,36081,36081,0
+NY,Rensselaer,New York,ny_rensselaer,36083,36083,1
+NY,Richmond,New York,ny_richmond,36085,36085,1
+NY,Rockland,New York,ny_rockland,36087,36087,2
+NY,Saratoga,New York,ny_saratoga,36091,36091,0
+NY,Schenectady,New York,ny_schenectady,36093,36093,0
+NY,Schoharie,New York,ny_schoharie,36095,36095,0
+NY,Schuyler,New York,ny_schuyler,36097,36097,0
+NY,Seneca,New York,ny_seneca,36099,36099,0
+NY,St. Lawrence,New York,ny_st. lawrence,36089,36089,0
+NY,Steuben,New York,ny_steuben,36101,36101,2
+NY,Suffolk,New York,ny_suffolk,36103,36103,4
+NY,Sullivan,New York,ny_sullivan,36105,36105,1
+NY,Tioga,New York,ny_tioga,36107,36107,1
+NY,Tompkins,New York,ny_tompkins,36109,36109,1
+NY,Ulster,New York,ny_ulster,36111,36111,1
+NY,Warren,New York,ny_warren,36113,36113,0
+NY,Washington,New York,ny_washington,36115,36115,0
+NY,Wayne,New York,ny_wayne,36117,36117,0
+NY,Westchester,New York,ny_westchester,36119,36119,6
+NY,Wyoming,New York,ny_wyoming,36121,36121,0
+NY,Yates,New York,ny_yates,36123,36123,0
+OH,Adams,Ohio,oh_adams,39001,39001,3
+OH,Allen,Ohio,oh_allen,39003,39003,14
+OH,Ashland,Ohio,oh_ashland,39005,39005,39
+OH,Ashtabula,Ohio,oh_ashtabula,39007,39007,5
+OH,Athens,Ohio,oh_athens,39009,39009,4
+OH,Auglaize,Ohio,oh_auglaize,39011,39011,8
+OH,Belmont,Ohio,oh_belmont,39013,39013,3
+OH,Brown,Ohio,oh_brown,39015,39015,2
+OH,Butler,Ohio,oh_butler,39017,39017,39
+OH,Carroll,Ohio,oh_carroll,39019,39019,3
+OH,Champaign,Ohio,oh_champaign,39021,39021,9
+OH,Clark,Ohio,oh_clark,39023,39023,18
+OH,Clermont,Ohio,oh_clermont,39025,39025,23
+OH,Clinton,Ohio,oh_clinton,39027,39027,6
+OH,Columbiana,Ohio,oh_columbiana,39029,39029,3
+OH,Coshocton,Ohio,oh_coshocton,39031,39031,1
+OH,Crawford,Ohio,oh_crawford,39033,39033,6
+OH,Cuyahoga,Ohio,oh_cuyahoga,39035,39035,38
+OH,Darke,Ohio,oh_darke,39037,39037,2
+OH,Defiance,Ohio,oh_defiance,39039,39039,3
+OH,Delaware,Ohio,oh_delaware,39041,39041,3
+OH,Erie,Ohio,oh_erie,39043,39043,12
+OH,Fairfield,Ohio,oh_fairfield,39045,39045,3
+OH,Fayette,Ohio,oh_fayette,39047,39047,21
+OH,Franklin,Ohio,oh_franklin,39049,39049,156
+OH,Fulton,Ohio,oh_fulton,39051,39051,9
+OH,Gallia,Ohio,oh_gallia,39053,39053,30
+OH,Geauga,Ohio,oh_geauga,39055,39055,7
+OH,Greene,Ohio,oh_greene,39057,39057,25
+OH,Guernsey,Ohio,oh_guernsey,39059,39059,2
+OH,Hamilton,Ohio,oh_hamilton,39061,39061,72
+OH,Hancock,Ohio,oh_hancock,39063,39063,8
+OH,Hardin,Ohio,oh_hardin,39065,39065,0
+OH,Harrison,Ohio,oh_harrison,39067,39067,0
+OH,Henry,Ohio,oh_henry,39069,39069,0
+OH,Highland,Ohio,oh_highland,39071,39071,7
+OH,Hocking,Ohio,oh_hocking,39073,39073,7
+OH,Holmes,Ohio,oh_holmes,39075,39075,1
+OH,Huron,Ohio,oh_huron,39077,39077,4
+OH,Jackson,Ohio,oh_jackson,39079,39079,8
+OH,Jefferson,Ohio,oh_jefferson,39081,39081,4
+OH,Knox,Ohio,oh_knox,39083,39083,1
+OH,Lake,Ohio,oh_lake,39085,39085,23
+OH,Lawrence,Ohio,oh_lawrence,39087,39087,12
+OH,Licking,Ohio,oh_licking,39089,39089,16
+OH,Logan,Ohio,oh_logan,39091,39091,14
+OH,Lorain,Ohio,oh_lorain,39093,39093,34
+OH,Lucas,Ohio,oh_lucas,39095,39095,26
+OH,Madison,Ohio,oh_madison,39097,39097,2
+OH,Mahoning,Ohio,oh_mahoning,39099,39099,36
+OH,Marion,Ohio,oh_marion,39101,39101,16
+OH,Medina,Ohio,oh_medina,39103,39103,9
+OH,Meigs,Ohio,oh_meigs,39105,39105,2
+OH,Mercer,Ohio,oh_mercer,39107,39107,4
+OH,Miami,Ohio,oh_miami,39109,39109,34
+OH,Monroe,Ohio,oh_monroe,39111,39111,0
+OH,Montgomery,Ohio,oh_montgomery,39113,39113,69
+OH,Morgan,Ohio,oh_morgan,39115,39115,1
+OH,Morrow,Ohio,oh_morrow,39117,39117,0
+OH,Muskingum,Ohio,oh_muskingum,39119,39119,2
+OH,Noble,Ohio,oh_noble,39121,39121,1
+OH,Ottawa,Ohio,oh_ottawa,39123,39123,0
+OH,Paulding,Ohio,oh_paulding,39125,39125,2
+OH,Perry,Ohio,oh_perry,39127,39127,1
+OH,Pickaway,Ohio,oh_pickaway,39129,39129,3
+OH,Pike,Ohio,oh_pike,39131,39131,5
+OH,Portage,Ohio,oh_portage,39133,39133,8
+OH,Preble,Ohio,oh_preble,39135,39135,6
+OH,Putnam,Ohio,oh_putnam,39137,39137,2
+OH,Richland,Ohio,oh_richland,39139,39139,29
+OH,Ross,Ohio,oh_ross,39141,39141,5
+OH,Sandusky,Ohio,oh_sandusky,39143,39143,4
+OH,Scioto,Ohio,oh_scioto,39145,39145,11
+OH,Seneca,Ohio,oh_seneca,39147,39147,4
+OH,Shelby,Ohio,oh_shelby,39149,39149,20
+OH,Stark,Ohio,oh_stark,39151,39151,17
+OH,Summit,Ohio,oh_summit,39153,39153,20
+OH,Trumbull,Ohio,oh_trumbull,39155,39155,8
+OH,Tuscarawas,Ohio,oh_tuscarawas,39157,39157,2
+OH,Union,Ohio,oh_union,39159,39159,4
+OH,Van Wert,Ohio,oh_van wert,39161,39161,2
+OH,Vinton,Ohio,oh_vinton,39163,39163,0
+OH,Warren,Ohio,oh_warren,39165,39165,20
+OH,Washington,Ohio,oh_washington,39167,39167,1
+OH,Wayne,Ohio,oh_wayne,39169,39169,18
+OH,Williams,Ohio,oh_williams,39171,39171,6
+OH,Wood,Ohio,oh_wood,39173,39173,13
+OH,Wyandot,Ohio,oh_wyandot,39175,39175,0
+OK,Adair,Oklahoma,ok_adair,40001,40001,0
+OK,Alfalfa,Oklahoma,ok_alfalfa,40003,40003,0
+OK,Atoka,Oklahoma,ok_atoka,40005,40005,1
+OK,Beaver,Oklahoma,ok_beaver,40007,40007,0
+OK,Beckham,Oklahoma,ok_beckham,40009,40009,0
+OK,Blaine,Oklahoma,ok_blaine,40011,40011,0
+OK,Bryan,Oklahoma,ok_bryan,40013,40013,2
+OK,Caddo,Oklahoma,ok_caddo,40015,40015,0
+OK,Canadian,Oklahoma,ok_canadian,40017,40017,4
+OK,Carter,Oklahoma,ok_carter,40019,40019,0
+OK,Cherokee,Oklahoma,ok_cherokee,40021,40021,0
+OK,Choctaw,Oklahoma,ok_choctaw,40023,40023,0
+OK,Cimarron,Oklahoma,ok_cimarron,40025,40025,0
+OK,Cleveland,Oklahoma,ok_cleveland,40027,40027,4
+OK,Coal,Oklahoma,ok_coal,40029,40029,0
+OK,Comanche,Oklahoma,ok_comanche,40031,40031,21
+OK,Cotton,Oklahoma,ok_cotton,40033,40033,0
+OK,Craig,Oklahoma,ok_craig,40035,40035,1
+OK,Creek,Oklahoma,ok_creek,40037,40037,2
+OK,Custer,Oklahoma,ok_custer,40039,40039,1
+OK,Delaware,Oklahoma,ok_delaware,40041,40041,1
+OK,Dewey,Oklahoma,ok_dewey,40043,40043,0
+OK,Ellis,Oklahoma,ok_ellis,40045,40045,0
+OK,Garfield,Oklahoma,ok_garfield,40047,40047,0
+OK,Garvin,Oklahoma,ok_garvin,40049,40049,0
+OK,Grady,Oklahoma,ok_grady,40051,40051,0
+OK,Grant,Oklahoma,ok_grant,40053,40053,0
+OK,Greer,Oklahoma,ok_greer,40055,40055,0
+OK,Harmon,Oklahoma,ok_harmon,40057,40057,0
+OK,Harper,Oklahoma,ok_harper,40059,40059,0
+OK,Haskell,Oklahoma,ok_haskell,40061,40061,0
+OK,Hughes,Oklahoma,ok_hughes,40063,40063,0
+OK,Jackson,Oklahoma,ok_jackson,40065,40065,4
+OK,Jefferson,Oklahoma,ok_jefferson,40067,40067,0
+OK,Johnston,Oklahoma,ok_johnston,40069,40069,0
+OK,Kay,Oklahoma,ok_kay,40071,40071,1
+OK,Kingfisher,Oklahoma,ok_kingfisher,40073,40073,0
+OK,Kiowa,Oklahoma,ok_kiowa,40075,40075,0
+OK,Latimer,Oklahoma,ok_latimer,40077,40077,0
+OK,Le Flore,Oklahoma,ok_le flore,40079,40079,1
+OK,Lincoln,Oklahoma,ok_lincoln,40081,40081,1
+OK,Logan,Oklahoma,ok_logan,40083,40083,0
+OK,Love,Oklahoma,ok_love,40085,40085,0
+OK,Major,Oklahoma,ok_major,40093,40093,0
+OK,Marshall,Oklahoma,ok_marshall,40095,40095,0
+OK,Mayes,Oklahoma,ok_mayes,40097,40097,11
+OK,McClain,Oklahoma,ok_mcclain,40087,40087,0
+OK,McCurtain,Oklahoma,ok_mccurtain,40089,40089,4
+OK,McIntosh,Oklahoma,ok_mcintosh,40091,40091,0
+OK,Murray,Oklahoma,ok_murray,40099,40099,0
+OK,Muskogee,Oklahoma,ok_muskogee,40101,40101,5
+OK,Noble,Oklahoma,ok_noble,40103,40103,0
+OK,Nowata,Oklahoma,ok_nowata,40105,40105,0
+OK,Okfuskee,Oklahoma,ok_okfuskee,40107,40107,0
+OK,Oklahoma,Oklahoma,ok_oklahoma,40109,40109,58
+OK,Okmulgee,Oklahoma,ok_okmulgee,40111,40111,2
+OK,Osage,Oklahoma,ok_osage,40113,40113,1
+OK,Ottawa,Oklahoma,ok_ottawa,40115,40115,1
+OK,Pawnee,Oklahoma,ok_pawnee,40117,40117,0
+OK,Payne,Oklahoma,ok_payne,40119,40119,2
+OK,Pittsburg,Oklahoma,ok_pittsburg,40121,40121,0
+OK,Pontotoc,Oklahoma,ok_pontotoc,40123,40123,7
+OK,Pottawatomie,Oklahoma,ok_pottawatomie,40125,40125,4
+OK,Pushmataha,Oklahoma,ok_pushmataha,40127,40127,0
+OK,Roger Mills,Oklahoma,ok_roger mills,40129,40129,0
+OK,Rogers,Oklahoma,ok_rogers,40131,40131,5
+OK,Seminole,Oklahoma,ok_seminole,40133,40133,1
+OK,Sequoyah,Oklahoma,ok_sequoyah,40135,40135,1
+OK,Stephens,Oklahoma,ok_stephens,40137,40137,9
+OK,Texas,Oklahoma,ok_texas,40139,40139,1
+OK,Tillman,Oklahoma,ok_tillman,40141,40141,0
+OK,Tulsa,Oklahoma,ok_tulsa,40143,40143,44
+OK,Wagoner,Oklahoma,ok_wagoner,40145,40145,1
+OK,Washington,Oklahoma,ok_washington,40147,40147,4
+OK,Washita,Oklahoma,ok_washita,40149,40149,0
+OK,Woods,Oklahoma,ok_woods,40151,40151,1
+OK,Woodward,Oklahoma,ok_woodward,40153,40153,1
+OR,Baker,Oregon,or_baker,41001,41001,0
+OR,Benton,Oregon,or_benton,41003,41003,1
+OR,Clackamas,Oregon,or_clackamas,41005,41005,7
+OR,Clatsop,Oregon,or_clatsop,41007,41007,0
+OR,Columbia,Oregon,or_columbia,41009,41009,0
+OR,Coos,Oregon,or_coos,41011,41011,1
+OR,Crook,Oregon,or_crook,41013,41013,0
+OR,Curry,Oregon,or_curry,41015,41015,0
+OR,Deschutes,Oregon,or_deschutes,41017,41017,2
+OR,Douglas,Oregon,or_douglas,41019,41019,4
+OR,Gilliam,Oregon,or_gilliam,41021,41021,0
+OR,Grant,Oregon,or_grant,41023,41023,0
+OR,Harney,Oregon,or_harney,41025,41025,0
+OR,Hood River,Oregon,or_hood river,41027,41027,1
+OR,Jackson,Oregon,or_jackson,41029,41029,3
+OR,Jefferson,Oregon,or_jefferson,41031,41031,0
+OR,Josephine,Oregon,or_josephine,41033,41033,1
+OR,Klamath,Oregon,or_klamath,41035,41035,1
+OR,Lake,Oregon,or_lake,41037,41037,0
+OR,Lane,Oregon,or_lane,41039,41039,2
+OR,Lincoln,Oregon,or_lincoln,41041,41041,0
+OR,Linn,Oregon,or_linn,41043,41043,1
+OR,Malheur,Oregon,or_malheur,41045,41045,2
+OR,Marion,Oregon,or_marion,41047,41047,5
+OR,Morrow,Oregon,or_morrow,41049,41049,0
+OR,Multnomah,Oregon,or_multnomah,41051,41051,6
+OR,Polk,Oregon,or_polk,41053,41053,0
+OR,Sherman,Oregon,or_sherman,41055,41055,0
+OR,Tillamook,Oregon,or_tillamook,41057,41057,0
+OR,Umatilla,Oregon,or_umatilla,41059,41059,0
+OR,Union,Oregon,or_union,41061,41061,2
+OR,Wallowa,Oregon,or_wallowa,41063,41063,0
+OR,Wasco,Oregon,or_wasco,41065,41065,0
+OR,Washington,Oregon,or_washington,41067,41067,1
+OR,Wheeler,Oregon,or_wheeler,41069,41069,0
+OR,Yamhill,Oregon,or_yamhill,41071,41071,0
+PA,Adams,Pennsylvania,pa_adams,42001,42001,2
+PA,Allegheny,Pennsylvania,pa_allegheny,42003,42003,23
+PA,Armstrong,Pennsylvania,pa_armstrong,42005,42005,0
+PA,Beaver,Pennsylvania,pa_beaver,42007,42007,9
+PA,Bedford,Pennsylvania,pa_bedford,42009,42009,1
+PA,Berks,Pennsylvania,pa_berks,42011,42011,7
+PA,Blair,Pennsylvania,pa_blair,42013,42013,4
+PA,Bradford,Pennsylvania,pa_bradford,42015,42015,0
+PA,Bucks,Pennsylvania,pa_bucks,42017,42017,8
+PA,Butler,Pennsylvania,pa_butler,42019,42019,3
+PA,Cambria,Pennsylvania,pa_cambria,42021,42021,0
+PA,Cameron,Pennsylvania,pa_cameron,42023,42023,0
+PA,Carbon,Pennsylvania,pa_carbon,42025,42025,1
+PA,Centre,Pennsylvania,pa_centre,42027,42027,1
+PA,Chester,Pennsylvania,pa_chester,42029,42029,4
+PA,Clarion,Pennsylvania,pa_clarion,42031,42031,1
+PA,Clearfield,Pennsylvania,pa_clearfield,42033,42033,5
+PA,Clinton,Pennsylvania,pa_clinton,42035,42035,1
+PA,Columbia,Pennsylvania,pa_columbia,42037,42037,1
+PA,Crawford,Pennsylvania,pa_crawford,42039,42039,1
+PA,Cumberland,Pennsylvania,pa_cumberland,42041,42041,4
+PA,Dauphin,Pennsylvania,pa_dauphin,42043,42043,2
+PA,Delaware,Pennsylvania,pa_delaware,42045,42045,3
+PA,Elk,Pennsylvania,pa_elk,42047,42047,1
+PA,Erie,Pennsylvania,pa_erie,42049,42049,7
+PA,Fayette,Pennsylvania,pa_fayette,42051,42051,6
+PA,Forest,Pennsylvania,pa_forest,42053,42053,0
+PA,Franklin,Pennsylvania,pa_franklin,42055,42055,4
+PA,Fulton,Pennsylvania,pa_fulton,42057,42057,0
+PA,Greene,Pennsylvania,pa_greene,42059,42059,1
+PA,Huntingdon,Pennsylvania,pa_huntingdon,42061,42061,0
+PA,Indiana,Pennsylvania,pa_indiana,42063,42063,2
+PA,Jefferson,Pennsylvania,pa_jefferson,42065,42065,0
+PA,Juniata,Pennsylvania,pa_juniata,42067,42067,1
+PA,Lackawanna,Pennsylvania,pa_lackawanna,42069,42069,1
+PA,Lancaster,Pennsylvania,pa_lancaster,42071,42071,9
+PA,Lawrence,Pennsylvania,pa_lawrence,42073,42073,3
+PA,Lebanon,Pennsylvania,pa_lebanon,42075,42075,3
+PA,Lehigh,Pennsylvania,pa_lehigh,42077,42077,2
+PA,Luzerne,Pennsylvania,pa_luzerne,42079,42079,8
+PA,Lycoming,Pennsylvania,pa_lycoming,42081,42081,2
+PA,McKean,Pennsylvania,pa_mckean,42083,42083,0
+PA,Mercer,Pennsylvania,pa_mercer,42085,42085,0
+PA,Mifflin,Pennsylvania,pa_mifflin,42087,42087,0
+PA,Monroe,Pennsylvania,pa_monroe,42089,42089,3
+PA,Montgomery,Pennsylvania,pa_montgomery,42091,42091,3
+PA,Montour,Pennsylvania,pa_montour,42093,42093,0
+PA,Northampton,Pennsylvania,pa_northampton,42095,42095,0
+PA,Northumberland,Pennsylvania,pa_northumberland,42097,42097,1
+PA,Perry,Pennsylvania,pa_perry,42099,42099,0
+PA,Philadelphia,Pennsylvania,pa_philadelphia,42101,42101,9
+PA,Pike,Pennsylvania,pa_pike,42103,42103,0
+PA,Potter,Pennsylvania,pa_potter,42105,42105,0
+PA,Schuylkill,Pennsylvania,pa_schuylkill,42107,42107,0
+PA,Snyder,Pennsylvania,pa_snyder,42109,42109,1
+PA,Somerset,Pennsylvania,pa_somerset,42111,42111,2
+PA,Sullivan,Pennsylvania,pa_sullivan,42113,42113,0
+PA,Susquehanna,Pennsylvania,pa_susquehanna,42115,42115,6
+PA,Tioga,Pennsylvania,pa_tioga,42117,42117,0
+PA,Union,Pennsylvania,pa_union,42119,42119,0
+PA,Venango,Pennsylvania,pa_venango,42121,42121,2
+PA,Warren,Pennsylvania,pa_warren,42123,42123,1
+PA,Washington,Pennsylvania,pa_washington,42125,42125,13
+PA,Wayne,Pennsylvania,pa_wayne,42127,42127,1
+PA,Westmoreland,Pennsylvania,pa_westmoreland,42129,42129,5
+PA,Wyoming,Pennsylvania,pa_wyoming,42131,42131,0
+PA,York,Pennsylvania,pa_york,42133,42133,3
+RI,Bristol,Rhode Island,ri_bristol,44001,44001,0
+RI,Kent,Rhode Island,ri_kent,44003,44003,0
+RI,Newport,Rhode Island,ri_newport,44005,44005,1
+RI,Providence,Rhode Island,ri_providence,44007,44007,3
+RI,Washington,Rhode Island,ri_washington,44009,44009,1
+SC,Abbeville,South Carolina,sc_abbeville,45001,45001,0
+SC,Aiken,South Carolina,sc_aiken,45003,45003,4
+SC,Allendale,South Carolina,sc_allendale,45005,45005,0
+SC,Anderson,South Carolina,sc_anderson,45007,45007,8
+SC,Bamberg,South Carolina,sc_bamberg,45009,45009,0
+SC,Barnwell,South Carolina,sc_barnwell,45011,45011,0
+SC,Beaufort,South Carolina,sc_beaufort,45013,45013,9
+SC,Berkeley,South Carolina,sc_berkeley,45015,45015,5
+SC,Calhoun,South Carolina,sc_calhoun,45017,45017,0
+SC,Charleston,South Carolina,sc_charleston,45019,45019,18
+SC,Cherokee,South Carolina,sc_cherokee,45021,45021,1
+SC,Chester,South Carolina,sc_chester,45023,45023,2
+SC,Chesterfield,South Carolina,sc_chesterfield,45025,45025,1
+SC,Clarendon,South Carolina,sc_clarendon,45027,45027,0
+SC,Colleton,South Carolina,sc_colleton,45029,45029,1
+SC,Darlington,South Carolina,sc_darlington,45031,45031,11
+SC,Dillon,South Carolina,sc_dillon,45033,45033,1
+SC,Dorchester,South Carolina,sc_dorchester,45035,45035,1
+SC,Edgefield,South Carolina,sc_edgefield,45037,45037,0
+SC,Fairfield,South Carolina,sc_fairfield,45039,45039,0
+SC,Florence,South Carolina,sc_florence,45041,45041,3
+SC,Georgetown,South Carolina,sc_georgetown,45043,45043,0
+SC,Greenville,South Carolina,sc_greenville,45045,45045,13
+SC,Greenwood,South Carolina,sc_greenwood,45047,45047,3
+SC,Hampton,South Carolina,sc_hampton,45049,45049,0
+SC,Horry,South Carolina,sc_horry,45051,45051,5
+SC,Jasper,South Carolina,sc_jasper,45053,45053,1
+SC,Kershaw,South Carolina,sc_kershaw,45055,45055,2
+SC,Lancaster,South Carolina,sc_lancaster,45057,45057,4
+SC,Laurens,South Carolina,sc_laurens,45059,45059,1
+SC,Lee,South Carolina,sc_lee,45061,45061,4
+SC,Lexington,South Carolina,sc_lexington,45063,45063,6
+SC,Marion,South Carolina,sc_marion,45067,45067,1
+SC,Marlboro,South Carolina,sc_marlboro,45069,45069,3
+SC,McCormick,South Carolina,sc_mccormick,45065,45065,0
+SC,Newberry,South Carolina,sc_newberry,45071,45071,1
+SC,Oconee,South Carolina,sc_oconee,45073,45073,1
+SC,Orangeburg,South Carolina,sc_orangeburg,45075,45075,5
+SC,Pickens,South Carolina,sc_pickens,45077,45077,0
+SC,Richland,South Carolina,sc_richland,45079,45079,13
+SC,Saluda,South Carolina,sc_saluda,45081,45081,0
+SC,Spartanburg,South Carolina,sc_spartanburg,45083,45083,8
+SC,Sumter,South Carolina,sc_sumter,45085,45085,7
+SC,Union,South Carolina,sc_union,45087,45087,2
+SC,Williamsburg,South Carolina,sc_williamsburg,45089,45089,0
+SC,York,South Carolina,sc_york,45091,45091,7
+SD,Aurora,South Dakota,sd_aurora,46003,46003,0
+SD,Beadle,South Dakota,sd_beadle,46005,46005,0
+SD,Bennett,South Dakota,sd_bennett,46007,46007,0
+SD,Bon Homme,South Dakota,sd_bon homme,46009,46009,1
+SD,Brookings,South Dakota,sd_brookings,46011,46011,2
+SD,Brown,South Dakota,sd_brown,46013,46013,2
+SD,Brule,South Dakota,sd_brule,46015,46015,0
+SD,Buffalo,South Dakota,sd_buffalo,46017,46017,0
+SD,Butte,South Dakota,sd_butte,46019,46019,1
+SD,Campbell,South Dakota,sd_campbell,46021,46021,0
+SD,Charles Mix,South Dakota,sd_charles mix,46023,46023,0
+SD,Clark,South Dakota,sd_clark,46025,46025,0
+SD,Clay,South Dakota,sd_clay,46027,46027,0
+SD,Codington,South Dakota,sd_codington,46029,46029,1
+SD,Corson,South Dakota,sd_corson,46031,46031,0
+SD,Custer,South Dakota,sd_custer,46033,46033,0
+SD,Davison,South Dakota,sd_davison,46035,46035,1
+SD,Day,South Dakota,sd_day,46037,46037,0
+SD,Deuel,South Dakota,sd_deuel,46039,46039,0
+SD,Dewey,South Dakota,sd_dewey,46041,46041,0
+SD,Douglas,South Dakota,sd_douglas,46043,46043,0
+SD,Edmunds,South Dakota,sd_edmunds,46045,46045,0
+SD,Fall River,South Dakota,sd_fall river,46047,46047,0
+SD,Faulk,South Dakota,sd_faulk,46049,46049,0
+SD,Grant,South Dakota,sd_grant,46051,46051,0
+SD,Gregory,South Dakota,sd_gregory,46053,46053,0
+SD,Haakon,South Dakota,sd_haakon,46055,46055,0
+SD,Hamlin,South Dakota,sd_hamlin,46057,46057,0
+SD,Hand,South Dakota,sd_hand,46059,46059,0
+SD,Hanson,South Dakota,sd_hanson,46061,46061,0
+SD,Harding,South Dakota,sd_harding,46063,46063,0
+SD,Hughes,South Dakota,sd_hughes,46065,46065,0
+SD,Hutchinson,South Dakota,sd_hutchinson,46067,46067,0
+SD,Hyde,South Dakota,sd_hyde,46069,46069,0
+SD,Jackson,South Dakota,sd_jackson,46071,46071,0
+SD,Jerauld,South Dakota,sd_jerauld,46073,46073,0
+SD,Jones,South Dakota,sd_jones,46075,46075,0
+SD,Kingsbury,South Dakota,sd_kingsbury,46077,46077,0
+SD,Lake,South Dakota,sd_lake,46079,46079,0
+SD,Lawrence,South Dakota,sd_lawrence,46081,46081,1
+SD,Lincoln,South Dakota,sd_lincoln,46083,46083,0
+SD,Lyman,South Dakota,sd_lyman,46085,46085,0
+SD,Marshall,South Dakota,sd_marshall,46091,46091,0
+SD,McCook,South Dakota,sd_mccook,46087,46087,0
+SD,McPherson,South Dakota,sd_mcpherson,46089,46089,0
+SD,Meade,South Dakota,sd_meade,46093,46093,0
+SD,Mellette,South Dakota,sd_mellette,46095,46095,0
+SD,Miner,South Dakota,sd_miner,46097,46097,0
+SD,Minnehaha,South Dakota,sd_minnehaha,46099,46099,6
+SD,Moody,South Dakota,sd_moody,46101,46101,0
+SD,Pennington,South Dakota,sd_pennington,46103,46103,10
+SD,Perkins,South Dakota,sd_perkins,46105,46105,0
+SD,Potter,South Dakota,sd_potter,46107,46107,0
+SD,Roberts,South Dakota,sd_roberts,46109,46109,0
+SD,Sanborn,South Dakota,sd_sanborn,46111,46111,0
+SD,Shannon,South Dakota,sd_shannon,46113,46113,0
+SD,Spink,South Dakota,sd_spink,46115,46115,1
+SD,Stanley,South Dakota,sd_stanley,46117,46117,1
+SD,Sully,South Dakota,sd_sully,46119,46119,0
+SD,Todd,South Dakota,sd_todd,46121,46121,0
+SD,Tripp,South Dakota,sd_tripp,46123,46123,3
+SD,Turner,South Dakota,sd_turner,46125,46125,5
+SD,Union,South Dakota,sd_union,46127,46127,1
+SD,Walworth,South Dakota,sd_walworth,46129,46129,0
+SD,Yankton,South Dakota,sd_yankton,46135,46135,0
+SD,Ziebach,South Dakota,sd_ziebach,46137,46137,0
+TN,Anderson,Tennessee,tn_anderson,47001,47001,11
+TN,Bedford,Tennessee,tn_bedford,47003,47003,10
+TN,Benton,Tennessee,tn_benton,47005,47005,7
+TN,Bledsoe,Tennessee,tn_bledsoe,47007,47007,0
+TN,Blount,Tennessee,tn_blount,47009,47009,10
+TN,Bradley,Tennessee,tn_bradley,47011,47011,6
+TN,Campbell,Tennessee,tn_campbell,47013,47013,6
+TN,Cannon,Tennessee,tn_cannon,47015,47015,0
+TN,Carroll,Tennessee,tn_carroll,47017,47017,15
+TN,Carter,Tennessee,tn_carter,47019,47019,5
+TN,Cheatham,Tennessee,tn_cheatham,47021,47021,2
+TN,Chester,Tennessee,tn_chester,47023,47023,5
+TN,Claiborne,Tennessee,tn_claiborne,47025,47025,4
+TN,Clay,Tennessee,tn_clay,47027,47027,1
+TN,Cocke,Tennessee,tn_cocke,47029,47029,5
+TN,Coffee,Tennessee,tn_coffee,47031,47031,6
+TN,Crockett,Tennessee,tn_crockett,47033,47033,2
+TN,Cumberland,Tennessee,tn_cumberland,47035,47035,5
+TN,Davidson,Tennessee,tn_davidson,47037,47037,76
+TN,Decatur,Tennessee,tn_decatur,47039,47039,2
+TN,DeKalb,Tennessee,tn_dekalb,47041,47041,1
+TN,Dickson,Tennessee,tn_dickson,47043,47043,6
+TN,Dyer,Tennessee,tn_dyer,47045,47045,17
+TN,Fayette,Tennessee,tn_fayette,47047,47047,1
+TN,Fentress,Tennessee,tn_fentress,47049,47049,1
+TN,Franklin,Tennessee,tn_franklin,47051,47051,9
+TN,Gibson,Tennessee,tn_gibson,47053,47053,14
+TN,Giles,Tennessee,tn_giles,47055,47055,5
+TN,Grainger,Tennessee,tn_grainger,47057,47057,0
+TN,Greene,Tennessee,tn_greene,47059,47059,4
+TN,Grundy,Tennessee,tn_grundy,47061,47061,1
+TN,Hamblen,Tennessee,tn_hamblen,47063,47063,4
+TN,Hamilton,Tennessee,tn_hamilton,47065,47065,62
+TN,Hancock,Tennessee,tn_hancock,47067,47067,0
+TN,Hardeman,Tennessee,tn_hardeman,47069,47069,6
+TN,Hardin,Tennessee,tn_hardin,47071,47071,8
+TN,Hawkins,Tennessee,tn_hawkins,47073,47073,1
+TN,Haywood,Tennessee,tn_haywood,47075,47075,2
+TN,Henderson,Tennessee,tn_henderson,47077,47077,8
+TN,Henry,Tennessee,tn_henry,47079,47079,26
+TN,Hickman,Tennessee,tn_hickman,47081,47081,6
+TN,Houston,Tennessee,tn_houston,47083,47083,2
+TN,Humphreys,Tennessee,tn_humphreys,47085,47085,4
+TN,Jackson,Tennessee,tn_jackson,47087,47087,0
+TN,Jefferson,Tennessee,tn_jefferson,47089,47089,7
+TN,Johnson,Tennessee,tn_johnson,47091,47091,0
+TN,Knox,Tennessee,tn_knox,47093,47093,64
+TN,Lake,Tennessee,tn_lake,47095,47095,1
+TN,Lauderdale,Tennessee,tn_lauderdale,47097,47097,4
+TN,Lawrence,Tennessee,tn_lawrence,47099,47099,2
+TN,Lewis,Tennessee,tn_lewis,47101,47101,1
+TN,Lincoln,Tennessee,tn_lincoln,47103,47103,1
+TN,Loudon,Tennessee,tn_loudon,47105,47105,3
+TN,Macon,Tennessee,tn_macon,47111,47111,3
+TN,Madison,Tennessee,tn_madison,47113,47113,44
+TN,Marion,Tennessee,tn_marion,47115,47115,6
+TN,Marshall,Tennessee,tn_marshall,47117,47117,1
+TN,Maury,Tennessee,tn_maury,47119,47119,7
+TN,McMinn,Tennessee,tn_mcminn,47107,47107,12
+TN,McNairy,Tennessee,tn_mcnairy,47109,47109,15
+TN,Meigs,Tennessee,tn_meigs,47121,47121,2
+TN,Monroe,Tennessee,tn_monroe,47123,47123,12
+TN,Montgomery,Tennessee,tn_montgomery,47125,47125,22
+TN,Moore,Tennessee,tn_moore,47127,47127,0
+TN,Morgan,Tennessee,tn_morgan,47129,47129,3
+TN,Obion,Tennessee,tn_obion,47131,47131,14
+TN,Overton,Tennessee,tn_overton,47133,47133,1
+TN,Perry,Tennessee,tn_perry,47135,47135,2
+TN,Pickett,Tennessee,tn_pickett,47137,47137,1
+TN,Polk,Tennessee,tn_polk,47139,47139,7
+TN,Putnam,Tennessee,tn_putnam,47141,47141,3
+TN,Rhea,Tennessee,tn_rhea,47143,47143,3
+TN,Roane,Tennessee,tn_roane,47145,47145,10
+TN,Robertson,Tennessee,tn_robertson,47147,47147,7
+TN,Rutherford,Tennessee,tn_rutherford,47149,47149,16
+TN,Scott,Tennessee,tn_scott,47151,47151,2
+TN,Sequatchie,Tennessee,tn_sequatchie,47153,47153,0
+TN,Sevier,Tennessee,tn_sevier,47155,47155,15
+TN,Shelby,Tennessee,tn_shelby,47157,47157,362
+TN,Smith,Tennessee,tn_smith,47159,47159,1
+TN,Stewart,Tennessee,tn_stewart,47161,47161,1
+TN,Sullivan,Tennessee,tn_sullivan,47163,47163,8
+TN,Sumner,Tennessee,tn_sumner,47165,47165,4
+TN,Tipton,Tennessee,tn_tipton,47167,47167,11
+TN,Trousdale,Tennessee,tn_trousdale,47169,47169,0
+TN,Unicoi,Tennessee,tn_unicoi,47171,47171,1
+TN,Union,Tennessee,tn_union,47173,47173,0
+TN,Van Buren,Tennessee,tn_van buren,47175,47175,2
+TN,Warren,Tennessee,tn_warren,47177,47177,3
+TN,Washington,Tennessee,tn_washington,47179,47179,12
+TN,Wayne,Tennessee,tn_wayne,47181,47181,2
+TN,Weakley,Tennessee,tn_weakley,47183,47183,6
+TN,White,Tennessee,tn_white,47185,47185,4
+TN,Williamson,Tennessee,tn_williamson,47187,47187,5
+TN,Wilson,Tennessee,tn_wilson,47189,47189,11
+TX,Anderson,Texas,tx_anderson,48001,48001,1
+TX,Andrews,Texas,tx_andrews,48003,48003,0
+TX,Angelina,Texas,tx_angelina,48005,48005,3
+TX,Aransas,Texas,tx_aransas,48007,48007,0
+TX,Archer,Texas,tx_archer,48009,48009,0
+TX,Armstrong,Texas,tx_armstrong,48011,48011,0
+TX,Atascosa,Texas,tx_atascosa,48013,48013,0
+TX,Austin,Texas,tx_austin,48015,48015,0
+TX,Bailey,Texas,tx_bailey,48017,48017,1
+TX,Bandera,Texas,tx_bandera,48019,48019,2
+TX,Bastrop,Texas,tx_bastrop,48021,48021,0
+TX,Baylor,Texas,tx_baylor,48023,48023,0
+TX,Bee,Texas,tx_bee,48025,48025,2
+TX,Bell,Texas,tx_bell,48027,48027,61
+TX,Bexar,Texas,tx_bexar,48029,48029,64
+TX,Blanco,Texas,tx_blanco,48031,48031,2
+TX,Borden,Texas,tx_borden,48033,48033,0
+TX,Bosque,Texas,tx_bosque,48035,48035,2
+TX,Bowie,Texas,tx_bowie,48037,48037,12
+TX,Brazoria,Texas,tx_brazoria,48039,48039,15
+TX,Brazos,Texas,tx_brazos,48041,48041,15
+TX,Brewster,Texas,tx_brewster,48043,48043,1
+TX,Briscoe,Texas,tx_briscoe,48045,48045,0
+TX,Brooks,Texas,tx_brooks,48047,48047,0
+TX,Brown,Texas,tx_brown,48049,48049,0
+TX,Burleson,Texas,tx_burleson,48051,48051,0
+TX,Burnet,Texas,tx_burnet,48053,48053,1
+TX,Caldwell,Texas,tx_caldwell,48055,48055,0
+TX,Calhoun,Texas,tx_calhoun,48057,48057,0
+TX,Callahan,Texas,tx_callahan,48059,48059,0
+TX,Cameron,Texas,tx_cameron,48061,48061,7
+TX,Camp,Texas,tx_camp,48063,48063,0
+TX,Carson,Texas,tx_carson,48065,48065,0
+TX,Cass,Texas,tx_cass,48067,48067,4
+TX,Castro,Texas,tx_castro,48069,48069,0
+TX,Chambers,Texas,tx_chambers,48071,48071,0
+TX,Cherokee,Texas,tx_cherokee,48073,48073,4
+TX,Childress,Texas,tx_childress,48075,48075,0
+TX,Clay,Texas,tx_clay,48077,48077,0
+TX,Cochran,Texas,tx_cochran,48079,48079,1
+TX,Coke,Texas,tx_coke,48081,48081,0
+TX,Coleman,Texas,tx_coleman,48083,48083,0
+TX,Collin,Texas,tx_collin,48085,48085,12
+TX,Collingsworth,Texas,tx_collingsworth,48087,48087,0
+TX,Colorado,Texas,tx_colorado,48089,48089,0
+TX,Comal,Texas,tx_comal,48091,48091,1
+TX,Comanche,Texas,tx_comanche,48093,48093,2
+TX,Concho,Texas,tx_concho,48095,48095,0
+TX,Cooke,Texas,tx_cooke,48097,48097,3
+TX,Coryell,Texas,tx_coryell,48099,48099,13
+TX,Cottle,Texas,tx_cottle,48101,48101,0
+TX,Crane,Texas,tx_crane,48103,48103,0
+TX,Crockett,Texas,tx_crockett,48105,48105,0
+TX,Crosby,Texas,tx_crosby,48107,48107,0
+TX,Culberson,Texas,tx_culberson,48109,48109,0
+TX,Dallam,Texas,tx_dallam,48111,48111,0
+TX,Dallas,Texas,tx_dallas,48113,48113,156
+TX,Dawson,Texas,tx_dawson,48115,48115,0
+TX,Deaf Smith,Texas,tx_deaf smith,48117,48117,1
+TX,Delta,Texas,tx_delta,48119,48119,1
+TX,Denton,Texas,tx_denton,48121,48121,11
+TX,DeWitt,Texas,tx_dewitt,48123,48123,1
+TX,Dickens,Texas,tx_dickens,48125,48125,0
+TX,Dimmit,Texas,tx_dimmit,48127,48127,0
+TX,Donley,Texas,tx_donley,48129,48129,0
+TX,Duval,Texas,tx_duval,48131,48131,0
+TX,Eastland,Texas,tx_eastland,48133,48133,1
+TX,Ector,Texas,tx_ector,48135,48135,1
+TX,Edwards,Texas,tx_edwards,48137,48137,0
+TX,El Paso,Texas,tx_el paso,48141,48141,34
+TX,Ellis,Texas,tx_ellis,48139,48139,3
+TX,Erath,Texas,tx_erath,48143,48143,2
+TX,Falls,Texas,tx_falls,48145,48145,0
+TX,Fannin,Texas,tx_fannin,48147,48147,2
+TX,Fayette,Texas,tx_fayette,48149,48149,0
+TX,Fisher,Texas,tx_fisher,48151,48151,0
+TX,Floyd,Texas,tx_floyd,48153,48153,0
+TX,Foard,Texas,tx_foard,48155,48155,0
+TX,Fort Bend,Texas,tx_fort bend,48157,48157,8
+TX,Franklin,Texas,tx_franklin,48159,48159,0
+TX,Freestone,Texas,tx_freestone,48161,48161,1
+TX,Frio,Texas,tx_frio,48163,48163,0
+TX,Gaines,Texas,tx_gaines,48165,48165,0
+TX,Galveston,Texas,tx_galveston,48167,48167,9
+TX,Garza,Texas,tx_garza,48169,48169,0
+TX,Gillespie,Texas,tx_gillespie,48171,48171,0
+TX,Glasscock,Texas,tx_glasscock,48173,48173,0
+TX,Goliad,Texas,tx_goliad,48175,48175,0
+TX,Gonzales,Texas,tx_gonzales,48177,48177,0
+TX,Gray,Texas,tx_gray,48179,48179,0
+TX,Grayson,Texas,tx_grayson,48181,48181,4
+TX,Gregg,Texas,tx_gregg,48183,48183,8
+TX,Grimes,Texas,tx_grimes,48185,48185,0
+TX,Guadalupe,Texas,tx_guadalupe,48187,48187,1
+TX,Hale,Texas,tx_hale,48189,48189,1
+TX,Hall,Texas,tx_hall,48191,48191,0
+TX,Hamilton,Texas,tx_hamilton,48193,48193,0
+TX,Hansford,Texas,tx_hansford,48195,48195,0
+TX,Hardeman,Texas,tx_hardeman,48197,48197,0
+TX,Hardin,Texas,tx_hardin,48199,48199,1
+TX,Harris,Texas,tx_harris,48201,48201,164
+TX,Harrison,Texas,tx_harrison,48203,48203,2
+TX,Hartley,Texas,tx_hartley,48205,48205,0
+TX,Haskell,Texas,tx_haskell,48207,48207,0
+TX,Hays,Texas,tx_hays,48209,48209,0
+TX,Hemphill,Texas,tx_hemphill,48211,48211,0
+TX,Henderson,Texas,tx_henderson,48213,48213,2
+TX,Hidalgo,Texas,tx_hidalgo,48215,48215,6
+TX,Hill,Texas,tx_hill,48217,48217,0
+TX,Hockley,Texas,tx_hockley,48219,48219,0
+TX,Hood,Texas,tx_hood,48221,48221,0
+TX,Hopkins,Texas,tx_hopkins,48223,48223,1
+TX,Houston,Texas,tx_houston,48225,48225,0
+TX,Howard,Texas,tx_howard,48227,48227,3
+TX,Hudspeth,Texas,tx_hudspeth,48229,48229,0
+TX,Hunt,Texas,tx_hunt,48231,48231,4
+TX,Hutchinson,Texas,tx_hutchinson,48233,48233,0
+TX,Irion,Texas,tx_irion,48235,48235,0
+TX,Jack,Texas,tx_jack,48237,48237,0
+TX,Jackson,Texas,tx_jackson,48239,48239,0
+TX,Jasper,Texas,tx_jasper,48241,48241,1
+TX,Jeff Davis,Texas,tx_jeff davis,48243,48243,0
+TX,Jefferson,Texas,tx_jefferson,48245,48245,13
+TX,Jim Hogg,Texas,tx_jim hogg,48247,48247,0
+TX,Jim Wells,Texas,tx_jim wells,48249,48249,1
+TX,Johnson,Texas,tx_johnson,48251,48251,10
+TX,Jones,Texas,tx_jones,48253,48253,0
+TX,Karnes,Texas,tx_karnes,48255,48255,0
+TX,Kaufman,Texas,tx_kaufman,48257,48257,2
+TX,Kendall,Texas,tx_kendall,48259,48259,0
+TX,Kenedy,Texas,tx_kenedy,48261,48261,0
+TX,Kent,Texas,tx_kent,48263,48263,0
+TX,Kerr,Texas,tx_kerr,48265,48265,0
+TX,Kimble,Texas,tx_kimble,48267,48267,0
+TX,King,Texas,tx_king,48269,48269,0
+TX,Kinney,Texas,tx_kinney,48271,48271,0
+TX,Kleberg,Texas,tx_kleberg,48273,48273,1
+TX,Knox,Texas,tx_knox,48275,48275,0
+TX,La Salle,Texas,tx_la salle,48283,48283,0
+TX,Lamar,Texas,tx_lamar,48277,48277,1
+TX,Lamb,Texas,tx_lamb,48279,48279,0
+TX,Lampasas,Texas,tx_lampasas,48281,48281,3
+TX,Lavaca,Texas,tx_lavaca,48285,48285,0
+TX,Lee,Texas,tx_lee,48287,48287,3
+TX,Leon,Texas,tx_leon,48289,48289,3
+TX,Liberty,Texas,tx_liberty,48291,48291,3
+TX,Limestone,Texas,tx_limestone,48293,48293,0
+TX,Lipscomb,Texas,tx_lipscomb,48295,48295,0
+TX,Live Oak,Texas,tx_live oak,48297,48297,0
+TX,Llano,Texas,tx_llano,48299,48299,0
+TX,Loving,Texas,tx_loving,48301,48301,0
+TX,Lubbock,Texas,tx_lubbock,48303,48303,9
+TX,Lynn,Texas,tx_lynn,48305,48305,0
+TX,Madison,Texas,tx_madison,48313,48313,0
+TX,Marion,Texas,tx_marion,48315,48315,0
+TX,Martin,Texas,tx_martin,48317,48317,0
+TX,Mason,Texas,tx_mason,48319,48319,0
+TX,Matagorda,Texas,tx_matagorda,48321,48321,1
+TX,Maverick,Texas,tx_maverick,48323,48323,1
+TX,McCulloch,Texas,tx_mcculloch,48307,48307,0
+TX,McLennan,Texas,tx_mclennan,48309,48309,17
+TX,McMullen,Texas,tx_mcmullen,48311,48311,0
+TX,Medina,Texas,tx_medina,48325,48325,1
+TX,Menard,Texas,tx_menard,48327,48327,0
+TX,Midland,Texas,tx_midland,48329,48329,1
+TX,Milam,Texas,tx_milam,48331,48331,0
+TX,Mills,Texas,tx_mills,48333,48333,0
+TX,Mitchell,Texas,tx_mitchell,48335,48335,0
+TX,Montague,Texas,tx_montague,48337,48337,2
+TX,Montgomery,Texas,tx_montgomery,48339,48339,4
+TX,Moore,Texas,tx_moore,48341,48341,0
+TX,Morris,Texas,tx_morris,48343,48343,0
+TX,Motley,Texas,tx_motley,48345,48345,0
+TX,Nacogdoches,Texas,tx_nacogdoches,48347,48347,3
+TX,Navarro,Texas,tx_navarro,48349,48349,2
+TX,Newton,Texas,tx_newton,48351,48351,0
+TX,Nolan,Texas,tx_nolan,48353,48353,1
+TX,Nueces,Texas,tx_nueces,48355,48355,15
+TX,Ochiltree,Texas,tx_ochiltree,48357,48357,0
+TX,Oldham,Texas,tx_oldham,48359,48359,0
+TX,Orange,Texas,tx_orange,48361,48361,2
+TX,Palo Pinto,Texas,tx_palo pinto,48363,48363,1
+TX,Panola,Texas,tx_panola,48365,48365,1
+TX,Parker,Texas,tx_parker,48367,48367,2
+TX,Parmer,Texas,tx_parmer,48369,48369,0
+TX,Pecos,Texas,tx_pecos,48371,48371,0
+TX,Polk,Texas,tx_polk,48373,48373,2
+TX,Potter,Texas,tx_potter,48375,48375,7
+TX,Presidio,Texas,tx_presidio,48377,48377,0
+TX,Rains,Texas,tx_rains,48379,48379,0
+TX,Randall,Texas,tx_randall,48381,48381,1
+TX,Reagan,Texas,tx_reagan,48383,48383,0
+TX,Real,Texas,tx_real,48385,48385,0
+TX,Red River,Texas,tx_red river,48387,48387,1
+TX,Reeves,Texas,tx_reeves,48389,48389,0
+TX,Refugio,Texas,tx_refugio,48391,48391,0
+TX,Roberts,Texas,tx_roberts,48393,48393,0
+TX,Robertson,Texas,tx_robertson,48395,48395,0
+TX,Rockwall,Texas,tx_rockwall,48397,48397,1
+TX,Runnels,Texas,tx_runnels,48399,48399,0
+TX,Rusk,Texas,tx_rusk,48401,48401,0
+TX,Sabine,Texas,tx_sabine,48403,48403,1
+TX,San Augustine,Texas,tx_san augustine,48405,48405,3
+TX,San Jacinto,Texas,tx_san jacinto,48407,48407,1
+TX,San Patricio,Texas,tx_san patricio,48409,48409,2
+TX,San Saba,Texas,tx_san saba,48411,48411,0
+TX,Schleicher,Texas,tx_schleicher,48413,48413,0
+TX,Scurry,Texas,tx_scurry,48415,48415,0
+TX,Shackelford,Texas,tx_shackelford,48417,48417,0
+TX,Shelby,Texas,tx_shelby,48419,48419,2
+TX,Sherman,Texas,tx_sherman,48421,48421,1
+TX,Smith,Texas,tx_smith,48423,48423,11
+TX,Somervell,Texas,tx_somervell,48425,48425,0
+TX,Starr,Texas,tx_starr,48427,48427,1
+TX,Stephens,Texas,tx_stephens,48429,48429,0
+TX,Sterling,Texas,tx_sterling,48431,48431,0
+TX,Stonewall,Texas,tx_stonewall,48433,48433,0
+TX,Sutton,Texas,tx_sutton,48435,48435,0
+TX,Swisher,Texas,tx_swisher,48437,48437,1
+TX,Tarrant,Texas,tx_tarrant,48439,48439,63
+TX,Taylor,Texas,tx_taylor,48441,48441,10
+TX,Terrell,Texas,tx_terrell,48443,48443,0
+TX,Terry,Texas,tx_terry,48445,48445,0
+TX,Throckmorton,Texas,tx_throckmorton,48447,48447,0
+TX,Titus,Texas,tx_titus,48449,48449,1
+TX,Tom Green,Texas,tx_tom green,48451,48451,3
+TX,Travis,Texas,tx_travis,48453,48453,23
+TX,Trinity,Texas,tx_trinity,48455,48455,0
+TX,Tyler,Texas,tx_tyler,48457,48457,0
+TX,Upshur,Texas,tx_upshur,48459,48459,1
+TX,Upton,Texas,tx_upton,48461,48461,0
+TX,Uvalde,Texas,tx_uvalde,48463,48463,0
+TX,Val Verde,Texas,tx_val verde,48465,48465,1
+TX,Van Zandt,Texas,tx_van zandt,48467,48467,3
+TX,Victoria,Texas,tx_victoria,48469,48469,0
+TX,Walker,Texas,tx_walker,48471,48471,0
+TX,Waller,Texas,tx_waller,48473,48473,0
+TX,Ward,Texas,tx_ward,48475,48475,0
+TX,Washington,Texas,tx_washington,48477,48477,3
+TX,Webb,Texas,tx_webb,48479,48479,12
+TX,Wharton,Texas,tx_wharton,48481,48481,4
+TX,Wheeler,Texas,tx_wheeler,48483,48483,0
+TX,Wichita,Texas,tx_wichita,48485,48485,8
+TX,Wilbarger,Texas,tx_wilbarger,48487,48487,0
+TX,Willacy,Texas,tx_willacy,48489,48489,0
+TX,Williamson,Texas,tx_williamson,48491,48491,1
+TX,Wilson,Texas,tx_wilson,48493,48493,0
+TX,Winkler,Texas,tx_winkler,48495,48495,1
+TX,Wise,Texas,tx_wise,48497,48497,2
+TX,Wood,Texas,tx_wood,48499,48499,4
+TX,Yoakum,Texas,tx_yoakum,48501,48501,0
+TX,Young,Texas,tx_young,48503,48503,1
+TX,Zapata,Texas,tx_zapata,48505,48505,0
+TX,Zavala,Texas,tx_zavala,48507,48507,0
+UT,Beaver,Utah,ut_beaver,49001,49001,0
+UT,Box Elder,Utah,ut_box elder,49003,49003,0
+UT,Cache,Utah,ut_cache,49005,49005,1
+UT,Carbon,Utah,ut_carbon,49007,49007,0
+UT,Daggett,Utah,ut_daggett,49009,49009,0
+UT,Davis,Utah,ut_davis,49011,49011,1
+UT,Duchesne,Utah,ut_duchesne,49013,49013,0
+UT,Emery,Utah,ut_emery,49015,49015,0
+UT,Garfield,Utah,ut_garfield,49017,49017,0
+UT,Grand,Utah,ut_grand,49019,49019,0
+UT,Iron,Utah,ut_iron,49021,49021,0
+UT,Juab,Utah,ut_juab,49023,49023,2
+UT,Kane,Utah,ut_kane,49025,49025,0
+UT,Millard,Utah,ut_millard,49027,49027,0
+UT,Morgan,Utah,ut_morgan,49029,49029,1
+UT,Piute,Utah,ut_piute,49031,49031,0
+UT,Rich,Utah,ut_rich,49033,49033,0
+UT,Salt Lake,Utah,ut_salt lake,49035,49035,24
+UT,San Juan,Utah,ut_san juan,49037,49037,0
+UT,Sanpete,Utah,ut_sanpete,49039,49039,0
+UT,Sevier,Utah,ut_sevier,49041,49041,0
+UT,Summit,Utah,ut_summit,49043,49043,0
+UT,Tooele,Utah,ut_tooele,49045,49045,0
+UT,Uintah,Utah,ut_uintah,49047,49047,0
+UT,Utah,Utah,ut_utah,49049,49049,17
+UT,Wasatch,Utah,ut_wasatch,49051,49051,0
+UT,Washington,Utah,ut_washington,49053,49053,2
+UT,Wayne,Utah,ut_wayne,49055,49055,0
+UT,Weber,Utah,ut_weber,49057,49057,5
+VA,Accomack,Virginia,va_accomack,51001,51001,1
+VA,Albemarle,Virginia,va_albemarle,51003,51003,2
+VA,Alexandria,Virginia,va_alexandria,51510,51510,9
+VA,Alleghany,Virginia,va_alleghany,51005,51005,1
+VA,Amelia,Virginia,va_amelia,51007,51007,1
+VA,Amherst,Virginia,va_amherst,51009,51009,0
+VA,Appomattox,Virginia,va_appomattox,51011,51011,1
+VA,Arlington,Virginia,va_arlington,51013,51013,0
+VA,Augusta,Virginia,va_augusta,51015,51015,0
+VA,Bath,Virginia,va_bath,51017,51017,0
+VA,Bedford,Virginia,va_bedford,51019,51019,2
+VA,Bedford City,Virginia,va_bedford city,51515,51515,0
+VA,Bland,Virginia,va_bland,51021,51021,1
+VA,Botetourt,Virginia,va_botetourt,51023,51023,3
+VA,Bristol,Virginia,va_bristol,51520,51520,3
+VA,Brunswick,Virginia,va_brunswick,51025,51025,0
+VA,Buchanan,Virginia,va_buchanan,51027,51027,4
+VA,Buckingham,Virginia,va_buckingham,51029,51029,0
+VA,Buena Vista,Virginia,va_buena vista,51530,51530,0
+VA,Campbell,Virginia,va_campbell,51031,51031,0
+VA,Caroline,Virginia,va_caroline,51033,51033,0
+VA,Carroll,Virginia,va_carroll,51035,51035,1
+VA,Charles City,Virginia,va_charles city,51036,51036,0
+VA,Charlotte,Virginia,va_charlotte,51037,51037,1
+VA,Charlottesville,Virginia,va_charlottesville,51540,51540,0
+VA,Chesapeake,Virginia,va_chesapeake,51550,51550,0
+VA,Chesterfield,Virginia,va_chesterfield,51041,51041,11
+VA,Clarke,Virginia,va_clarke,51043,51043,0
+VA,Colonial Heights,Virginia,va_colonial heights,51570,51570,6
+VA,Covington,Virginia,va_covington,51580,51580,0
+VA,Craig,Virginia,va_craig,51045,51045,0
+VA,Culpeper,Virginia,va_culpeper,51047,51047,1
+VA,Cumberland,Virginia,va_cumberland,51049,51049,1
+VA,Danville,Virginia,va_danville,51590,51590,1
+VA,Dickenson,Virginia,va_dickenson,51051,51051,1
+VA,Dinwiddie,Virginia,va_dinwiddie,51053,51053,0
+VA,Emporia,Virginia,va_emporia,51595,51595,2
+VA,Essex,Virginia,va_essex,51057,51057,0
+VA,Fairfax,Virginia,va_fairfax,51059,51059,3
+VA,Fairfax City,Virginia,va_fairfax city,51600,51600,2
+VA,Falls Church,Virginia,va_falls church,51610,51610,0
+VA,Fauquier,Virginia,va_fauquier,51061,51061,1
+VA,Floyd,Virginia,va_floyd,51063,51063,0
+VA,Fluvanna,Virginia,va_fluvanna,51065,51065,0
+VA,Franklin,Virginia,va_franklin,51067,51067,1
+VA,Franklin City,Virginia,va_franklin city,51620,51620,0
+VA,Frederick,Virginia,va_frederick,51069,51069,1
+VA,Fredericksburg,Virginia,va_fredericksburg,51630,51630,0
+VA,Galax,Virginia,va_galax,51640,51640,0
+VA,Giles,Virginia,va_giles,51071,51071,0
+VA,Gloucester,Virginia,va_gloucester,51073,51073,1
+VA,Goochland,Virginia,va_goochland,51075,51075,0
+VA,Grayson,Virginia,va_grayson,51077,51077,2
+VA,Greene,Virginia,va_greene,51079,51079,2
+VA,Greensville,Virginia,va_greensville,51081,51081,0
+VA,Halifax,Virginia,va_halifax,51083,51083,0
+VA,Hampton,Virginia,va_hampton,51650,51650,34
+VA,Hanover,Virginia,va_hanover,51085,51085,6
+VA,Harrisonburg,Virginia,va_harrisonburg,51660,51660,0
+VA,Henrico,Virginia,va_henrico,51087,51087,0
+VA,Henry,Virginia,va_henry,51089,51089,3
+VA,Highland,Virginia,va_highland,51091,51091,0
+VA,Hopewell,Virginia,va_hopewell,51670,51670,0
+VA,Isle of Wight,Virginia,va_isle of wight,51093,51093,5
+VA,James City,Virginia,va_james city,51095,51095,0
+VA,King and Queen,Virginia,va_king and queen,51097,51097,0
+VA,King George,Virginia,va_king george,51099,51099,0
+VA,King William,Virginia,va_king william,51101,51101,0
+VA,Lancaster,Virginia,va_lancaster,51103,51103,0
+VA,Lee,Virginia,va_lee,51105,51105,2
+VA,Lexington,Virginia,va_lexington,51678,51678,0
+VA,Loudoun,Virginia,va_loudoun,51107,51107,1
+VA,Louisa,Virginia,va_louisa,51109,51109,0
+VA,Lunenburg,Virginia,va_lunenburg,51111,51111,0
+VA,Lynchburg,Virginia,va_lynchburg,51680,51680,3
+VA,Madison,Virginia,va_madison,51113,51113,0
+VA,Manassas,Virginia,va_manassas,51683,51683,3
+VA,Manassas Park,Virginia,va_manassas park,51685,51685,2
+VA,Martinsville,Virginia,va_martinsville,51690,51690,2
+VA,Mathews,Virginia,va_mathews,51115,51115,0
+VA,Mecklenburg,Virginia,va_mecklenburg,51117,51117,1
+VA,Middlesex,Virginia,va_middlesex,51119,51119,0
+VA,Montgomery,Virginia,va_montgomery,51121,51121,5
+VA,Nelson,Virginia,va_nelson,51125,51125,0
+VA,New Kent,Virginia,va_new kent,51127,51127,0
+VA,Newport News,Virginia,va_newport news,51700,51700,19
+VA,Norfolk,Virginia,va_norfolk,51710,51710,41
+VA,Northampton,Virginia,va_northampton,51131,51131,0
+VA,Northumberland,Virginia,va_northumberland,51133,51133,1
+VA,Norton,Virginia,va_norton,51720,51720,3
+VA,Nottoway,Virginia,va_nottoway,51135,51135,0
+VA,Orange,Virginia,va_orange,51137,51137,0
+VA,Page,Virginia,va_page,51139,51139,1
+VA,Patrick,Virginia,va_patrick,51141,51141,2
+VA,Petersburg,Virginia,va_petersburg,51730,51730,1
+VA,Pittsylvania,Virginia,va_pittsylvania,51143,51143,0
+VA,Poquoson,Virginia,va_poquoson,51735,51735,0
+VA,Portsmouth,Virginia,va_portsmouth,51740,51740,1
+VA,Powhatan,Virginia,va_powhatan,51145,51145,0
+VA,Prince Edward,Virginia,va_prince edward,51147,51147,1
+VA,Prince George,Virginia,va_prince george,51149,51149,0
+VA,Prince William,Virginia,va_prince william,51153,51153,4
+VA,Pulaski,Virginia,va_pulaski,51155,51155,1
+VA,Radford,Virginia,va_radford,51750,51750,0
+VA,Rappahannock,Virginia,va_rappahannock,51157,51157,0
+VA,Richmond,Virginia,va_richmond,51159,51159,0
+VA,Richmond City,Virginia,va_richmond city,51760,51760,7
+VA,Roanoke,Virginia,va_roanoke,51161,51161,2
+VA,Roanoke City,Virginia,va_roanoke city,51770,51770,4
+VA,Rockbridge,Virginia,va_rockbridge,51163,51163,2
+VA,Rockingham,Virginia,va_rockingham,51165,51165,1
+VA,Russell,Virginia,va_russell,51167,51167,1
+VA,Salem,Virginia,va_salem,51775,51775,1
+VA,Scott,Virginia,va_scott,51169,51169,1
+VA,Shenandoah,Virginia,va_shenandoah,51171,51171,1
+VA,Smyth,Virginia,va_smyth,51173,51173,2
+VA,Southampton,Virginia,va_southampton,51175,51175,0
+VA,Spotsylvania,Virginia,va_spotsylvania,51177,51177,0
+VA,Stafford,Virginia,va_stafford,51179,51179,5
+VA,Staunton,Virginia,va_staunton,51790,51790,0
+VA,Suffolk,Virginia,va_suffolk,51800,51800,0
+VA,Surry,Virginia,va_surry,51181,51181,0
+VA,Sussex,Virginia,va_sussex,51183,51183,2
+VA,Tazewell,Virginia,va_tazewell,51185,51185,7
+VA,Virginia Beach,Virginia,va_virginia beach,51810,51810,18
+VA,Warren,Virginia,va_warren,51187,51187,0
+VA,Washington,Virginia,va_washington,51191,51191,0
+VA,Waynesboro,Virginia,va_waynesboro,51820,51820,1
+VA,Westmoreland,Virginia,va_westmoreland,51193,51193,1
+VA,Williamsburg,Virginia,va_williamsburg,51830,51830,0
+VA,Winchester,Virginia,va_winchester,51840,51840,0
+VA,Wise,Virginia,va_wise,51195,51195,2
+VA,Wythe,Virginia,va_wythe,51197,51197,1
+VA,York,Virginia,va_york,51199,51199,2
+VT,Addison,Vermont,vt_addison,50001,50001,0
+VT,Bennington,Vermont,vt_bennington,50003,50003,0
+VT,Caledonia,Vermont,vt_caledonia,50005,50005,0
+VT,Chittenden,Vermont,vt_chittenden,50007,50007,3
+VT,Essex,Vermont,vt_essex,50009,50009,0
+VT,Franklin,Vermont,vt_franklin,50011,50011,0
+VT,Grand Isle,Vermont,vt_grand isle,50013,50013,0
+VT,Lamoille,Vermont,vt_lamoille,50015,50015,0
+VT,Orange,Vermont,vt_orange,50017,50017,0
+VT,Orleans,Vermont,vt_orleans,50019,50019,0
+VT,Rutland,Vermont,vt_rutland,50021,50021,0
+VT,Washington,Vermont,vt_washington,50023,50023,1
+VT,Windham,Vermont,vt_windham,50025,50025,0
+VT,Windsor,Vermont,vt_windsor,50027,50027,0
+WA,Adams,Washington,wa_adams,53001,53001,0
+WA,Asotin,Washington,wa_asotin,53003,53003,0
+WA,Benton,Washington,wa_benton,53005,53005,3
+WA,Chelan,Washington,wa_chelan,53007,53007,2
+WA,Clallam,Washington,wa_clallam,53009,53009,2
+WA,Clark,Washington,wa_clark,53011,53011,8
+WA,Columbia,Washington,wa_columbia,53013,53013,0
+WA,Cowlitz,Washington,wa_cowlitz,53015,53015,0
+WA,Douglas,Washington,wa_douglas,53017,53017,0
+WA,Ferry,Washington,wa_ferry,53019,53019,1
+WA,Franklin,Washington,wa_franklin,53021,53021,2
+WA,Garfield,Washington,wa_garfield,53023,53023,0
+WA,Grant,Washington,wa_grant,53025,53025,0
+WA,Grays Harbor,Washington,wa_grays harbor,53027,53027,1
+WA,Island,Washington,wa_island,53029,53029,1
+WA,Jefferson,Washington,wa_jefferson,53031,53031,0
+WA,King,Washington,wa_king,53033,53033,36
+WA,Kitsap,Washington,wa_kitsap,53035,53035,16
+WA,Kittitas,Washington,wa_kittitas,53037,53037,0
+WA,Klickitat,Washington,wa_klickitat,53039,53039,0
+WA,Lewis,Washington,wa_lewis,53041,53041,6
+WA,Lincoln,Washington,wa_lincoln,53043,53043,0
+WA,Mason,Washington,wa_mason,53045,53045,0
+WA,Okanogan,Washington,wa_okanogan,53047,53047,1
+WA,Pacific,Washington,wa_pacific,53049,53049,0
+WA,Pend Oreille,Washington,wa_pend oreille,53051,53051,1
+WA,Pierce,Washington,wa_pierce,53053,53053,24
+WA,San Juan,Washington,wa_san juan,53055,53055,0
+WA,Skagit,Washington,wa_skagit,53057,53057,6
+WA,Skamania,Washington,wa_skamania,53059,53059,0
+WA,Snohomish,Washington,wa_snohomish,53061,53061,9
+WA,Spokane,Washington,wa_spokane,53063,53063,20
+WA,Stevens,Washington,wa_stevens,53065,53065,1
+WA,Thurston,Washington,wa_thurston,53067,53067,5
+WA,Wahkiakum,Washington,wa_wahkiakum,53069,53069,0
+WA,Walla Walla,Washington,wa_walla walla,53071,53071,3
+WA,Whatcom,Washington,wa_whatcom,53073,53073,2
+WA,Whitman,Washington,wa_whitman,53075,53075,0
+WA,Yakima,Washington,wa_yakima,53077,53077,6
+WI,Adams,Wisconsin,wi_adams,55001,55001,15
+WI,Ashland,Wisconsin,wi_ashland,55003,55003,1
+WI,Barron,Wisconsin,wi_barron,55005,55005,12
+WI,Bayfield,Wisconsin,wi_bayfield,55007,55007,0
+WI,Brown,Wisconsin,wi_brown,55009,55009,68
+WI,Buffalo,Wisconsin,wi_buffalo,55011,55011,1
+WI,Burnett,Wisconsin,wi_burnett,55013,55013,2
+WI,Calumet,Wisconsin,wi_calumet,55015,55015,1
+WI,Chippewa,Wisconsin,wi_chippewa,55017,55017,1
+WI,Clark,Wisconsin,wi_clark,55019,55019,5
+WI,Columbia,Wisconsin,wi_columbia,55021,55021,12
+WI,Crawford,Wisconsin,wi_crawford,55023,55023,3
+WI,Dane,Wisconsin,wi_dane,55025,55025,110
+WI,Dodge,Wisconsin,wi_dodge,55027,55027,26
+WI,Door,Wisconsin,wi_door,55029,55029,2
+WI,Douglas,Wisconsin,wi_douglas,55031,55031,6
+WI,Dunn,Wisconsin,wi_dunn,55033,55033,3
+WI,Eau Claire,Wisconsin,wi_eau claire,55035,55035,26
+WI,Florence,Wisconsin,wi_florence,55037,55037,1
+WI,Fond du Lac,Wisconsin,wi_fond du lac,55039,55039,29
+WI,Forest,Wisconsin,wi_forest,55041,55041,1
+WI,Grant,Wisconsin,wi_grant,55043,55043,17
+WI,Green,Wisconsin,wi_green,55045,55045,8
+WI,Green Lake,Wisconsin,wi_green lake,55047,55047,1
+WI,Iowa,Wisconsin,wi_iowa,55049,55049,7
+WI,Iron,Wisconsin,wi_iron,55051,55051,4
+WI,Jackson,Wisconsin,wi_jackson,55053,55053,5
+WI,Jefferson,Wisconsin,wi_jefferson,55055,55055,7
+WI,Juneau,Wisconsin,wi_juneau,55057,55057,7
+WI,Kenosha,Wisconsin,wi_kenosha,55059,55059,124
+WI,Kewaunee,Wisconsin,wi_kewaunee,55061,55061,0
+WI,La Crosse,Wisconsin,wi_la crosse,55063,55063,37
+WI,Lafayette,Wisconsin,wi_lafayette,55065,55065,1
+WI,Langlade,Wisconsin,wi_langlade,55067,55067,5
+WI,Lincoln,Wisconsin,wi_lincoln,55069,55069,32
+WI,Manitowoc,Wisconsin,wi_manitowoc,55071,55071,8
+WI,Marathon,Wisconsin,wi_marathon,55073,55073,6
+WI,Marinette,Wisconsin,wi_marinette,55075,55075,25
+WI,Marquette,Wisconsin,wi_marquette,55077,55077,6
+WI,Menominee,Wisconsin,wi_menominee,55078,55078,0
+WI,Milwaukee,Wisconsin,wi_milwaukee,55079,55079,394
+WI,Monroe,Wisconsin,wi_monroe,55081,55081,8
+WI,Oconto,Wisconsin,wi_oconto,55083,55083,14
+WI,Oneida,Wisconsin,wi_oneida,55085,55085,11
+WI,Outagamie,Wisconsin,wi_outagamie,55087,55087,34
+WI,Ozaukee,Wisconsin,wi_ozaukee,55089,55089,3
+WI,Pepin,Wisconsin,wi_pepin,55091,55091,0
+WI,Pierce,Wisconsin,wi_pierce,55093,55093,2
+WI,Polk,Wisconsin,wi_polk,55095,55095,1
+WI,Portage,Wisconsin,wi_portage,55097,55097,8
+WI,Price,Wisconsin,wi_price,55099,55099,7
+WI,Racine,Wisconsin,wi_racine,55101,55101,102
+WI,Richland,Wisconsin,wi_richland,55103,55103,3
+WI,Rock,Wisconsin,wi_rock,55105,55105,81
+WI,Rusk,Wisconsin,wi_rusk,55107,55107,2
+WI,Sauk,Wisconsin,wi_sauk,55111,55111,29
+WI,Sawyer,Wisconsin,wi_sawyer,55113,55113,6
+WI,Shawano,Wisconsin,wi_shawano,55115,55115,15
+WI,Sheboygan,Wisconsin,wi_sheboygan,55117,55117,21
+WI,St. Croix,Wisconsin,wi_st. croix,55109,55109,8
+WI,Taylor,Wisconsin,wi_taylor,55119,55119,2
+WI,Trempealeau,Wisconsin,wi_trempealeau,55121,55121,2
+WI,Vernon,Wisconsin,wi_vernon,55123,55123,3
+WI,Vilas,Wisconsin,wi_vilas,55125,55125,8
+WI,Walworth,Wisconsin,wi_walworth,55127,55127,70
+WI,Washburn,Wisconsin,wi_washburn,55129,55129,7
+WI,Washington,Wisconsin,wi_washington,55131,55131,35
+WI,Waukesha,Wisconsin,wi_waukesha,55133,55133,89
+WI,Waupaca,Wisconsin,wi_waupaca,55135,55135,2
+WI,Waushara,Wisconsin,wi_waushara,55137,55137,11
+WI,Winnebago,Wisconsin,wi_winnebago,55139,55139,21
+WI,Wood,Wisconsin,wi_wood,55141,55141,23
+WV,Barbour,West Virginia,wv_barbour,54001,54001,0
+WV,Berkeley,West Virginia,wv_berkeley,54003,54003,2
+WV,Boone,West Virginia,wv_boone,54005,54005,3
+WV,Braxton,West Virginia,wv_braxton,54007,54007,3
+WV,Brooke,West Virginia,wv_brooke,54009,54009,1
+WV,Cabell,West Virginia,wv_cabell,54011,54011,22
+WV,Calhoun,West Virginia,wv_calhoun,54013,54013,0
+WV,Clay,West Virginia,wv_clay,54015,54015,0
+WV,Doddridge,West Virginia,wv_doddridge,54017,54017,3
+WV,Fayette,West Virginia,wv_fayette,54019,54019,5
+WV,Gilmer,West Virginia,wv_gilmer,54021,54021,0
+WV,Grant,West Virginia,wv_grant,54023,54023,0
+WV,Greenbrier,West Virginia,wv_greenbrier,54025,54025,3
+WV,Hampshire,West Virginia,wv_hampshire,54027,54027,0
+WV,Hancock,West Virginia,wv_hancock,54029,54029,0
+WV,Hardy,West Virginia,wv_hardy,54031,54031,0
+WV,Harrison,West Virginia,wv_harrison,54033,54033,21
+WV,Jackson,West Virginia,wv_jackson,54035,54035,3
+WV,Jefferson,West Virginia,wv_jefferson,54037,54037,0
+WV,Kanawha,West Virginia,wv_kanawha,54039,54039,28
+WV,Lewis,West Virginia,wv_lewis,54041,54041,3
+WV,Lincoln,West Virginia,wv_lincoln,54043,54043,2
+WV,Logan,West Virginia,wv_logan,54045,54045,14
+WV,Marion,West Virginia,wv_marion,54049,54049,5
+WV,Marshall,West Virginia,wv_marshall,54051,54051,2
+WV,Mason,West Virginia,wv_mason,54053,54053,1
+WV,McDowell,West Virginia,wv_mcdowell,54047,54047,5
+WV,Mercer,West Virginia,wv_mercer,54055,54055,7
+WV,Mineral,West Virginia,wv_mineral,54057,54057,0
+WV,Mingo,West Virginia,wv_mingo,54059,54059,5
+WV,Monongalia,West Virginia,wv_monongalia,54061,54061,5
+WV,Monroe,West Virginia,wv_monroe,54063,54063,0
+WV,Morgan,West Virginia,wv_morgan,54065,54065,0
+WV,Nicholas,West Virginia,wv_nicholas,54067,54067,5
+WV,Ohio,West Virginia,wv_ohio,54069,54069,3
+WV,Pendleton,West Virginia,wv_pendleton,54071,54071,1
+WV,Pleasants,West Virginia,wv_pleasants,54073,54073,1
+WV,Pocahontas,West Virginia,wv_pocahontas,54075,54075,0
+WV,Preston,West Virginia,wv_preston,54077,54077,4
+WV,Putnam,West Virginia,wv_putnam,54079,54079,3
+WV,Raleigh,West Virginia,wv_raleigh,54081,54081,12
+WV,Randolph,West Virginia,wv_randolph,54083,54083,3
+WV,Ritchie,West Virginia,wv_ritchie,54085,54085,1
+WV,Roane,West Virginia,wv_roane,54087,54087,2
+WV,Summers,West Virginia,wv_summers,54089,54089,0
+WV,Taylor,West Virginia,wv_taylor,54091,54091,0
+WV,Tucker,West Virginia,wv_tucker,54093,54093,0
+WV,Tyler,West Virginia,wv_tyler,54095,54095,0
+WV,Upshur,West Virginia,wv_upshur,54097,54097,3
+WV,Wayne,West Virginia,wv_wayne,54099,54099,2
+WV,Webster,West Virginia,wv_webster,54101,54101,1
+WV,Wetzel,West Virginia,wv_wetzel,54103,54103,3
+WV,Wirt,West Virginia,wv_wirt,54105,54105,0
+WV,Wood,West Virginia,wv_wood,54107,54107,11
+WV,Wyoming,West Virginia,wv_wyoming,54109,54109,4
+WY,Albany,Wyoming,wy_albany,56001,56001,2
+WY,Big Horn,Wyoming,wy_big horn,56003,56003,0
+WY,Campbell,Wyoming,wy_campbell,56005,56005,2
+WY,Carbon,Wyoming,wy_carbon,56007,56007,0
+WY,Converse,Wyoming,wy_converse,56009,56009,0
+WY,Crook,Wyoming,wy_crook,56011,56011,0
+WY,Fremont,Wyoming,wy_fremont,56013,56013,0
+WY,Goshen,Wyoming,wy_goshen,56015,56015,0
+WY,Hot Springs,Wyoming,wy_hot springs,56017,56017,0
+WY,Johnson,Wyoming,wy_johnson,56019,56019,0
+WY,Laramie,Wyoming,wy_laramie,56021,56021,9
+WY,Lincoln,Wyoming,wy_lincoln,56023,56023,0
+WY,Natrona,Wyoming,wy_natrona,56025,56025,6
+WY,Niobrara,Wyoming,wy_niobrara,56027,56027,0
+WY,Park,Wyoming,wy_park,56029,56029,1
+WY,Platte,Wyoming,wy_platte,56031,56031,0
+WY,Sheridan,Wyoming,wy_sheridan,56033,56033,4
+WY,Sublette,Wyoming,wy_sublette,56035,56035,1
+WY,Sweetwater,Wyoming,wy_sweetwater,56037,56037,1
+WY,Teton,Wyoming,wy_teton,56039,56039,2
+WY,Uinta,Wyoming,wy_uinta,56041,56041,0
+WY,Washakie,Wyoming,wy_washakie,56043,56043,0
+WY,Weston,Wyoming,wy_weston,56045,56045,1

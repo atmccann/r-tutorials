@@ -1,0 +1,166 @@
+<link rel="stylesheet" type="text/css" href="../assets/styles/global-tutorial.css">
+
+<script src="../assets/scripts/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" type="text/css" href="../assets/styles/magula.css">
+
+<style type="text/css">
+img {
+  width:800px;
+}
+</style>
+
+
+
+<h1>Analyzing Where Chicago's Guns Came From</h1>
+
+<p class="tutorial-intro">You're a data journalist who is working on a story/graphic/podcast/news app about guns in Chicago. The city has some of the toughest gun laws, but crime and gun-related violence remains a problem. You can't buy a gun within city limits, so where do they come from? <span class="skills">In this tutorial, we'll ask basic questions out of a dataset, sort data frames and do some basic aggregaing and subsetting.</span>
+</p>
+
+<p>Let's pretend someone else already found this data for you and cleaned it up for you. (Thanks, someone.) Download <a href="_assets/data/guns-history.csv">guns-history.csv</a> to your data folder, then load it into your R console and take a look:</p>
+
+<pre>
+  <code>
+data <- read.csv("data/guns-history.csv")
+head(data)
+  </code>
+</pre>
+
+<p>Before we do any actual work, let's get our heads around what this data is. <span class="class-q">What do the field names represent? What kind of data is this?</span></p>
+
+<p>Just for the practice, before we do any actual work, let's think of some things that would be journalistically relevant to know about. <span class="class-q">Let's brainstorm a dozen or so questions we'd  like to know the answer to.</span> We might not get to all of them, but it's good practice for the mindset or this kind of work: asking questions and getting answers from our data.</p>
+
+<p>Our second step is a safety precaution that Amanda is a believer in. We're going to be sorting our data all over the place, but it will be nice to be able to get back to our original order whenever we want. So let's make a new field in our data that simply represents the current order.</p>
+
+<pre>
+  <code>
+    data$orig_order <- 1:nrow(data)
+  </code>
+</pre>
+
+<p>Now whenever we want to, it will be easy to get the data back in this order even if we've added new fields, resorted or otherwise screwed things up.</p>
+
+<p>Let's start with a basic question. Which county has the most guns that were linked to crimes in Chicago? To do this, we need to be able to sort this data frame by the field <code>count3</code>.</p>
+
+<pre>
+  <code>
+data <- data[order(data$count3,decreasing=T),]
+head(data)
+  </code>
+</pre>
+
+<p><span class="class=q">So, which counties had the most guns? By default, <code>head()</code> returns the first 10, but you can see as many as you like. </span>Look at the top 20 by typing <code>head(data,n=20)</code>. Are there any surprises at first glance? (There may not be.)</span>
+
+<p>Before we move on, let's look at what we just told R to do, because it's not the most straightforward code. What we just did is change the order of data to match the order of the <code>count3</code> field. It might help to think about this in steps. (Though, in reality, the main lesson is that if you want to sort data frames by a field, you now can with the code above.)</p>
+
+<pre>
+  <code>
+  # if these were in increasing order, what index would each value be at?
+  order(data$count3) # (returns a vector of numbers)
+
+  # if these were in decreasing order, what index would each value be at?
+  order(data$count3,decreasing=T) # (returns a vector of numbers)
+
+  # what would the data frame be if we ordered them by count?
+  data[order(data$count3,decreasing=T),] # (returns a data frame)
+
+  # reassign data to be in a new order
+  data <- data[order(data$count3,decreasing=T),]
+
+  </code>
+</pre>
+
+
+<p>Ordering things is useful, but we'll need to use it in conjunction with other functions to answer more complicated questions. What if we want to find things out about a particular region or state? For example, if you were a reporter for a news organization in Minnesota, you might want to limit your analysis to one state. To do that, we need to be able to filter our data, using a method called <code>subset</code>.</p>
+
+<p>Subset is a major workhorse of R, and it can take all sorts of conditions to return only what you ask of it.</p>
+
+ <p><span class="class-q">Which county in Minnesota has the most guns that made it to Chicago?</span></p>
+
+<pre>
+  <code>
+    mn <- subset(data, STATE == "Minnesota") # a data frame of just MN counties
+
+    subset(mn,count3==max(mn$count3)) # you could also just sort the data frame instead, but this works too.
+
+  </code>
+</pre>
+
+<p>At the same time, it's never that easy; usually we want to know answers to more complicated questions through a variety of queries.</p>
+
+ <p><span class="class-q">Which Midwestern counties had the most guns traced from Chicago?</span></p>
+
+<pre>
+  <code>
+    #a vector of states that we call Midwestern.
+    #note that Missouri is *not* a Midwestern state
+
+    midwest.states <- c("Minnesota","Iowa","Illinois","Wisconsin","Michigan","Indiana","Ohio")
+
+    midwest<-subset(data, STATE%in%midwest.states)
+
+    midwest <- midwest[order(midwest$count3,decreasing=T),]
+
+    head(midwest)
+
+  </code>
+</pre>
+
+<p>We might also want to do some math to get some top level numbers, since information at this level of geography aren't always the most useful. What if we wanted to find the total number of guns in our data?</p>
+
+<p><span class="class-q">How many guns are in our dataset?</span></p>
+
+<pre>
+  <code>
+  sum(data$count3) # 49844
+  </code>
+</pre>
+
+<p>Aggregating is important, too, especially if you don't know what you're looking for. For example, say we want to know top-level information for all the states in our data set? In that case, it would be very time consuming for us to find the max of every group on our own. Instead, we can use <code>aggregate</code></p>
+
+<p><span class="class-q">Which states have the most guns found in Chicago?</span></p>
+
+<pre>
+  <code>
+    # aggregate guns per state
+    state.data <- aggregate(data$count3, list(data$STATE), sum)
+
+    # renaming column headers
+    names(state.data) <- c("state","tot.guns")  # (optional)
+
+    # resort this list
+    state.data <- state.data[order(state.data$tot.guns,decreasing=T),]
+  </code>
+</pre>
+
+<p>If you're curious, take a look at the documentation for <code>aggregate</code>. Note that it can take any function, so you could alternatively use <code>max</code>, <code>min</code>, <code>mean</code>, <code>median</code> or even a custom function you wrote yourself!</p>
+
+
+<h4>On your own</h4>
+<p>Using combinations of sort, subset and aggregate, answer the following questions on your own or in small groups:</p>
+
+<p><span class="class-q">What percent of counties had at least one gun traced back to Chicago?</span></p>
+
+<p><span class="class-q">How many counties in the U.S. had more than 100 guns found in Chicago? Of those, how many were from outside Illinois?</span></p>
+
+<p><span class="class-q">Create a data frame of counties showing the county with the most guns in each state.</span></p>
+
+<p><span class="class-q">How many guns came from the 5 boros?</span></p>
+
+<h5 class="example-class-questions">Questions about this exercise and/or data?</h5>
+
+<p>It's good to ask questions like these, but lots of our questions probably involve the word "where," and when "where" is the question, maps are usually the answer. We'll do some basic mapping in <a href="./chicago-guns-tutorial-part-2.html">Lesson 4: Mapping Chicago Guns</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

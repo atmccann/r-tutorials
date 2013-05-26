@@ -1,1 +1,106 @@
-My GitHub Page
+<link rel="stylesheet" type="text/css" href="assets/styles/global-tutorial.css">
+
+<script src="_assets/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" type="text/css" href="assets/styles/magula.css">
+
+
+<style type="text/css">
+.nav {
+  position: fixed;
+  border: 1px solid #ccc;
+  width: 200px;
+  padding: 15px;
+  background-color: #fff;
+  left: 0;
+  top: 25px;
+}
+
+.nav ol {
+  /*list-style-type: none;*/
+/*  padding:0;
+  margin:0;*/
+}
+
+</style>
+
+<div class="nav">
+Lessons
+<ol>
+  <li><a href="../index.html">Intro</a></li>
+  <li><a href="/lessons/same-sex-marriage.html">Basic line charts</a></li>
+  <li><a href="/lessons/unified-government.html">Basic bar charts</a></li>
+  <li><a href="/lessons/chicago-guns-tutorial.html">Asking questions and getting answers from data</a></li>
+  <li><a href="/lessons/chicago-guns-tutorial-part-2.html">Mapping data with maptools</a></li>
+</ol>
+</div>
+
+
+
+<h1>Project-based learning in R</h1>
+
+<h3>Getting to know the R environment</h3>
+
+<p>You should have R installed on your machine or desktop. If you don't, <a href="http://cran.r-project.org/">install it</a> and run it form the applications menu. You should see the R console, which looks like this:</p>
+
+<img src = "assets/images/intro.jpg">
+
+<h3>The plan</h3>
+
+<p>Our main goal today is to be comfortable with the R console and its basic data types and syntax, and to use it to ask, answer and visualize journalistically relevant questions. This class will be project-based, since, in my experience, doing actual projects is the best way to learn anything. We might not get to everything today, but do speak up if you have questions or goals that are not covered in the lessons.</p>
+
+<ul>
+  <li>Intro, set up, etc etc. (that's this!)</li>
+  <li>Introductions and why we're here</li>
+  <li>Project 1: Attitudes about gay marriage in the U.S.</li>
+  <li>Project 2: Charting unified government</li>
+  <li>Project 3: Analyzing Chicago Guns </li>
+  <li>Project 4: Analyzing Chicago Guns Part II (Maps)</li>
+  <li>Project 6: Optional lesson on exploratory charting</li>
+  <li>Project 7: Optional scraping lesson</li>
+  <li>Open work and questions</li>
+
+</ul>
+
+<p>Before we start breaking things, let's get our workspace set up properly. Make a folder on your desktop called <code>cuny-tutorial</code>. In that folder, make a new file called <code>tutorials.R</code> in a text editor and save it to your project folder. Start by typing your working directory in your R text file and pasting it into the R console. (Cutting and pasting from static files is not the classiest way to do things, since there's an <a href="http://www.rstudio.com/ide/">R IDE</a> now, but this is how <a href="https://twitter.com/amandacox">the Godfather</a> does it, so it's good enough for us.)</p>
+
+
+<pre>
+  <code>
+    setwd("~/Desktop/cuny-tutorial")
+  </code>
+</pre>
+
+<p>Start typing things into the console and discuss what happens after each.</p>
+
+<pre>
+  <code>
+    "I should exercise more."
+
+    1+1
+
+    1==2
+
+    1:1000
+
+    animals <- c("bears","monkeys","donkeys")
+
+    animals[1]
+
+    class(animals)
+
+    class(1==2)
+
+    class(1:1000)
+
+  </code>
+</pre>
+
+<h5 class="example-class-questions">Questions/thoughts?</h5>
+
+<p>R isn't hard, but it can feel difficult because it's picky. The difference between a map or chart that works and one that's broken can sometimes just be a missing argument to a method (like <code>stringsAsFactors=F</code> or <code>horiz=T</code>), which can be frustrating. Rather than try to cover all of thes eexhaustively, we'll just start making some projects and learn as we go. With that, let's go to our first project, <a href="lessons/same-sex-marriage.html">visualizing Americans' attitudes about same-sex marriage.</a></p>
+
+
+
+
+

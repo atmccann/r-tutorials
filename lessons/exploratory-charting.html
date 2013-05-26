@@ -1,0 +1,42 @@
+<link rel="stylesheet" type="text/css" href="_assets/global-tutorial.css">
+
+<script src="_assets/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" type="text/css" href="_assets/magula.css">
+
+
+
+<h1>Exploratory charting</h1>
+
+
+<pre>
+  <code>
+    data<-read.csv("data/clean-madden-data.csv",stringsAsFactors=F)
+    lookup<-read.delim('data/teams_lookup.txt')
+    lookup<-lookup[ order(lookup$leadiv, lookup$localrank),]
+
+    head(games.by.date)
+
+    data$week<-as.Date(cut(as.POSIXct(data$date),as.POSIXct(allweeks) ))
+
+    fd<-as.Date('8/8/2010',"%m/%d/%Y")
+    ld<-as.Date('2/6/2011',"%m/%d/%Y")
+
+    allweeks<-seq(fd,ld,by=7)
+    data$week<-cut(data$date,allweeks)
+
+
+    weekagg<-aggregate(data$games, list(data$week,data$name),sum)
+    names(weekagg)<-c('week','name','totgames')
+
+
+
+
+
+
+  </code>
+</pre>
+
+
+
+<h5 class="example-class-questions">Questions about this exercise and/or data?</h5>
